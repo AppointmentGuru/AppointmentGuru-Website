@@ -1,0 +1,10 @@
+<div class="horizontal">
+    <div class="table">
+    	{% for screenshot in include.screenshots %}
+        <article>
+            <h3>{{screenshot.title}}</h3>
+            <img src='{{screenshot.screenshot}}' />
+        </article>
+        {% endfor %}
+    </div>
+</div>

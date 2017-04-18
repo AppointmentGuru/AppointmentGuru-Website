@@ -1,0 +1,29 @@
+homepage:
+  title: AppointmentGuru
+  headline: Automated zero-admin appointments
+  tagline: The best way to manage your appointments
+  primarycta: Get started
+
+  mainFeatureBlock:
+    image: assets/img/startup-2.jpg
+    titleSummary: Rich Information
+    title: Make informed decisions with historical & real time data.
+    description: We combine immediate real time events with rich historical data to help answer the toughest questions about retention, growth, and engagement.
+    features:
+      - title: Data frequency
+        description: We poll for data on a millisecond basis. You can react to new information in seconds rather than days.
+      - title: Reliability & uptime
+        description: We process our data across a massively distributed network of reliable servers to ensure 99.99% uptime, always
+
+  features:
+    - title: Some amazing feature
+      description: A whole bunch of test about said amazing feature
+
+  screenshots:
+    - title: Online bookings
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+    - title: Manage your own appointments
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+    - title: Track your progress
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+

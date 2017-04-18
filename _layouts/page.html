@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+    <title>
+
+        {{page.title}} &middot;
+
+    </title>
+
+
+      <link href="http://fonts.googleapis.com/css?family=Roboto:100,300,400,700" rel="stylesheet">
+      <link href="../assets/css/toolkit-minimal.css" rel="stylesheet">
+      <link href="../assets/css/application-minimal.css" rel="stylesheet">
+
+    <style>
+.featured-list li {
+    position: relative;
+    padding-left: 80px;
+    min-height: 100px;
+}
+.app-block-intro img {
+    width: 80%;
+    margin-bottom: 0px;
+}
+
+.navbar-default {
+    background-color: #ffffff;
+    border-color: transparent;
+    background-color: rgba(250,250,250,0.9);
+}
+
+body {
+  background-image: url(../assets/img/mastheads/{{page.id}}.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.app-block-intro {
+  background-color: transparent;
+}
+
+.block.block-first {
+  margin-top: 150px ;
+  padding: 10px 40px;
+}
+/*
+
+.app-block-intro {
+  background:
+    linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url(./assets/img/evoke-header.jpg);
+  background-size: cover;
+  background-position-y: -1100px;
+  height:750px;
+}*/
+</style>
+  </head>
+
+
+  <body>
+
+    <nav class="navbar navbar-default navbar-static-top navbar-padded text-uppercase app-navbar">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed p-x-0" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../">
+            <span>Evoke</span>
+          </a>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li >
+              <a href="/">Home</a>
+            </li>
+            <li class="active">
+              <a href="/about/">About</a>
+            </li>
+            <li >
+              <a href="/services/">Services</a>
+            </li>
+            <li >
+              <a href="/team/">Team</a>
+            </li>
+            <li >
+              <a href="/contact/">Contact</a>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+
+    <div class='container'>
+        <div class='block block-first' >
+        {{ content }}
+        </div>
+    </div>
+
+
+
+    <script src="./assets/js/jquery.min.js"></script>
+    <script src="./assets/js/toolkit.js"></script>
+    <script src="./assets/js/application.js"></script>
+  </body>
+</html>
+
