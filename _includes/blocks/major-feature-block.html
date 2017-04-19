@@ -1,4 +1,4 @@
-<div class="block block-secondary app-iphone-block">
+<div class="block-secondary major-feature-block">
   <div class="container">
     <div class="row app-align-center">
 
@@ -8,8 +8,8 @@
 
       <div class="col-sm-6 col-sm-offset-1">
         <h6 class="text-muted text-uppercase">{{include.data.titleSummary}}</h6>
-        <h3 class="m-t-0">{{include.data.title}}</h3>
-        <p class="lead m-b-md">{{include.data.description}}</p>
+        <h3 style='margin-bottom: 40px;' class="m-t-0">{{include.data.title}}</h3>
+        <!-- <p class="lead m-b-md">{{include.data.description}}</p> -->
         <div class="row hidden-sm">
           {% for feature in include.data.features %}
           <div class="col-sm-6 m-b-md">
@@ -20,7 +20,8 @@
         </div>
         <div class='row'>
           <div>
-        <button class='btn btn-lg btn-primary' >Get started for free</button>
+        <button class='btn btn-lg btn-success btn-block' >
+        {{site.data.website.homepage.primarycta}}</button>
       </div>
         </div>
       </div>

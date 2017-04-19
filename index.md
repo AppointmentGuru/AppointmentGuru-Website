@@ -7,8 +7,10 @@ permalink: //
 
 {% include blocks/major-feature-block.html data=site.data.website.homepage.mainFeatureBlock %}
 
+<div id='product'></div>
 <div class="block block-inverse block-secondary app-code-block">
-{% include blocks/feature-list.html %}
+{% include blocks/feature-list.html features=site.data.website.homepage.features %}
 </div>
 
-{% include blocks/horizontal-scroll.html screenshots=site.data.website.homepage.screenshots %}
+<div id='pricing'></div>
+{% include blocks/pricing.html features=site.data.website.homepage.pricingFeatures %}

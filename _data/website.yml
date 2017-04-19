@@ -2,22 +2,45 @@ homepage:
   title: AppointmentGuru
   headline: Automated zero-admin appointments
   tagline: The best way to manage your appointments
-  primarycta: Get started
+  primarycta: Get started for free
+  monthlyCost: R400
 
   mainFeatureBlock:
-    image: assets/img/startup-2.jpg
-    titleSummary: Rich Information
-    title: Make informed decisions with historical & real time data.
+    image: assets/img/guru/appointmentguru-app.png
+    titleSummary: Zero-admin appointments
+    title: The best way to manage your appointments.
     description: We combine immediate real time events with rich historical data to help answer the toughest questions about retention, growth, and engagement.
     features:
-      - title: Data frequency
-        description: We poll for data on a millisecond basis. You can react to new information in seconds rather than days.
-      - title: Reliability & uptime
-        description: We process our data across a massively distributed network of reliable servers to ensure 99.99% uptime, always
+      - title: For you
+        description: Take control of your appointment management. AppointmentGuru helps you do your admin better and spend less time doing it.
+      - title: For your clients
+        description: No-fuss online bookings 24-7.
 
   features:
-    - title: Some amazing feature
-      description: A whole bunch of test about said amazing feature
+    left:
+    - title: Take bookings online
+      description: With AppointmentGuru your clients can book online from your booking page, or via our mobile app
+      icon: check
+    - title: Manage your bookings on the go
+      description: With AppointmentGuru your clients can book online from your booking page, or via our mobile app
+      icon: calendar
+    right:
+    - title: Know your business
+      description: Get quality breakdown's of your business, search client histories and much more
+      icon: pie-chart
+    - title: Automated reminders and notifications
+      description: Automatically send customizable reminders and notifications to your clients
+      icon: mobile
+
+  pricingFeatures:
+    - Mobile app for managing your appointments
+    - Web app for managing your appointments
+    - A free website so that your clients can book online
+    - A free mobile app for your clients
+    - 5x free table talkers
+    - 100 free business cards
+    - 100 free flyers
+    - Customer support
 
   screenshots:
     - title: Online bookings
