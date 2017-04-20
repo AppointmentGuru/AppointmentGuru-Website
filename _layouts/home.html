@@ -35,8 +35,33 @@
           overflow: auto;
           min-height: 100vh;
           -webkit-overflow-scrolling: touch;
+          margin-top:60px;
+        }
+
+        .featured-list-bordered li {
+            position: relative;
+            padding-left: 0px;
+        }
+
+        .featured-list li {
+            position: relative;
+            padding-left: 0px;
+        }
+        .app-header {
+          background-color: #ff5a32;
+          padding: 30px 30px;
+          position: fixed;
+          top:0px;
+        }
+        .app-navbar {
+          position: fixed;
+          top:0px;
+          margin-top: -25px;
+          background: rgba(0,0,0,0)
         }
       }
+
+.btn { border-radius: 0px; }
 
 .horizontal {
     width: 100%;
@@ -78,6 +103,14 @@ h3.brand,
   border-bottom: solid 5px #ff5a32;
 }
 
+.border-brand-top {
+  border-top: solid 5px #ff5a32;
+}
+
+.border-brand-bottom {
+  border-bottom: solid 5px #ff5a32;
+}
+
 .pricing-block .price-block {
   text-align: center;
   background-color: rgba(0,0,0,0.6);
@@ -101,12 +134,8 @@ h3.brand,
   <div class="block app-header" >
     {% include nav.html %}
   </div>
-</div>
-
-
   {{ content }}
-
-
+</div>
 
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/toolkit.js"></script>

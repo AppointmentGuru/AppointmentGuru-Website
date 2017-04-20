@@ -1,0 +1,17 @@
+<div class="block {% if feature.background == 'dark' %}block-inverse{% endif %} block-secondary app-feature-block">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 {% if feature.picture == 'right' %}col-sm-push-7{% else %}{% endif %}">
+        <img style='width:100%' src='http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png' />
+      </div>
+      <div class="col-sm-6 {% if feature.picture == 'right' %}col-sm-pull-5{% else %}col-sm-push-2{% endif %}">
+        <h6 class="text-muted text-uppercase">{{include.feature.summary}}</h6>
+        <h3 class="m-t-0">{{include.feature.title}}</h3>
+        <p class="lead m-b-md">{{include.feature.description}}</p>
+        <!-- <button class="btn btn-default btn-lg btn-borderless">
+          Read our docs
+        </button> -->
+      </div>
+    </div>
+  </div>
+</div>

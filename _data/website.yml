@@ -4,6 +4,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R400
+  recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hair dressers, Dietitians ... <i>you</i>.
 
   mainFeatureBlock:
     image: assets/img/guru/appointmentguru-app.png
@@ -32,6 +33,16 @@ homepage:
       description: Automatically send customizable reminders and notifications to your clients, minimising missed appointments.
       icon: mobile
 
+  majorFeatures:
+    - summary: Get more bookings
+      title: Take bookings online
+      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
+    - summary: Run your practice like a pro
+      title: Manage your bookings on the go
+      description: Use our mobile app or web portal to manage your appointments, calendar, reminders and clients.
+      background: light
+      picture: right
+
   pricingFeatures:
     - A mobile app and web portal for managing your appointments
     - A free booking page (website) and mobile app to take online bookings
@@ -47,3 +58,34 @@ homepage:
       screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
     - title: Track your progress
       screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+
+footer:
+  about:
+    title: About
+    description: AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses to succeed by taking advantage of technology to empower them to do more with less.
+  col1:
+    title: Product
+    links:
+      - href: #
+        title: iOS app for practitioners
+      - href: #
+        title: Android app for practitioners
+      - href: #
+        title: Web app
+
+  col2:
+    title: Contact
+    links:
+      - href: #
+        title: Help
+      - href: #
+        title: Facebook
+      - href: "mailto:hello@appointmentguru.co"
+        title: hello@appointmentguru.co
+  col3:
+    title: Legal
+    links:
+    - href: #
+      title: Privacy
+    - href: #
+      title: Terms and conditions

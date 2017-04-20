@@ -1,0 +1,40 @@
+<div class="block block-inverse app-footer border-brand-top">
+ <div class="container">
+    <div class="row">
+      <div class="col-sm-5 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">{{include.footer.about.title}}</h6></li>
+          <li class="text-muted">
+           {{include.footer.about.description}}
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-sm-offset-1 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">{{include.footer.col1.title}}</h6></li>
+
+          {% for link in include.footer.col1.links %}
+          <li class="text-muted"><a href='{{link.href}}' >{{link.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">{{include.footer.col2.title}}</h6></li>
+          {% for link in include.footer.col2.links %}
+          <li class="text-muted"><a href='{{link.href}}' >{{link.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">{{include.footer.col3.title}}</h6></li>
+
+          {% for link in include.footer.col3.links %}
+          <li class="text-muted"><a href='{{link.href}}' >{{link.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
