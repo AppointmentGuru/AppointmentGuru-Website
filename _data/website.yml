@@ -11,36 +11,34 @@ homepage:
     title: The best way to manage your appointments.
     description: We combine immediate real time events with rich historical data to help answer the toughest questions about retention, growth, and engagement.
     features:
-      - title: For you
-        description: Take control of your appointment management. AppointmentGuru helps you do your admin better and spend less time doing it.
+      - title: For your business
+        description: Take <strong>control</strong> of your appointment management, <strong>organise</strong> your admin and free up <strong>more time</strong>.
       - title: For your clients
-        description: No-fuss online bookings 24-7.
+        description: <strong>Anytime</strong> online bookings, appointment <strong>reminders</strong> and <strong>information</strong> on your business.
 
   features:
     left:
     - title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your booking page, or via our mobile app
+      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
       icon: check
     - title: Manage your bookings on the go
-      description: With AppointmentGuru your clients can book online from your booking page, or via our mobile app
+      description: Use our mobile app or web portal to manage your appointments, calendar, reminders and clients.
       icon: calendar
     right:
     - title: Know your business
-      description: Get quality breakdown's of your business, search client histories and much more
+      description: View reporting on your appointments, schedule and payments; access client histories and much more.
       icon: pie-chart
     - title: Automated reminders and notifications
-      description: Automatically send customizable reminders and notifications to your clients
+      description: Automatically send customizable reminders and notifications to your clients, minimising missed appointments.
       icon: mobile
 
   pricingFeatures:
-    - Mobile app for managing your appointments
-    - Web app for managing your appointments
-    - A free website so that your clients can book online
-    - A free mobile app for your clients
-    - 5x free table talkers
-    - 100 free business cards
-    - 100 free flyers
-    - Customer support
+    - A mobile app and web portal for managing your appointments
+    - A free booking page (website) and mobile app to take online bookings
+    - Free SMS or email reminders for yourself and your clients
+    - Table talkers to encourage your clients to use AppointmentGuru to make appointments
+    - Access to logo design, business cards and flyers - all with your AppointmentGuru details
+    - Reliable customer support, keen to see you succeed
 
   screenshots:
     - title: Online bookings
@@ -49,4 +47,3 @@ homepage:
       screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
     - title: Track your progress
       screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
-
