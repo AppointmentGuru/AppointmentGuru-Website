@@ -4,7 +4,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R400
-  recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hair dressers, Dietitians ... <i>you</i>.
+  recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hairdressers, Dietitians ... <i>you</i>.
 
   mainFeatureBlock:
     image: assets/img/guru/appointmentguru-app.png
@@ -37,11 +37,16 @@ homepage:
     - summary: Get more bookings
       title: Take bookings online
       description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
+      picture: left
     - summary: Run your practice like a pro
       title: Manage your bookings on the go
       description: Use our mobile app or web portal to manage your appointments, calendar, reminders and clients.
-      background: light
       picture: right
+    - summary: Stay informed and up-to-date
+      title: Send reminders and notifications that you can customise
+      description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
+      picture: left
+      background: light
 
   pricingFeatures:
     - A mobile app and web portal for managing your appointments
@@ -62,7 +67,7 @@ homepage:
 footer:
   about:
     title: About
-    description: AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses to succeed by taking advantage of technology to empower them to do more with less.
+    description: AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses succeed by taking advantage of technology, empowering them to do more with less.
   col1:
     title: Product
     links:
