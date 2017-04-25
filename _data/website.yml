@@ -23,7 +23,7 @@ homepage:
       description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
       icon: check
     - title: Manage your bookings on the go
-      description: Use our mobile app or web portal to manage your appointments, calendar, reminders and clients.
+      description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
       icon: calendar
     right:
     - title: Know your business
@@ -39,12 +39,12 @@ homepage:
       description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
     - summary: Run your practice like a pro
       title: Manage your bookings on the go
-      description: Use our mobile app or web portal to manage your appointments, calendar, reminders and clients.
+      description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
       background: light
       picture: right
 
   pricingFeatures:
-    - A mobile app and web portal for managing your appointments
+    - A mobile app and web app for managing your appointments
     - A free booking page (website) and mobile app to take online bookings
     - Free SMS or email reminders for yourself and your clients
     - Table talkers to encourage your clients to use AppointmentGuru to make appointments
