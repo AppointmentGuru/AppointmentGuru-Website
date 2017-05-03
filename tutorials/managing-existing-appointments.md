@@ -1,3 +1,9 @@
+---
+layout: page
+title: Managing an existing appointment
+permalink: /tutorials/managing-existing-appointments/
+---
+
 ## Managing an existing appointment
 
 Occasionally (we hope) you'll need to cancel or reschedule an existing appointment. You can do this on the Calendar, Schedule or Clients pages - all three work in a similar way:

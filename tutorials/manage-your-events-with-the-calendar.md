@@ -1,3 +1,9 @@
+---
+layout: page
+title: Manage your appointments
+permalink: /tutorials/manage-your-events-with-the-calendar/
+---
+
 ## Manage your appointments
 
 Learn how to make and manage your appointments in the Practitioner Portal

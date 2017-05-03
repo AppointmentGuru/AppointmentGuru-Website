@@ -1,3 +1,9 @@
+---
+layout: page
+title: FAQs
+permalink: /tutorials/faqs/
+---
+
 ## Title
 
 Intro

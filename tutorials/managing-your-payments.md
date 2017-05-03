@@ -1,3 +1,9 @@
+---
+layout: page
+title: Managing your payments
+permalink: /tutorials/managing-your-payments/
+---
+
 ## Managing your payments
 
 We have big plans to help you manage the payment part of your business. Right now, this is what you can do in your AppointmentGuru account:

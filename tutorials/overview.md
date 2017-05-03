@@ -1,3 +1,9 @@
+---
+layout: page
+title: Overview of AppointmentGuru's apps and websites
+permalink: /tutorials/overview/
+---
+
 ## Overview of AppointmentGuru's apps and websites
 
 AppointmentGuru offers a few options for you to access your account and ways for your clients to book appointments with you. They are:

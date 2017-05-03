@@ -1,3 +1,9 @@
+---
+layout: page
+title: Introduce your Clients to AppointmentGuru
+permalink: /tutorials/introduce-your-clients/
+---
+
 ## Introduce your Clients to AppointmentGuru
 
 The easiest and quickest way for your Clients to book an appointment with you is through the AppointmentGuru App. The App is available in Apple iTunes and Google Play stores.

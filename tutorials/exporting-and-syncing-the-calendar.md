@@ -1,3 +1,9 @@
+---
+layout: page
+title: Exporting or syncing the calendar to your phone, Google or Outlook Calendars
+permalink: /tutorials/exporting-and-syncing-the-calendar/
+---
+
 ## Exporting or syncing the calendar to your phone, Google or Outlook Calendars
 
 ### Finding the Calendar feed URL

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Add your Clients
+permalink: /tutorials/add-your-clients/
+---
+
 ## Add your Clients
 
 Adding Client details into your AppointmentGuru Account lets you quickly and easily schedule appointments with them. Soon, you'll be able to add more information to their profiles and also manage their payment information.

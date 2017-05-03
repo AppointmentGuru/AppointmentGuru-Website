@@ -1,3 +1,9 @@
+---
+layout: page
+title: Specify your services, locations and operating hours
+permalink: /tutorials/specify-services-locations-hours/
+---
+
 ## Specify your services, locations and operating hours
 
 AppointmentGuru offers you the ability to specify different types of locations, services, hours and rates that your Clients can choose from. These settings are located in the [web app](http://portal.appointmentguru.co/#/settings). Here's how it works:
