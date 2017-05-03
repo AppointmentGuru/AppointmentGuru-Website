@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+    <title>
+        
+    </title>
+
+
+      <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
+      <link href="/assets/css/toolkit-startup.css" rel="stylesheet">
+      <link href="/assets/css/application-startup.css" rel="stylesheet">
+
+
+    <style>
+      /* note: this is a hack for ios iframe for bootstrap themes shopify page */
+      /* this chunk of css is not part of the toolkit :) */
+      /* …curses ios, etc… */
+      @media (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+        body {
+          width: 1px;
+          min-width: 100%;
+          *width: 100%;
+        }
+        #stage {
+          height: 1px;
+          overflow: auto;
+          min-height: 100vh;
+          -webkit-overflow-scrolling: touch;
+          margin-top:60px;
+        }
+
+        .featured-list-bordered li {
+            position: relative;
+            padding-left: 0px;
+        }
+
+        .featured-list li {
+            position: relative;
+            padding-left: 0px;
+        }
+        .app-header {
+          background-color: #ff5a32;
+          padding: 30px 30px;
+          position: fixed;
+          top:0px;
+        }
+        .app-navbar {
+          position: fixed;
+          top:0px;
+          margin-top: -25px;
+          background: rgba(0,0,0,0)
+        }
+      }
+
+.btn { border-radius: 0px; }
+
+.horizontal {
+    width: 100%;
+    height: 400px;
+    overflow-y: none;
+    overflow-x: auto;
+}
+
+.table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+article {
+    width: 400px;
+    height: 600px;
+    display: table-cell;
+    background-image: url(http://cdn.pcwallart.com/images/black-wood-texture-wallpaper-wallpaper-2.jpg);
+    color: #f1f1f1;
+    vertical-align: middle;
+    text-align: center;
+    padding:0px 40px;
+}
+
+article h3 {
+  color: #f1f1f1;height:80px;
+}
+
+article img {
+  width:100%;
+}
+h3.brand,
+.brand {
+  color: #ff5a32;
+}
+
+.major-feature-block {
+  border-bottom: solid 5px #ff5a32;
+}
+
+.border-brand-top {
+  border-top: solid 5px #ff5a32;
+}
+
+.border-brand-bottom {
+  border-bottom: solid 5px #ff5a32;
+}
+
+.pricing-block .price-block {
+  text-align: center;
+  background-color: rgba(0,0,0,0.6);
+  padding: 40px;
+  margin:0px 40px;
+  color: #f1f1f1;
+  font-size: x-large;
+}
+
+.navbar-nav > li > a { color: #323c46 !important; }
+.container {
+  max-width: 1200;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+    </style>
+    <link href=https://appointmentguru.github.io/OnboardGuru/static/css/app.bf20fae085993d8f25918185be1c64b5.css rel=stylesheet>
+  </head>
+
+
+<body>
+
+<div class="stage-shelf stage-shelf-right hidden" id="sidebar">
+  <ul class="nav nav-bordered nav-stacked">
+    <li class="nav-header">AppointmentGuru</li>
+    <li >
+      <a href="/">Home</a>
+    </li>
+    <li >
+      <a href="/about.html">About</a>
+    </li>
+    <li >
+      <a href="product.html">Product</a>
+    </li>
+    <li >
+      <a href="pricing.html">Pricing</a>
+    </li>
+  </ul>
+</div>
+
+
+<div class="stage" id="stage">
+  <div class="block app-header" >
+    <nav class="navbar navbar-transparent navbar-fixed-top navbar-padded app-navbar p-t-md">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed p-x-0"
+              data-target="#stage" data-toggle="stage" data-distance="-250">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a style='margin-top:-20px;' href="/">
+        <img class='hidden-xs' style='margin-top:-20px;' src='/assets/img/guru/appointment-logo.png' alt='AppointmentGuru' />
+      </a>
+    </div>
+    <div class="navbar-collapse collapse text-uppercase">
+      <ul class="nav navbar-nav navbar-right">
+        <li >
+          <a href="#product">Features</a>
+        </li>
+        <li >
+          <a href="#pricing">Pricing</a>
+        </li>
+        <li >
+          <a href='http://portal.appointmentguru.co'
+            title='AppointmentGuru MyPractice'
+            class='btn btn-success' >Login</a>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+  </div>
+  <div class='container' ><h2 id="faqs">FAQ’s</h2>
+
+<h3 id="theres-letters-b-n-p-pr-c-next-to-the-appointments-ive-made-with-my-clients-what-do-they-mean">There’s letters B, N, P, PR, C next to the appointments I’ve made with my clients. What do they mean?</h3>
+
+<p>Good question! We’re going to make that clearer but in the meantime, here’s the explanation:</p>
+<ul>
+  <li>B: Blocked - you’ve made a custom event to block off time in your calendar</li>
+  <li>N: New - brand new appointment has been made</li>
+  <li>P: Paid - you’ve marked the appointment as paid</li>
+  <li>PR: Payment Requested - a payment reminder has been sent to your client</li>
+</ul>
+
+<h3 id="how-much-does-appointmentguru-cost">How much does AppointmentGuru cost?</h3>
+
+<p>We’re still in beta, so we’re still free!</p>
+
+<h3 id="how-do-i-give-you-feedback-and-let-you-know-what-cool-things-i-think-appointmentguru-should-do">How do I give you feedback and let you know what cool things I think AppointmentGuru should do?</h3>
+
+<p>We’d love to hear from you, either through our <a href="">feedback forum</a>http://feedback.userreport.com/811d3391-3435-426d-ad5e-5c0a27987ce9/#ideas/popular, via <a href="hello@appointmentguru.co">email</a> or on our <a href="https://www.facebook.com/appointmentguru/">Facebook page</a>.</p>
+
+<h3 id="related-articles">Related articles</h3>
+
+<ul>
+  <li><a href="overview">Overview of AppointmentGuru’s apps and websites</a></li>
+  <li><a href="manage-communications">Manage the communications that AppointmentGuru sends on your behalf</a></li>
+  <li><a href="add-your-clients">Add your Clients</a></li>
+</ul>
+</div>
+
+  <div class="block block-inverse app-footer border-brand-top">
+ <div class="container">
+    <div class="row">
+      <div class="col-sm-5 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase"></h6></li>
+          <li class="text-muted">
+           
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-sm-offset-1 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase"></h6></li>
+
+          
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase"></h6></li>
+          
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase"></h6></li>
+
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+    <div
+      class="modal fade get-started-modal"
+      tabindex="-1" role="dialog"
+      aria-labelledby="Get started" >
+
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div id="appointmentguruonboarder">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/manifest.73890961feb1c5a77891.js">
+    </script>
+    <script
+      type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/vendor.ad2b9b1e5331d1568f22.js">
+    </script>
+    <script type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/app.ab9a77080a0ad7a65fc0.js">
+    </script>
+
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/toolkit.js"></script>
+    <script src="/assets/js/application.js"></script>
+  </body>
+</html>
+
+
+

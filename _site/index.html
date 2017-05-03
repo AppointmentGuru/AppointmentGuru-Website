@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+    <title>
+        
+    </title>
+
+
+      <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
+      <link href="/assets/css/toolkit-startup.css" rel="stylesheet">
+      <link href="/assets/css/application-startup.css" rel="stylesheet">
+
+
+    <style>
+      /* note: this is a hack for ios iframe for bootstrap themes shopify page */
+      /* this chunk of css is not part of the toolkit :) */
+      /* …curses ios, etc… */
+      @media (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+        body {
+          width: 1px;
+          min-width: 100%;
+          *width: 100%;
+        }
+        #stage {
+          height: 1px;
+          overflow: auto;
+          min-height: 100vh;
+          -webkit-overflow-scrolling: touch;
+          margin-top:60px;
+        }
+
+        .featured-list-bordered li {
+            position: relative;
+            padding-left: 0px;
+        }
+
+        .featured-list li {
+            position: relative;
+            padding-left: 0px;
+        }
+        .app-header {
+          background-color: #ff5a32;
+          padding: 30px 30px;
+          position: fixed;
+          top:0px;
+        }
+        .app-navbar {
+          position: fixed;
+          top:0px;
+          margin-top: -25px;
+          background: rgba(0,0,0,0)
+        }
+      }
+
+.btn { border-radius: 0px; }
+
+.horizontal {
+    width: 100%;
+    height: 400px;
+    overflow-y: none;
+    overflow-x: auto;
+}
+
+.table {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+article {
+    width: 400px;
+    height: 600px;
+    display: table-cell;
+    background-image: url(http://cdn.pcwallart.com/images/black-wood-texture-wallpaper-wallpaper-2.jpg);
+    color: #f1f1f1;
+    vertical-align: middle;
+    text-align: center;
+    padding:0px 40px;
+}
+
+article h3 {
+  color: #f1f1f1;height:80px;
+}
+
+article img {
+  width:100%;
+}
+h3.brand,
+.brand {
+  color: #ff5a32;
+}
+
+.major-feature-block {
+  border-bottom: solid 5px #ff5a32;
+}
+
+.border-brand-top {
+  border-top: solid 5px #ff5a32;
+}
+
+.border-brand-bottom {
+  border-bottom: solid 5px #ff5a32;
+}
+
+.pricing-block .price-block {
+  text-align: center;
+  background-color: rgba(0,0,0,0.6);
+  padding: 40px;
+  margin:0px 40px;
+  color: #f1f1f1;
+  font-size: x-large;
+}
+
+.navbar-nav > li > a { color: #323c46 !important; }
+
+    </style>
+    <link href=https://appointmentguru.github.io/OnboardGuru/static/css/app.bf20fae085993d8f25918185be1c64b5.css rel=stylesheet>
+  </head>
+
+
+<body>
+
+<div class="stage-shelf stage-shelf-right hidden" id="sidebar">
+  <ul class="nav nav-bordered nav-stacked">
+    <li class="nav-header">AppointmentGuru</li>
+    <li >
+      <a href="/">Home</a>
+    </li>
+    <li >
+      <a href="/about.html">About</a>
+    </li>
+    <li >
+      <a href="product.html">Product</a>
+    </li>
+    <li >
+      <a href="pricing.html">Pricing</a>
+    </li>
+  </ul>
+</div>
+
+
+<div class="stage" id="stage">
+  <div class="block app-header" >
+    <nav class="navbar navbar-transparent navbar-fixed-top navbar-padded app-navbar p-t-md">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed p-x-0"
+              data-target="#stage" data-toggle="stage" data-distance="-250">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a style='margin-top:-20px;' href="/">
+        <img class='hidden-xs' style='margin-top:-20px;' src='/assets/img/guru/appointment-logo.png' alt='AppointmentGuru' />
+      </a>
+    </div>
+    <div class="navbar-collapse collapse text-uppercase">
+      <ul class="nav navbar-nav navbar-right">
+        <li >
+          <a href="#product">Features</a>
+        </li>
+        <li >
+          <a href="#pricing">Pricing</a>
+        </li>
+        <li >
+          <a href='http://portal.appointmentguru.co'
+            title='AppointmentGuru MyPractice'
+            class='btn btn-success' >Login</a>
+        </li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+  </div>
+  <div class="block-secondary major-feature-block">
+  <div class="container">
+    <div class="row app-align-center">
+
+      <div class="col-sm-5 col-xs-12 hidden-xs">
+        <img class="app-iphone" src="assets/img/guru/appointmentguru-app.png" style="width: 100%;" />
+      </div>
+
+      <div class="col-sm-6 col-sm-offset-1">
+        <h6 class="text-muted text-uppercase">Zero-admin appointments</h6>
+        <h3 style="margin-bottom: 40px;font-size:40px;" class="m-t-0">The best way to manage your appointments.</h3>
+        <!-- <p class="lead m-b-md">We combine immediate real time events with rich historical data to help answer the toughest questions about retention, growth, and engagement.</p> -->
+        <div class="row hidden-sm" style="font-size: larger;">
+          
+          <div class="col-sm-6 m-b-md">
+            <h5 class="m-y-0" style="font-size: 20px; margin-bottom: 20px !important;">For your business</h5>
+            <p>Take <strong>control</strong> of your appointment management, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+            <a href="#" class="text-primary">Learn more.</a></p>
+          </div>
+          
+          <div class="col-sm-6 m-b-md">
+            <h5 class="m-y-0" style="font-size: 20px; margin-bottom: 20px !important;">For your clients</h5>
+            <p><strong>Anytime</strong> online bookings, appointment <strong>reminders</strong> and <strong>information</strong> on your business.
+            <a href="#" class="text-primary">Learn more.</a></p>
+          </div>
+          
+        </div>
+        <div class="row">
+          <div class="text-center">
+            <button data-toggle="modal" data-target=".get-started-modal" class="btn btn-lg btn-success" style="font-size:25px;">
+            Get started for free</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<div id="features" class="block block-inverse block-secondary app-code-block">
+  <div class="container">
+    <div class="row app-align-center">
+      <h3>AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hairdressers, Dietitians ... <i>you</i>.
+    </h3></div>
+  </div>
+</div>
+
+<div class="block  block-secondary app-feature-block">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 ">
+        <img style="width:100%" src="http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png" />
+      </div>
+      <div class="col-sm-6 col-sm-push-2">
+        <h6 class="text-muted text-uppercase">Get more bookings</h6>
+        <h3 class="m-t-0">Take bookings online</h3>
+        <p class="lead m-b-md">With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.</p>
+        <!-- <button class="btn btn-default btn-lg btn-borderless">
+          Read our docs
+        </button> -->
+      </div>
+    </div>
+  </div>
+</div>
+<hr />
+
+<div class="block  block-secondary app-feature-block">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 col-sm-push-7">
+        <img style="width:100%" src="http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png" />
+      </div>
+      <div class="col-sm-6 col-sm-pull-5">
+        <h6 class="text-muted text-uppercase">Run your practice like a pro</h6>
+        <h3 class="m-t-0">Manage your bookings on the go</h3>
+        <p class="lead m-b-md">Use our mobile app or web app to manage your appointments, calendar, reminders and clients.</p>
+        <!-- <button class="btn btn-default btn-lg btn-borderless">
+          Read our docs
+        </button> -->
+      </div>
+    </div>
+  </div>
+</div>
+<hr />
+
+<div class="block  block-secondary app-feature-block">
+  <div class="container">
+    <div class="row app-align-center">
+      <div class="col-sm-5 ">
+        <img style="width:100%" src="http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png" />
+      </div>
+      <div class="col-sm-6 col-sm-push-2">
+        <h6 class="text-muted text-uppercase">Stay informed and up-to-date</h6>
+        <h3 class="m-t-0">Send reminders and notifications that you can customise</h3>
+        <p class="lead m-b-md">Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.</p>
+        <!-- <button class="btn btn-default btn-lg btn-borderless">
+          Read our docs
+        </button> -->
+      </div>
+    </div>
+  </div>
+</div>
+<hr />
+
+<div id="pricing"></div>
+<div class="block">
+<div class="row m-b-lg">
+  <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
+    <h6 class="text-muted text-uppercase">Go Pro</h6>
+    <h3 class="m-t-0">We offer a single, simple plan.</h3>
+  </div>
+</div>
+<div class="pricing-block">
+	<div class="col-sm-6">
+		<div class="price-block">
+			<h6 class="text-muted text-uppercase">AppointmentGuru</h6>
+			<div class="statcard">
+			  <h3 class="statcard-number brand">R400</h3>
+			  <span class="statcard-desc">per month</span>
+			</div>
+			<div class="m-t-10 text-center" style="margin-top:20px;">
+				<button data-toggle="modal" data-target=".get-started-modal" class="btn btn-success">
+					Get started for free</button>
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-6">
+		<h6 class="text-uppercase m-b brand">What you get</h6>
+		<ul class="iconlist">
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    A mobile app and web app for managing your appointments
+		  </li>
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    A free booking page (website) and mobile app to take online bookings
+		  </li>
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    Free SMS or email reminders for yourself and your clients
+		  </li>
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    Table talkers to encourage your clients to use AppointmentGuru to make appointments
+		  </li>
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    Access to logo design, business cards and flyers - all with your AppointmentGuru details
+		  </li>
+		  
+		  <li>
+		    <span class="icon icon-check"></span>
+		    Reliable customer support, keen to see you succeed
+		  </li>
+		  
+		</ul>
+	</div>
+</div>
+
+</div>
+
+<div class="clearfix" style="margin-bottom: 80px;"></div>
+
+<div class="block block-inverse app-footer border-brand-top">
+ <div class="container">
+    <div class="row">
+      <div class="col-sm-5 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">About</h6></li>
+          <li class="text-muted">
+           AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses succeed by taking advantage of technology, empowering them to do more with less.
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-2 col-sm-offset-1 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">Product</h6></li>
+
+          
+          <li class="text-muted"><a href="">iOS app for practitioners</a></li>
+          
+          <li class="text-muted"><a href="">Android app for practitioners</a></li>
+          
+          <li class="text-muted"><a href="">Web app</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">Contact</h6></li>
+          
+          <li class="text-muted"><a href="">Help</a></li>
+          
+          <li class="text-muted"><a href="">Facebook</a></li>
+          
+          <li class="text-muted"><a href="mailto:hello@appointmentguru.co">hello@appointmentguru.co</a></li>
+          
+        </ul>
+      </div>
+      <div class="col-sm-2 m-b-md">
+        <ul class="list-unstyled list-spaced">
+          <li class="m-b"><h6 class="text-uppercase">Legal</h6></li>
+
+          
+          <li class="text-muted"><a href="">Privacy</a></li>
+          
+          <li class="text-muted"><a href="">Terms and conditions</a></li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+    <div
+      class="modal fade get-started-modal"
+      tabindex="-1" role="dialog"
+      aria-labelledby="Get started" >
+
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div id="appointmentguruonboarder">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/manifest.73890961feb1c5a77891.js">
+    </script>
+    <script
+      type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/vendor.ad2b9b1e5331d1568f22.js">
+    </script>
+    <script type="text/javascript"
+      src="https://appointmentguru.github.io/OnboardGuru/static/js/app.ab9a77080a0ad7a65fc0.js">
+    </script>
+
+
+    <script src="/assets/js/jquery.min.js"></script>
+    <script src="/assets/js/toolkit.js"></script>
+    <script src="/assets/js/application.js"></script>
+  </body>
+</html>
+
+
+
