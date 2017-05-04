@@ -1,3 +1,9 @@
+---
+layout: page
+title: Customise your booking page
+permalink: /tutorials/customise-your-booking-page/
+---
+
 ## Customise your booking page
 
 Your clients can book appointments with you via your booking page or use the AppointmentGuru app. Both options are free and the booking page can be customised to match your business and brand.

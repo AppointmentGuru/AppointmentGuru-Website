@@ -1,3 +1,9 @@
+---
+layout: page
+title: Use your signature to let your Clients know about AppointmentGuru
+permalink: /tutorials/updating-your-signature/
+---
+
 ## Use your signature to let your Clients know about AppointmentGuru
 
 The signature space on emails is a useful place to let your Clients know that they can book appointments with you. You can write your own signature or use a signature generator ([Hubspot](https://www.hubspot.com/email-signature-generator) offer one for free):

@@ -1,6 +1,12 @@
+---
+layout: page
+title: Block out time so that your clients can't book when you're busy doing other stuff
+permalink: /tutorials/block-time/
+---
+
 ## Block out time so that clients can't book when you're busy doing other stuff
 
-There will be blocks of time where you won't want your Clients to be able to book appointments. There are two ways to get this done: 
+There will be blocks of time where you won't want your Clients to be able to book appointments. There are two ways to get this done:
 
 ### Once-off blocking
 

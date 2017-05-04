@@ -1,3 +1,9 @@
+---
+layout: page
+title: Manage the commmunications that AppointmentGuru sends on your behalf
+permalink: /tutorials/manage-communications/
+---
+
 ## Manage the communications that AppointmentGuru sends on your behalf
 
 AppointmentGuru will automatically send email and SMS *(in-app notifications coming soon)* notifications to you and your Clients. Messages are setup by default, and you can customise them to include pertinent information. There are six notifications available:
@@ -5,7 +11,7 @@ AppointmentGuru will automatically send email and SMS *(in-app notifications com
 1. **Payment reminder**: to remind your Client to pay their invoice, this can be sent by email or SMS
 2. **Cancellation notification**: an automatic email or SMS confirming a cancellation
 3. **Appointment reschedule notification**: if an existing appointment is changed, then a notification is sent by email or SMS
-4. **Appointment reminder**: a reminder notification is sent the day before the scheduled appointment 
+4. **Appointment reminder**: a reminder notification is sent the day before the scheduled appointment
 5. **New appointment notification**: the notification sent to you when a new appointment is created by a Client
 6. **Appointment confirmation message**: the email or SMS notification that is sent to the Client when they create an appointment
 
