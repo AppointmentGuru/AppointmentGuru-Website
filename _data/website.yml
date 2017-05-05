@@ -38,15 +38,18 @@ homepage:
       title: Take bookings online
       description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
       picture: left
+      picture_url: http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png
     - summary: Run your practice like a pro
       title: Manage your bookings on the go
       description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
       picture: right
+      picture_url: http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
       description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
-      picture: left
       background: light
+      picture: left
+      picture_url: http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png
 
   pricingFeatures:
     - A mobile app and web app for managing your appointments

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row app-align-center">
       <div class="col-sm-5 {% if feature.picture == 'right' %}col-sm-push-7{% else %}{% endif %}">
-        <img style='width:100%' src='http://mailplaneapp.com/assets/images/tour_gmail_calendar_contacts@2x.png' />
+        <img style='width:100%' src='{{include.feature.picture_url}}' />
       </div>
       <div class="col-sm-6 {% if feature.picture == 'right' %}col-sm-pull-5{% else %}col-sm-push-2{% endif %}">
         <h6 class="text-muted text-uppercase">{{include.feature.summary}}</h6>
