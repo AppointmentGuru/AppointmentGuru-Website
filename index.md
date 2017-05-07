@@ -3,6 +3,7 @@ id: index
 layout: home
 title: AppointmentGuru. The best way to manage your appointments
 permalink: //
+canonical: 'https://appointmentguru.co'
 ---
 
 {% include blocks/major-feature-block.html data=site.data.website.homepage.mainFeatureBlock %}

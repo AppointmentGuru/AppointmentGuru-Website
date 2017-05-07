@@ -8,6 +8,9 @@
     <meta name="keywords" content="">
     <meta name="author" content="">
 
+    {% if page.canonical %}
+    <link rel="canonical" href="{{page.canonical}}" >
+    {% endif %}
     <title>
         {{data.site.website.homepage.title}}
     </title>
@@ -78,7 +81,7 @@ article {
     width: 400px;
     height: 600px;
     display: table-cell;
-    background-image: url(http://cdn.pcwallart.com/images/black-wood-texture-wallpaper-wallpaper-2.jpg);
+    background-image: url(https://cdn.pcwallart.com/images/black-wood-texture-wallpaper-wallpaper-2.jpg);
     color: #f1f1f1;
     vertical-align: middle;
     text-align: center;
