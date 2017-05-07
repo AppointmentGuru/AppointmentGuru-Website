@@ -49,7 +49,7 @@ homepage:
       description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
       background: light
       picture: left
-      picture_url: assets/images/tour_gmail_calendar_contacts@2x.png
+      picture_url: assets/img/tour_gmail_calendar_contacts@2x.png
 
   pricingFeatures:
     - A mobile app and web app for managing your appointments
