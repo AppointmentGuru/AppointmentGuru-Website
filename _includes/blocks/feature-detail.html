@@ -1,8 +1,8 @@
 <div class="block {% if feature.background == 'dark' %}block-inverse{% endif %} block-secondary app-feature-block">
   <div class="container">
     <div class="row app-align-center">
-      <div class="col-sm-5 text-center {% if feature.picture == 'right' %}col-sm-push-7{% else %}{% endif %}">
-        <img src='{{include.feature.picture_url}}' />
+      <div class="col-sm-5 col-xs-12 text-center {% if feature.picture == 'right' %}col-sm-push-7{% else %}{% endif %}">
+        <img src='{{include.feature.picture_url}}' class="img-responsive" />
       </div>
       <div class="col-sm-6 {% if feature.picture == 'right' %}col-sm-pull-5{% else %}col-sm-push-2{% endif %}">
         <h6 class="text-muted text-uppercase">{{include.feature.summary}}</h6>
