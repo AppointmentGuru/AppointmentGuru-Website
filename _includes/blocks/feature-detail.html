@@ -1,10 +1,12 @@
 <div class="block {% if feature.background == 'dark' %}block-inverse{% endif %} block-secondary app-feature-block">
   <div class="container">
     <div class="row app-align-center">
-      <div class="col-sm-5 {% if feature.picture == 'right' %}col-sm-push-7{% else %}{% endif %}">
-        <img style='width:100%' src='{{include.feature.picture_url}}' />
+      <div class="col-sm-7 col-xs-12 text-center {% if feature.picture == 'right' %}col-sm-push-6{% else %}{% endif %}">
+        <center>
+          <img src='{{include.feature.picture_url}}' class="img-responsive" />
+        </center>
       </div>
-      <div class="col-sm-6 {% if feature.picture == 'right' %}col-sm-pull-5{% else %}col-sm-push-2{% endif %}">
+      <div class="col-sm-6 col-xs-12 {% if feature.picture == 'right' %}col-sm-pull-6{% else %}col-sm-push-1{% endif %}">
         <h6 class="text-muted text-uppercase">{{include.feature.summary}}</h6>
         <h3 class="m-t-0">{{include.feature.title}}</h3>
         <p class="lead m-b-md">{{include.feature.description}}</p>

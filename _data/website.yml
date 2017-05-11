@@ -1,3 +1,4 @@
+gaTrackingCode: UA-93898571-1
 homepage:
   title: AppointmentGuru
   headline: Automated zero-admin appointments
@@ -5,6 +6,13 @@ homepage:
   primarycta: Get started for free
   monthlyCost: R400
   recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hairdressers, Dietitians ... <i>you</i>.
+  signup:
+    css:
+      - app.5a9ca873380a3ab1330d2de5e2e1781c.css
+    js:
+      - manifest.38a5de2868f7b0860f9e.js
+      - vendor.f49f1c1dcc931d6ba6e3.js
+      - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
     image: assets/img/guru/appointmentguru-app.png
@@ -49,7 +57,7 @@ homepage:
       description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
       background: light
       picture: left
-      picture_url: assets/img/tour_gmail_calendar_contacts@2x.png
+      picture_url: assets/img/guru/notifications.png
 
   pricingFeatures:
     - A mobile app and web app for managing your appointments
@@ -74,26 +82,26 @@ footer:
   col1:
     title: Product
     links:
-      - href: #
-        title: iOS app for practitioners
-      - href: #
+      # - href: #
+      #   title: iOS app for practitioners
+      - href: https://play.google.com/store/apps/details?id=za.co.AppointmentGuru.practitioner
         title: Android app for practitioners
-      - href: #
+      - href: http://portal.appointmentguru.co
         title: Web app
 
   col2:
     title: Contact
     links:
-      - href: #
-        title: Help
-      - href: #
+      # - href: #
+      #   title: Help
+      - href: https://www.facebook.com/appointmentguru/
         title: Facebook
       - href: "mailto:hello@appointmentguru.co"
         title: hello@appointmentguru.co
   col3:
     title: Legal
     links:
-    - href: #
+    - href: /privacy/
       title: Privacy
-    - href: #
+    - href: /terms/
       title: Terms and conditions
