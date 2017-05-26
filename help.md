@@ -12,7 +12,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ### Get Started
 
-* [How do I login](articles/how-do-I-login)?
+* [How do I login](/articles/how-do-I-login)?
 * How do I get help from AppointmentGuru?
 
 ### Your account settings
