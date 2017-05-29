@@ -2,15 +2,15 @@
 layout: page
 title: Help
 permalink: /help/
-description:
-keywords:
+description: Find all the help you need to use AppointmentGuru.
+keywords: support, help, information, customer service
 ---
 
-## AppointmentGuru Help
+# AppointmentGuru Help
 
 Need help using AppointmentGuru? Here you'll find all the info you need, if not let us know!
 
-### Get Started
+## Get Started
 
 * [How do I login?](/help/how-do-I-login)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
@@ -20,7 +20,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Where do I add my clients?](add-clients)
 * [How do I add an appointment?](add-an-appointment)
 
-### Your account settings
+## Your account settings
 
 * [How do I reset my password?](reset-password)
 * [Where do I add my physical address?](add-address)
@@ -31,7 +31,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
 
-### Notifications
+## Notifications
 
 * [I need to add information to the appointment reminder notification sent to my clients](edit-notifications)
 * [Are notifications sent to my clients automatically?](how-are-notifications-sent)
@@ -40,19 +40,19 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Where do I see what notifications have been sent to a client?](notification-log)
 * [I want to send an automatic payment reminder to clients who haven't paid](automatic-payment-reminder)
 
-### Your booking page
+## Your booking page
 
 * [Can I change the background on my booking page?](change-background)
 * [What's the address of my booking page?](address-of-booking-page)
 * [Can I use my own domain name with my booking page?](use-domain-name)
 
-### Adding and managing clients
+## Adding and managing clients
 
 * [Where do I add my clients?](add-clients)
 * [Is there a mobile app my clients can use?](is-there-a-mobile-app)
 * [My client's contact information has changed, how do I update it?](update-clients-info)
 
-### Adding and managing appointments
+## Adding and managing appointments
 
 * [Can I make appointments repeat for repeating customers?](make-appointments-repeat)
 * [How do I add an appointment?](add-an-appointment)
@@ -65,17 +65,17 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [I need to reschedule an appointment](reschedule-appointment)
 * [I want to block off time so that clients can't make bookings](block-off-time)
 
-### Calendar and schedule
+## Calendar and schedule
 
 * [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone)
 * [Can the calendar sync to my Outlook or Calendar app?](sync-calendar-to-app)
 
-### Invoicing your clients
+## Invoicing your clients
 
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
-### Known issues
+## Known issues
 
 * Editing appointments
