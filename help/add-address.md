@@ -2,22 +2,22 @@
 layout: page
 title: Where do I add my physical address?
 permalink: /help/add-address/
-description:
-keywords:
+description: Adding your physical address to your account settings
+keywords: location, physical address, office, practice
 ---
 
-## Title
+# Title
 
 Intro
 
-### Heading
+## Heading
 
 1.
 2.
 
 ![Navigation](images/foldername/file.png)
 
-### Heading
+## Heading
 
 **Sub-heading:**
 

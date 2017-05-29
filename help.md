@@ -12,10 +12,11 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Get Started
 
+* [How does AppointmentGuru work?](how-does-appointmentguru-work)
 * [How do I login?](/help/how-do-I-login)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
+* [How do I add the appointment types that I offer?](add-appointment-types)
 * [Where do I add my physical address?](add-address)
-* [How do I add the products or services that I offer?](add-services)
 * [I want to update my operating hours](update-operating-hours)
 * [Where do I add my clients?](add-clients)
 * [How do I add an appointment?](add-an-appointment)
@@ -42,6 +43,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Your booking page
 
+* [What is the booking page?](booking-page)
 * [Can I change the background on my booking page?](change-background)
 * [What's the address of my booking page?](address-of-booking-page)
 * [Can I use my own domain name with my booking page?](use-domain-name)

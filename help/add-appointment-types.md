@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How do I add the products or services that I offer?
-permalink: /help/add-services/
+title: How do I add the appointment types that I offer?
+permalink: /help/add-appointment-types/
 description:
 keywords:
 ---
