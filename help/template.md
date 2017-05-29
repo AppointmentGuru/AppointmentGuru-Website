@@ -1,7 +1,9 @@
 ---
 layout: page
-title: FAQs
-permalink: /help/articles/
+title: xxx
+permalink: /help/xxx/
+description:
+keywords:
 ---
 
 ## Title
