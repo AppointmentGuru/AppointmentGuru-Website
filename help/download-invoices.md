@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How do I get help from AppointmentGuru?
-permalink: /help/how-do-I-get-help/
+title: Can I download invoices for the month?
+permalink: /help/download-invoices/
 description:
 keywords:
 ---

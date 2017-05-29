@@ -67,7 +67,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ### Invoicing your clients
 
-* [Can I print out invoices for the month?](print-invoices)
+* [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
