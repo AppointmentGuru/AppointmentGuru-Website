@@ -14,6 +14,11 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [How do I login?](/help/how-do-I-login)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
+* [Where do I add my physical address?](add-address)
+* [How do I add the products or services that I offer?](add-services)
+* [I want to update my operating hours](update-operating-hours)
+* [Where do I add my clients?](add-clients)
+* [How do I add an appointment?](add-an-appointment)
 
 ### Your account settings
 

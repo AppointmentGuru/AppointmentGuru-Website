@@ -6,9 +6,9 @@ description:
 keywords:
 ---
 
-## Title
+## How do I login?
 
-Intro
+There is more than one way to access your AppointmentGuru account.
 
 ### Heading
 
