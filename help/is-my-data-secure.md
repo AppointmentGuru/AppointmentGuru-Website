@@ -2,30 +2,16 @@
 layout: page
 title: Is my information and data secure?
 permalink: /help/is-my-data-secure/
-description:
-keywords:
+description: Information and data security
+keywords: security, peace of mind
 ---
 
-## Title
+# Is my information and data secure?
 
-Intro
-
-### Heading
-
-1.
-2.
-
-![Navigation](images/foldername/file.png)
-
-### Heading
-
-**Sub-heading:**
-
-*
-*
-
-Text.
+Absolutely.
 
 ### Related articles
 
-*
+* [How does AppointmentGuru work?](how-does-appointmentguru-work)
+* [How do I login?](/help/how-do-I-login)
+* [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)

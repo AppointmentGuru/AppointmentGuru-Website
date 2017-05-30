@@ -25,7 +25,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [How do I reset my password?](reset-password)
 * [Where do I add my physical address?](add-address)
-* [How do I add the products or services that I offer?](add-services)
+* [How do I add the appointment types that I offer?](add-appointment-types)
 * [I want to update my operating hours](update-operating-hours)
 * [Is my information and data secure?](is-my-data-secure)
 * [What can I see on my dashboard?](what-is-on-the-dashboard)
@@ -78,6 +78,15 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
+## Let us do some of the work for you
+
+* Setting up your account
+* Add your clients
+* Send an email to your clients telling them about AppointmentGuru
+* Business cards and flyers
+* Facebook
+
 ## Known issues
 
-* Editing appointments
+* [Editing appointments not working](editing-appointments-not-working)
+* [Editing appointment types not working](editing-appointment-types-not-working)

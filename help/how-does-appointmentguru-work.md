@@ -32,3 +32,5 @@ keywords: process, methodology
 ### Related articles
 
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
+* [How do I add an appointment?](add-an-appointment)
+* [Where do I add my clients?](add-clients)

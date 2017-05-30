@@ -2,22 +2,22 @@
 layout: page
 title: Where do I add my clients?
 permalink: /help/add-clients/
-description:
-keywords:
+description: Adding client information
+keywords: adding client, adding customer, customer service
 ---
 
-## Title
+# Where do I add my clients?
 
-Intro
+Where do I add my clients?
 
-### Heading
+## Heading
 
 1.
 2.
 
 ![Navigation](images/foldername/file.png)
 
-### Heading
+## Heading
 
 **Sub-heading:**
 
@@ -28,4 +28,4 @@ Text.
 
 ### Related articles
 
-*
+* [Is my information and data secure?](is-my-data-secure)
