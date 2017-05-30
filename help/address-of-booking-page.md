@@ -6,18 +6,18 @@ description:
 keywords:
 ---
 
-## Title
+# What's the address of my booking page?
 
 Intro
 
-### Heading
+## Heading
 
 1.
 2.
 
 ![Navigation](images/foldername/file.png)
 
-### Heading
+## Heading
 
 **Sub-heading:**
 

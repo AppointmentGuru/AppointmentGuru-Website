@@ -2,22 +2,22 @@
 layout: page
 title: How do I add an appointment?
 permalink: /help/add-an-appointment/
-description:
-keywords:
+description: Adding an appointment
+keywords: schedule, add, booking
 ---
 
-## Title
+# How do I add an appointment?
 
 Intro
 
-### Heading
+## Heading
 
 1.
 2.
 
 ![Navigation](images/foldername/file.png)
 
-### Heading
+## Heading
 
 **Sub-heading:**
 
@@ -28,4 +28,4 @@ Text.
 
 ### Related articles
 
-*
+* 
