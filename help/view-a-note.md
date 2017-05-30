@@ -2,11 +2,11 @@
 layout: page
 title: Where do I view the note I added to a particular appointment?
 permalink: /help/view-a-note/
-description:
+description: Viewing notes added to appointments
 keywords:
 ---
 
-# Title
+# Where do I view the note I added to a particular appointment?
 
 Intro
 

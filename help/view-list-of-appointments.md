@@ -2,11 +2,11 @@
 layout: page
 title: Can I view a list of all the appointments that a client has had with me?
 permalink: /help/view-list-of-appointments/
-description:
+description: Viewing lists of appointments for a client
 keywords:
 ---
 
-# Title
+# Can I view a list of all the appointments that a client has had with me?
 
 Intro
 

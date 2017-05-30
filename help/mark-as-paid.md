@@ -6,7 +6,7 @@ description:
 keywords:
 ---
 
-# Title
+# A client has paid, how do I mark it as paid on the appointment?
 
 Intro
 

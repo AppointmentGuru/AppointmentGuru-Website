@@ -2,11 +2,11 @@
 layout: page
 title: What can I see on my dashboard?
 permalink: /help/what-is-on-the-dashboard/
-description:
+description: Dashboard information
 keywords:
 ---
 
-# Title
+# What can I see on my dashboard?
 
 Intro
 

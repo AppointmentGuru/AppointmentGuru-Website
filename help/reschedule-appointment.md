@@ -2,11 +2,11 @@
 layout: page
 title: I need to reschedule an appointment
 permalink: /help/reschedule-appointment/
-description:
+description: Rescheduling appointments
 keywords:
 ---
 
-# Title
+# I need to reschedule an appointment
 
 Intro
 

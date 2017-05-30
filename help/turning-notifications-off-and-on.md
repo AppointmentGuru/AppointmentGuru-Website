@@ -2,11 +2,11 @@
 layout: page
 title: Can I turn the notifications off and on?
 permalink: /help/turning-notifications-off-and-on/
-description:
+description: Switching automatic notifications off and on
 keywords:
 ---
 
-# Title
+# Can I turn the notifications off and on?
 
 Intro
 

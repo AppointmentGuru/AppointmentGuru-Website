@@ -6,26 +6,11 @@ description:
 keywords:
 ---
 
-# Title
+# My client's contact information has changed, how do I update it?
 
-Intro
-
-## Heading
-
-1.
-2.
-
-![Navigation](images/foldername/file.png)
-
-## Heading
-
-**Sub-heading:**
-
-*
-*
-
-Text.
+This isn't a feature we've introduced yet and until we have, please [contact us](mailto:support@appointmentguru.co) with the changes and we'll get it done ASAP!
 
 ### Related articles
 
-*
+* [Where do I add my clients?](add-clients)
+* [Is there a mobile app my clients can use?](is-there-a-mobile-app)

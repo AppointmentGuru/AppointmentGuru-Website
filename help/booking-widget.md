@@ -2,30 +2,17 @@
 layout: page
 title: I already have a website, can I add the booking widget to it?
 permalink: /help/booking-widget/
-description:
-keywords:
+description: Adding the booking widget to an existing site
+keywords: booking widget, booking code
 ---
 
 # I already have a website, can I add the booking widget to it?
 
-Intro
-
-## Heading
-
-1.
-2.
-
-![Navigation](images/foldername/file.png)
-
-## Heading
-
-**Sub-heading:**
-
-*
-*
-
-Text.
+Of course! [Contact us](mailto:support@appointmentguru.co) and we'll be able to send you the custom snippet of code you need to add to your site.
 
 ### Related articles
 
-*
+* [What is the booking page?](booking-page)
+* [Can I change the background on my booking page?](change-background)
+* [What's the address of my booking page?](address-of-booking-page)
+* [Can I use my own domain name with my booking page?](use-domain-name)

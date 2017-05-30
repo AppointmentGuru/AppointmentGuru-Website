@@ -2,11 +2,11 @@
 layout: page
 title: Is there a way for to be unlisted from the directory on the mobile app?
 permalink: /help/unlist-from-directory/
-description:
-keywords:
+description: Unlisting from the directory
+keywords: 
 ---
 
-# Title
+# Is there a way for to be unlisted from the directory on the mobile app?
 
 Intro
 

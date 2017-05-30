@@ -2,11 +2,11 @@
 layout: page
 title: I want to add a note to a particular appointment
 permalink: /help/add-a-note/
-description:
-keywords:
+description: Adding notes to an appointment
+keywords: appointment notes, reference
 ---
 
-# Title
+# I want to add a note to a particular appointment
 
 Intro
 

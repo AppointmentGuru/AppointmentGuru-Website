@@ -6,7 +6,7 @@ description: Using your own domain name with your free booking page
 keywords: url, domain name, subdomain, booking page
 ---
 
-# Title
+# Can I use my own domain name with my booking page?
 
 Intro
 

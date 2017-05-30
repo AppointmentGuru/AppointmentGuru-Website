@@ -2,11 +2,11 @@
 layout: page
 title: I want to block off time so that clients can't make bookings
 permalink: /help/block-off-time/
-description:
-keywords:
+description: Blocking out time so appointments can't be made
+keywords: blocking appointments, custom events, holiday time
 ---
 
-# Title
+# I want to block off time so that clients can't make bookings
 
 Intro
 

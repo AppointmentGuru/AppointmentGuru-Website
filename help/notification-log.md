@@ -6,7 +6,7 @@ description:
 keywords:
 ---
 
-# Title
+# Where do I see what notifications have been sent to a client?
 
 Intro
 

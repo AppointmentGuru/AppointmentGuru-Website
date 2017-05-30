@@ -2,7 +2,7 @@
 layout: page
 title: I need to add information to the appointment reminder notification sent to my clients
 permalink: /help/edit-notifications/
-description:
+description: Edit the automatic notifications sent to clients and yourself
 keywords:
 ---
 

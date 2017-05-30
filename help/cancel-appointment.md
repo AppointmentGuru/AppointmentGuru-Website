@@ -2,11 +2,11 @@
 layout: page
 title: How do I cancel an appointment?
 permalink: /help/cancel-appointment/
-description:
-keywords:
+description: Cancelling an appointment
+keywords: cancel, stop, reschedule
 ---
 
-# Title
+# How do I cancel an appointment?
 
 Intro
 

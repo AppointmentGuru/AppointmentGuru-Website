@@ -2,11 +2,11 @@
 layout: page
 title: How do I give a client a discount for a specific appointment?
 permalink: /help/discount-appointment/
-description:
-keywords:
+description: Giving a discount for an appointment
+keywords: appointment discount
 ---
 
-# Title
+# How do I give a client a discount for a specific appointment?
 
 Intro
 

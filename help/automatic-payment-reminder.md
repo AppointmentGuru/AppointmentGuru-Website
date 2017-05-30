@@ -2,11 +2,11 @@
 layout: page
 title: I want to send an automatic payment reminder to clients who haven't paid
 permalink: /help/automatic-payment-reminder/
-description:
-keywords:
+description: Sending payment reminders to clients
+keywords: payment reminder, payment request
 ---
 
-# Title
+# I want to send an automatic payment reminder to clients who haven't paid
 
 Intro
 

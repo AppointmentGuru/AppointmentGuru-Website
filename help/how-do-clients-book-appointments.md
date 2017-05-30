@@ -2,11 +2,11 @@
 layout: page
 title: How do my clients book appointments with me?
 permalink: /help/how-do-clients-book-appointments/
-description:
+description: 
 keywords:
 ---
 
-# Title
+# How do my clients book appointments with me?
 
 Intro
 

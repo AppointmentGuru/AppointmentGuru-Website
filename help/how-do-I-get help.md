@@ -6,7 +6,7 @@ description: How to get help from AppointmentGuru
 keywords: get help, support, assistance, customer service
 ---
 
-# Title
+# How do I get help from AppointmentGuru?
 
 We want to see our customers succeed and so, we're available on a number of channels:
 

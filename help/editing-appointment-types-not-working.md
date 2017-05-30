@@ -1,12 +1,12 @@
 ---
 layout: page
-title:
+title: Editing appointment types not working
 permalink: /help/editing-appointment-types-not-working/
-description:
-keywords:
+description: Not able to edit or remove an appointment type
+keywords: edit appointment type, bug
 ---
 
-# Title
+# Editing appointment types not working
 
 Intro
 
