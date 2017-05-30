@@ -2,30 +2,17 @@
 layout: page
 title: How do I reset my password?
 permalink: /help/reset-password/
-description:
-keywords:
+description: Resetting password on AppointmentGuru
+keywords: reset, password, new password
 ---
 
-# Title
+# How do I reset my password?
 
-Intro
+Right now, we would have to reset your password for you (resetting your password yourself is something you'll be able to do soon!)
 
-## Heading
-
-1.
-2.
-
-![Navigation](images/foldername/file.png)
-
-## Heading
-
-**Sub-heading:**
-
-*
-*
-
-Text.
+Send us an [email](mailto:support@appointmentguru.co) with your request and we'll get back to you right away.
 
 ### Related articles
 
-*
+* [How do I login?](/help/how-do-I-login)
+* [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)

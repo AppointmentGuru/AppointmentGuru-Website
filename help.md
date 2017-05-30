@@ -47,6 +47,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Can I change the background on my booking page?](change-background)
 * [What's the address of my booking page?](address-of-booking-page)
 * [Can I use my own domain name with my booking page?](use-domain-name)
+* [I already have a website, can I add the booking widget to it?](booking-widget)
 
 ## Adding and managing clients
 
