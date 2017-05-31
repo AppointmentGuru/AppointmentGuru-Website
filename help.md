@@ -13,6 +13,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 ## Get Started
 
 * [How does AppointmentGuru work?](how-does-appointmentguru-work)
+* [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
 * [How do I login?](/help/how-do-I-login)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
 * [How do I add the appointment types that I offer?](add-appointment-types)
@@ -81,13 +82,13 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
-## Let us do some of the work for you
+<!-- ## Let us do some of the work for you
 
 * Setting up your account
 * Add your clients
 * Send an email to your clients telling them about AppointmentGuru
 * Business cards and flyers
-* Facebook
+* Facebook -->
 
 ## Known issues
 

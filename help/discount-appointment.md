@@ -12,7 +12,7 @@ Intro
 
 ## Heading
 
-1.
+1. 
 2.
 
 ![Navigation](images/foldername/file.png)
