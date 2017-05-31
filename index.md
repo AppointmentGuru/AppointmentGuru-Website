@@ -13,16 +13,17 @@ keywords: appointment, appointmentguru, book online, practice management, schedu
 {% include blocks/text-block.html text=site.data.website.homepage.recommendation %}
 <div id='product'></div>
 {% for feature in site.data.website.homepage.majorFeatures %}
+<div class='{% cycle 'light', 'dark' %}' >
 {% include blocks/feature-detail.html feature=feature %}
-<hr/>
+</div>
 {% endfor %}
 
 <div id='pricing'></div>
-<div class='block' >
+<div class='block' style='padding:0px;' >
 {% include blocks/pricing.html features=site.data.website.homepage.pricingFeatures %}
 </div>
-
-<div class='clearfix' style='margin-bottom: 80px;' ></div>
-
+<!--
+<div class='clearfix dark' style='margin-bottom: 80px;' ></div>
+ -->
 {% include blocks/footer.html footer=site.data.website.footer %}
 

@@ -1,3 +1,5 @@
+<div class='dark' style='padding: 40px 0px 80px 0px;' >
+<div class='container' >
 <div class="row m-b-lg">
   <div class="col-sm-8 col-sm-offset-2 col-lg-6 col-lg-offset-3 text-center">
     <h6 class="text-muted text-uppercase">Go Pro</h6>
@@ -5,8 +7,15 @@
   </div>
 </div>
 <div class="pricing-block">
-	<div class='col-sm-6' >
-		<div class='price-block' >
+	<div class='col-sm-6 text-center' >
+		<center>
+		<img src='assets/img/homepage/pricing.png' class="img-responsive" />
+		</center>
+		<button
+			data-toggle="modal" data-target=".get-started-modal"
+			class='btn btn-success btn-block' >
+		{{site.data.website.homepage.primarycta}}</button>
+		<!-- <div class='price-block' >
 			<h6 class="text-muted text-uppercase">AppointmentGuru</h6>
 			<div class="statcard">
 			  <h3 class="statcard-number brand">{{site.data.website.homepage.monthlyCost}}</h3>
@@ -18,7 +27,7 @@
 					class='btn btn-success btn-block' >
 					{{site.data.website.homepage.primarycta}}</button>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<div class='col-sm-6' >
 		<h6 class="text-uppercase m-b brand">What you get</h6>
@@ -31,4 +40,6 @@
 		  {% endfor %}
 		</ul>
 	</div>
+</div>
+</div>
 </div>
