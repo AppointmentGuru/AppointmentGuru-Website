@@ -10,7 +10,7 @@ keywords: operating hours, opening hours, practice hours, booking time
 
 Stipulating your operating hours means that your clients won't be able to book appointments with you when you're not available. Your AppointmentGuru account will have default operating hours defined when your account is created (8am-5pm) but you may want to change this - for example, you might not want to take appointments on a Monday morning and instead use the time to prepare for the week!
 
-Your operating hours shouldn't change week-to-week. If there are time slots that you don't want booked by clients, you can [block off that time](block-off-time) through the appointment creation process.
+Your operating hours shouldn't change week-to-week. If there are time slots that you don't want booked by clients, you can [block off that time](/help/block-off-time) through the appointment creation process.
 
 ## Here's how to manage your operating hours
 
@@ -22,7 +22,7 @@ Your operating hours shouldn't change week-to-week. If there are time slots that
 
 ### Related articles
 
-* [I want to block off time so that clients can't make bookings](block-off-time)
-* [Editing appointment types not working](editing-appointment-types-not-working)
-* [Where do I add my physical address?](add-address)
-* [How do I add the appointment types that I offer?](add-appointment-types)
+* [I want to block off time so that clients can't make bookings](/help/block-off-time)
+* [Editing appointment types not working](/help/editing-appointment-types-not-working)
+* [Where do I add my physical address?](/help/add-address)
+* [How do I add the appointment types that I offer?](/help/add-appointment-types)

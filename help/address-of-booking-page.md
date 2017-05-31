@@ -16,7 +16,7 @@ If you'd like to change the address or use your own domain name, let us know! Co
 
 ### Related articles
 
-* [What is the booking page?](booking-page)
-* [Can I change the background on my booking page?](change-background)
-* [Can I use my own domain name with my booking page?](use-domain-name)
-* [I already have a website, can I add the booking widget to it?](booking-widget)
+* [What is the booking page?](/help/booking-page)
+* [Can I change the background on my booking page?](/help/change-background)
+* [Can I use my own domain name with my booking page?](/help/use-domain-name)
+* [I already have a website, can I add the booking widget to it?](/help/booking-widget)

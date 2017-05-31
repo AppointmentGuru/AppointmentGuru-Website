@@ -12,5 +12,5 @@ This isn't a feature we've introduced yet and until we have, please [contact us]
 
 ### Related articles
 
-* [Where do I add my clients?](add-clients)
-* [Is there a mobile app my clients can use?](is-there-a-mobile-app)
+* [Where do I add my clients?](/help/add-clients)
+* [Is there a mobile app my clients can use?](/help/is-there-a-mobile-app)

@@ -8,7 +8,7 @@ keywords: appointment, product, types, services
 
 # Adding the different appointment types
 
-Before adding clients or scheduling appointments, you'll need to define the type of appointments you offer. At the same time, you'll be adding your [location](add-address) and [operating hours](update-operating-hours).
+Before adding clients or scheduling appointments, you'll need to define the type of appointments you offer. At the same time, you'll be adding your [location](/help/add-address) and [operating hours](/help/update-operating-hours).
 
 ## The steps:
 
@@ -23,6 +23,6 @@ Repeat the above steps if you'd like to add more than one appointment type. For 
 
 ### Related articles
 
-* [Editing appointment types not working](editing-appointment-types-not-working)
-* [Where do I add my physical address?](add-address)
-* [I want to update my operating hours](update-operating-hours)
+* [Editing appointment types not working](/help/editing-appointment-types-not-working)
+* [Where do I add my physical address?](/help/add-address)
+* [I want to update my operating hours](/help/update-operating-hours)

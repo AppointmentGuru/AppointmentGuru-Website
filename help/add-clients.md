@@ -12,18 +12,19 @@ Adding client information to your AppointmentGuru account allows you to schedule
 
 Clients don't have to be pre-loaded into your account in order for them to make an appointment with you.
 
-## Here's how to add clients in the web app
+## Here's how to add clients in the [web app](https://portal.appointmentguru.co/)
 
-1. Go to the Clients tab and click on the plus (+) sign at the top right to open a new form to complete
-2. Or, just hit the C key on your keyboard to open the new client form.
+* Go to the Clients tab and click on the plus (+) sign at the top right to open a new form to complete
+* Or, just hit the C key on your keyboard to open the new client form.
 
-## Here's how to add clients in the mobile app
+## Here's how to add clients in the [mobile app](/help/is-there-a-mobile-app)
 
-1.
-2.
+* Tap on the blue *plus* sign and then the red icon to fill out the client form. If your client is already added to your phone's address book, then you'll be able to add them even more easily!
 
 ### Related articles
 
-* [Is my information and data secure?](is-my-data-secure)
-* [Is there a mobile app I can use?](is-there-a-mobile-app)
+* [How do my clients book appointments with me?](/help/how-do-clients-book-appointments)
+* [My client's contact information has changed, how do I update it?](/help/update-clients-info)
+* [Is my information and data secure?](/help/is-my-data-secure)
+* [Is there a mobile app I can use?](/help/is-there-a-mobile-app)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)

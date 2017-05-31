@@ -12,6 +12,6 @@ Absolutely.
 
 ### Related articles
 
-* [How does AppointmentGuru work?](how-does-appointmentguru-work)
+* [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
 * [How do I login?](/help/how-do-I-login)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)

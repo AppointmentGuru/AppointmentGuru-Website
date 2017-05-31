@@ -28,8 +28,8 @@ By default, notifications are sent automatically unless you've specified that th
 
 ### Related articles
 
-* [I need to add information to the appointment reminder notification sent to my clients](edit-notifications)
-* [How do I edit notifications that are sent to my client?](edit-notifications)
-* [Can I turn the notifications off and on?](turning-notifications-off-and-on)
-* [Where do I see what notifications have been sent to a client?](notification-log)
-* [I want to send an automatic payment reminder to clients who haven't paid](automatic-payment-reminder)
+* [I need to add information to the appointment reminder notification sent to my clients](/help/edit-notifications)
+* [How do I edit notifications that are sent to my client?](/help/edit-notifications)
+* [Can I turn the notifications off and on?](/help/turning-notifications-off-and-on)
+* [Where do I see what notifications have been sent to a client?](/help/notification-log)
+* [I want to send an automatic payment reminder to clients who haven't paid](/help/automatic-payment-reminder)

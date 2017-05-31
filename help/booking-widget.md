@@ -12,7 +12,7 @@ Of course! [Contact us](mailto:support@appointmentguru.co) and we'll be able to 
 
 ### Related articles
 
-* [What is the booking page?](booking-page)
-* [Can I change the background on my booking page?](change-background)
-* [What's the address of my booking page?](address-of-booking-page)
-* [Can I use my own domain name with my booking page?](use-domain-name)
+* [What is the booking page?](/help/booking-page)
+* [Can I change the background on my booking page?](/help/change-background)
+* [What's the address of my booking page?](/help/address-of-booking-page)
+* [Can I use my own domain name with my booking page?](/help/use-domain-name)

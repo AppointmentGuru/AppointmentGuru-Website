@@ -19,7 +19,7 @@ With your AppointmentGuru account, you'll get a free booking page that your clie
 
 ### Related articles
 
-* [Can I change the background on my booking page?](change-background)
-* [What's the address of my booking page?](address-of-booking-page)
-* [Can I use my own domain name with my booking page?](use-domain-name)
-* [I already have a website, can I add the booking widget to it?](booking-widget)
+* [Can I change the background on my booking page?](/help/change-background)
+* [What's the address of my booking page?](/help/address-of-booking-page)
+* [Can I use my own domain name with my booking page?](/help/use-domain-name)
+* [I already have a website, can I add the booking widget to it?](/help/booking-widget)

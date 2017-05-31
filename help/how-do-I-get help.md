@@ -19,4 +19,4 @@ We welcome any questions and feedback you may have!
 ### Related articles
 
 * [How do I login?](/help/how-do-I-login)
-* [Is my information and data secure?](is-my-data-secure)
+* [Is my information and data secure?](/help/is-my-data-secure)

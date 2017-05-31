@@ -18,5 +18,5 @@ And we'll get them sent to you right away.
 
 ### Related articles
 
-* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
-* [How do I give a client a discount for a specific appointment?](discount-appointment)
+* [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](/help/discount-appointment)

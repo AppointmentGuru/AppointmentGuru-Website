@@ -22,6 +22,6 @@ Your AppointmentGuru account is accessible via a web and mobile app.
 
 ### Related articles
 
-* [How do I reset my password?](reset-password)
+* [How do I reset my password?](/help/reset-password)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
-* [Is there a mobile app I can use?](is-there-a-mobile-app)
+* [Is there a mobile app I can use?](/help/is-there-a-mobile-app)

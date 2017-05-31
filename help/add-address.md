@@ -8,7 +8,7 @@ keywords: location, physical address, office, practice
 
 # Where do I add my physical address?
 
-An important part of allowing your clients to schedule appointments with you is making sure they know where you are! You'll be able to add your location(s) when adding your [appointment types](add-appointment-types) and [operating hours](update-operating-hours).
+An important part of allowing your clients to schedule appointments with you is making sure they know where you are! You'll be able to add your location(s) when adding your [appointment types](/help/add-appointment-types) and [operating hours](/help/update-operating-hours).
 
 ## Here are the steps:
 
@@ -21,6 +21,6 @@ Should you want to add another location, repeat the steps. For example, you may 
 
 ### Related articles
 
-* [Editing appointment types not working](editing-appointment-types-not-working)
-* [How do I add the appointment types that I offer?](add-appointment-types)
-* [I want to update my operating hours](update-operating-hours)
+* [Editing appointment types not working](/help/editing-appointment-types-not-working)
+* [How do I add the appointment types that I offer?](/help/add-appointment-types)
+* [I want to update my operating hours](/help/update-operating-hours)
