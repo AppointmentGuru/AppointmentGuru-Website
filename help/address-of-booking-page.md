@@ -10,7 +10,7 @@ keywords: booking page, website, address, domain
 
 You'll find the address of your booking page on the Settings page of your AppointmentGuru account.
 
-If you'd like to change the address or use your own domain name, let us know! Contact us on <support@appointmentguru.co>.
+If you'd like to change the address or use your own domain name, [let us know](mailto:support@appointmentguru.co).
 
 ![Booking page settings](/help/images/booking-page/booking-page-settings.jpg)
 

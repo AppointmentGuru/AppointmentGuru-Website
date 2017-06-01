@@ -40,5 +40,5 @@ Once you have the link, you can add it to your calendar of choice. Two things to
 
 ### Related articles
 
-* [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone)
-* [What do the letters B, N, and P in the appointment mean?](appointment-status)
+* [Can the calendar sync to my phone's calendar?](/help/sync-calendar-to-phone)
+* [What do the letters B, N, and P in the appointment mean?](/help/appointment-status)

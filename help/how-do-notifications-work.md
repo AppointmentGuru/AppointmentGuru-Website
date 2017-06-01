@@ -8,7 +8,7 @@ keywords: SMS notification, email notification, automatic notification
 
 # How do notifications work?
 
-One of the beautiful parts of AppointmentGuru are the automated notifications. Allowing notifications to run automatically in the background allows you to focus on your business and other important parts of your life.
+One of the beautiful parts of AppointmentGuru are the automated notifications. Allowing notifications to automatically run in the background allows you to focus on your business and other important parts of your life.
 
 ## There are six notifications that are setup by default:
 
