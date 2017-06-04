@@ -92,12 +92,12 @@ footer:
   col2:
     title: Contact
     links:
-      # - href: #
-      #   title: Help
+      - href: /help/
+        title: Help
       - href: https://www.facebook.com/appointmentguru/
         title: Facebook
       - href: "mailto:hello@appointmentguru.co"
-        title: hello@appointmentguru.co
+        title: Email us
   col3:
     title: Legal
     links:
