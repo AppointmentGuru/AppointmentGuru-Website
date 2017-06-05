@@ -46,18 +46,18 @@ homepage:
       title: Take bookings online
       description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
       picture: left
-      picture_url: assets/img/guru/book_online.jpg
+      picture_url: assets/img/homepage/online-appointments.png
     - summary: Run your practice like a pro
       title: Manage your bookings on the go
       description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
       picture: right
-      picture_url: assets/img/guru/manage_on_the_go.jpg
+      picture_url: assets/img/homepage/manage-appointments.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
       description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
       background: light
       picture: left
-      picture_url: assets/img/guru/notifications.png
+      picture_url: assets/img/homepage/notifications.png
 
   pricingFeatures:
     - A mobile app and web app for managing your appointments
@@ -92,12 +92,12 @@ footer:
   col2:
     title: Contact
     links:
-      # - href: #
-      #   title: Help
+      - href: /help/
+        title: Help
       - href: https://www.facebook.com/appointmentguru/
         title: Facebook
       - href: "mailto:hello@appointmentguru.co"
-        title: hello@appointmentguru.co
+        title: Email us
   col3:
     title: Legal
     links:
