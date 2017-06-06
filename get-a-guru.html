@@ -1,0 +1,45 @@
+---
+layout: page
+title: Help
+permalink: /get-a-guru
+description: Find all the help you need to use AppointmentGuru.
+keywords: support, help, information, customer service
+---
+<script>
+function goto(path) {
+	var baseUrl = "https://static.appointmentguru.co/appointmentguru-mobile/1.0.0/index.html#";
+	var url = baseUrl + path;
+	document.getElementById('widget').src=url;
+}
+/*
+document.getElementById("myAnchor").addEventListener("click", function(event){
+	event.preventDefault()
+})
+*/
+</script>
+<div class="container">
+	<div class='row' >
+		<blockquote>
+			Find a friendly AppointmentGuru consultant in your area
+		</blockquote>
+	</div>
+	<hr/>
+	<div class='row' >
+		<div class='col-md-6' >
+			<h3>Johannesburg</h3>
+			<a onClick='goto("/practitioners/1")' href='#' >Christo Crampton</a>
+			<h3>Cape Town</h3>
+			<a onClick='goto("/practitioners/125")' href='#' >Marije Pierson</a>
+			<h3>Eastern Cape</h3>
+			<a onClick='goto("/practitioners/733")' href='#' >Craig Stowe</a>
+		</div>
+		<div class='col-md-6' >
+		<iframe
+			id='widget'
+			style='border: 0px;box-shadow: 0 1px 3px rgba(0,0,0,.2),0 1px 1px rgba(0,0,0,.14),0 2px 1px -1px rgba(0,0,0,.12)!important;'
+			width='414px'
+			height='736px'
+			src='https://static.appointmentguru.co/appointmentguru-mobile/1.0.0/index.html#/practitioners/1' ></iframe>
+		</div>
+	</div>
+</div>
