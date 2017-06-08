@@ -26,6 +26,8 @@ One of the beautiful parts of AppointmentGuru are the automated notifications. A
 
 By default, notifications are sent automatically unless you've specified that they mustn't be sent.
 
+Next is [editing notifications](/help/edit-notifications), customising the text to suit your needs.
+
 ### Related articles
 
 * [I need to add information to the appointment reminder notification sent to my clients](/help/edit-notifications)

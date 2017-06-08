@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Is my information and data secure?
+title: Is my information and data safe and secure?
 permalink: /help/is-my-data-secure/
 description: Information and data security
 keywords: security, peace of mind
 ---
 
-# Is my information and data secure?
+# Is my information and data safe and secure?
 
 Absolutely.
 
