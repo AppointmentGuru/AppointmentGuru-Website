@@ -21,4 +21,11 @@ If you need help setting up your AppointmentGuru account, we'd be happy to do it
 
 ### Related articles
 
-*
+* [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
+* [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
+* [How do I add the appointment types that I offer?](/help/add-appointment-types)
+* [Where do I add my physical address?](/help/add-address)
+* [I want to update my operating hours](/help/update-operating-hours)
+* [Where do I add my clients?](/help/add-clients)
+* [How do I add an appointment?](/help/add-an-appointment)
+* [Linking your Facebook page and AppointmentGuru](/help/linking-facebook)

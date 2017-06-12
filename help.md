@@ -86,8 +86,8 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [Setting up your account](setting-up-your-account)
 * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
-* Business cards and flyers
-* Facebook
+<!-- * [Business cards and flyers](business-cards-and-flyers) -->
+* [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
 ## Known issues
 
