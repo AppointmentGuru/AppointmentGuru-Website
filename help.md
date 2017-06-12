@@ -8,7 +8,7 @@ keywords: support, help, information, customer service
 
 # AppointmentGuru Help
 
-Need help using AppointmentGuru? Here you'll find all the info you need, if not let us know!
+Need help using AppointmentGuru? Here you'll find all the info you need, if not [let us know](support@appointmentguru.co)!
 
 ## Get Started
 
@@ -82,13 +82,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
-<!-- ## Let us do some of the work for you
+## Let us do some of the work for you
 
-* Setting up your account
-* Add your clients
-* Send an email to your clients telling them about AppointmentGuru
+* [Setting up your account](setting-up-your-account)
+* [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
 * Business cards and flyers
-* Facebook -->
+* Facebook
 
 ## Known issues
 
