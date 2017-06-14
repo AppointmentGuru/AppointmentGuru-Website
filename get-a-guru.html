@@ -1,0 +1,18 @@
+---
+layout: page
+title: Book a Guru
+permalink: /get-a-guru
+description: Find an AppointmentGuru customer success agent in your area
+keywords: support, help, information, customer service
+---
+<script>
+function goto(path) {
+	var baseUrl = "https://static.appointmentguru.co/appointmentguru-mobile/1.0.0/index.html#";
+	var url = baseUrl + path;
+	document.getElementById('widget').src=url;
+	return false
+}
+</script>
+<div class="container">
+	{% include group.html data=site.data.website.groups.getAGuru %}
+</div>

@@ -105,3 +105,34 @@ footer:
       title: Privacy
     - href: /terms/
       title: Terms and conditions
+
+groups:
+  getAGuru:
+    title: Find AppointmentGuru customer success agent
+    description: |
+      > Find a friendly **AppointmentGuru** consultant in your area
+
+      At AppointmentGuru we differentiate ourselves by providing excellent hand-on support.
+      Our customer success agents are there to help you in any way so that you can build a professional
+      business using AppointmentGuru.
+
+      **Some things our consultants can help you with:**
+      * Any technical questions you might have about the app
+      * Setting up and optimizing your practitioner portal
+      * [Guru Does it for you](/)
+
+      You can book an appointment with a consultant in your area below
+
+    groups:
+    - title: Johannesburg
+      practitioners:
+        - id: 1
+          title: Christo Crampton
+    - title: Cape Town
+      practitioners:
+        - id: 125
+          title: Marije Pierson
+    - title: Eastern Cape
+      practitioners:
+        - id: 733
+          title: Craig Stowe
