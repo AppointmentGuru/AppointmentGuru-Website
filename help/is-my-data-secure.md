@@ -8,7 +8,7 @@ keywords: security, peace of mind
 
 # Is my information and data safe and secure?
 
-Absolutely.
+AppointmentGuru takes your privacy and the privacy of your clients seriously. We have taken every effort to achieve best practices in terms of privacy and data storage.
 
 ### Related articles
 
