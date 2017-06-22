@@ -21,6 +21,12 @@ Clients don't have to be pre-loaded into your account in order for them to make 
 
 * Tap on the blue *plus* sign and then the red icon to fill out the client form. If your client is already added to your phone's address book, then you'll be able to add them even more easily!
 
+| | | |
+| ![Add a client in the web app](/help/images/clients/web-create-new-client.png){:class="img-responsive"} | | ![Add a client in the mobile app](/help/images/clients/mobile-create-new-client.png){:class="img-responsive"} |
+| | | |
+| :-: | :-: | :-: |
+| **Web app** |  | **Mobile app** |
+
 ### Related articles
 
 * [How do my clients book appointments with me?](/help/how-do-clients-book-appointments)

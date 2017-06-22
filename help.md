@@ -8,7 +8,7 @@ keywords: support, help, information, customer service
 
 # AppointmentGuru Help
 
-Need help using AppointmentGuru? Here you'll find all the info you need, if not let us know!
+Need help using AppointmentGuru? Here you'll find all the info you need, if not [let us know](support@appointmentguru.co)!
 
 ## Get Started
 
@@ -28,7 +28,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Where do I add my physical address?](add-address)
 * [How do I add the appointment types that I offer?](add-appointment-types)
 * [I want to update my operating hours](update-operating-hours)
-* [Is my information and data secure?](is-my-data-secure)
+* [Is my information and data safe and secure?](is-my-data-secure)
 * [What can I see on my dashboard?](what-is-on-the-dashboard)
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
@@ -82,13 +82,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
-<!-- ## Let us do some of the work for you
+## Let us do some of the work for you
 
-* Setting up your account
-* Add your clients
-* Send an email to your clients telling them about AppointmentGuru
-* Business cards and flyers
-* Facebook -->
+* [Setting up your account](setting-up-your-account)
+* [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
+<!-- * [Business cards and flyers](business-cards-and-flyers) -->
+* [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
 ## Known issues
 
