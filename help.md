@@ -8,7 +8,7 @@ keywords: support, help, information, customer service
 
 # AppointmentGuru Help
 
-Need help using AppointmentGuru? Here you'll find all the info you need, if not let us know!
+Need help using AppointmentGuru? Here you'll find all the info you need, if not [let us know](mailto:support@appointmentguru.co)!
 
 ## Get Started
 
@@ -55,6 +55,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Where do I add my clients?](add-clients)
 * [Is there a mobile app my clients can use?](is-there-a-mobile-app)
 * [My client's contact information has changed, how do I update it?](update-clients-info)
+* [What can my clients do via the mobile app?](client-mobile-app)
 
 ## Adding and managing appointments
 
