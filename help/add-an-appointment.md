@@ -24,6 +24,12 @@ You appointment will be created and added to the calendar view.
 
 Unless you've specified not to, a notification will be sent to the client with the details of their appointment.
 
+| | | |
+| ![Add an appointment in the web app](/help/images/appointments/web-create-appointment.png){:class="img-responsive"} | | ![Add an appointment in the mobile app](/help/images/appointments/mobile-create-appointment.png){:class="img-responsive"} |
+| | | |
+| :-: | :-: | :-: |
+| **Web app** |  | **Mobile app** |
+
 ### Related articles
 
 * [How do I add the appointment types that I offer?](/help/add-appointment-types)

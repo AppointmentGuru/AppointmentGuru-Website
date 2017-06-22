@@ -15,7 +15,7 @@ You can definitely sync your calendar apps!
 1. Login to the AppointmentGuru [web app](https://portal.appointmentguru.co).
 2. Click on calendar, then scroll to the bottom of the page. You should see a link which looks like this:
 
-![Calendar-subscribe-link](/help/images/calendar/calendar-subscribe-link.png)
+![Calendar-subscribe-link](/help/images/calendar/calendar-subscribe-link.png){:class="img-responsive"}
 
 Once you have the link, you can add it to your calendar of choice. Two things to remember:
 
