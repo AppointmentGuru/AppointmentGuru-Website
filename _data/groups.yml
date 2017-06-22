@@ -23,7 +23,7 @@ getAGuru:
     practitioners:
       - id: 125
         title: Marije Pierson
-  - title: Eastern Cape
-    practitioners:
-      - id: 733
-        title: Craig Stowe
+  # - title: Eastern Cape
+  #   practitioners:
+  #     - id: 733
+  #       title: Craig Stowe
