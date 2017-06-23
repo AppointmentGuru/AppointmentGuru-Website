@@ -10,6 +10,8 @@ keywords: support, help, information, customer service
 
 Need help using AppointmentGuru? Here you'll find all the info you need, if not [let us know](mailto:support@appointmentguru.co)!
 
+{% include search.html %}
+
 ## Get Started
 
 * [How does AppointmentGuru work?](how-does-appointmentguru-work)

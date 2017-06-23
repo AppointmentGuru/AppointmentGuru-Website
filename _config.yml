@@ -26,6 +26,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - algoliasearch-jekyll
 exclude:
   - Gemfile
   - Gemfile.lock
+
+algolia:
+  application_id: 'WTS23NLS2K'
+  index_name:     'appointmentguru_website'

@@ -1,0 +1,78 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@1/dist/instantsearch.min.css">
+<style>
+.algolia__result-highlight { background: yellow; }
+.ais-search-box input {
+    width: 100%;
+    font-size: 20px;
+    margin: 10px 0px;
+    padding: 6px;
+    font-weight: 300;
+}
+.ais-hits--item {
+  padding: 2px;
+}
+
+#pagination-container {
+  border-top: solid 1px #f1f1f1;
+  margin-top: 20px;
+}
+.ais-pagination {
+  padding:0px;
+}
+.ais-pagination--item__active {
+  font-size: larger;
+}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@1/dist/instantsearch.min.js"></script>
+
+<div id='q'></div>
+<div id='hits-container'></div>
+<div id='pagination-container' ></div>
+
+<script type="text/javascript">
+var search = instantsearch({
+  appId: 'WTS23NLS2K',
+  apiKey: 'a49fed1a512e605d8356722bfbb84ebe',
+  indexName: 'appointmentguru_website',
+  urlSync: true,
+  searchFunction: function(helper) {
+    var searchResults = document.getElementById('hits-container');
+    var pagination = document.getElementById('pagination-container');
+    if (helper.state.query === '') {
+      searchResults.style.display = 'none';
+      pagination.style.display = 'none';
+      return;
+    }
+    helper.search();
+    searchResults.style.display = 'block';
+    pagination.style.display = 'block';
+  }
+});
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#q',
+    placeholder: 'Search knowledgebase',
+    autofocus: false,
+    poweredBy: true
+  })
+);
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#hits-container',
+    templates: {
+      empty: 'No results',
+      item: function(data) {
+        return '<div><a href="' + data.permalink + '">' + data._highlightResult.title.value + '</a></div>'
+      }
+    },
+    hitsPerPage: 10
+  })
+);
+search.addWidget(
+	instantsearch.widgets.pagination({
+	  container: '#pagination-container'
+	})
+);
+search.start()
+
+</script>
