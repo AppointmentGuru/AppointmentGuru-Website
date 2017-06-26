@@ -1,15 +1,38 @@
----
 layout: page
 title: About
 permalink: /about/
+description:
+keywords:
 ---
+# Our Mission
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Help you to be great at admin and spend less time doing it.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Allow you to build a professional and beautiful brand easily.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Provide your clients with the best possible booking and customer service experience.
+
+Committed to being safe, secure and organised.
+
+## People
+
+### Christo
+
+| --- | --- | --- |
+| ![Christo Crampton](/assets/img/people/christo.jpg){:class="img-responsive"} | | Cold-pressed microdosing ut, PBR&B selvage lomo laboris velit nisi umami portland. Iceland occaecat veniam kombucha austin ut quis woke. Lo-fi shaman austin humblebrag bicycle rights you probably haven't heard of them skateboard helvetica truffaut glossier hashtag ea mumblecore distillery. PBR&B truffaut ut, enamel pin messenger bag shaman proident seitan tofu eu hammock stumptown. Poutine master cleanse typewriter brooklyn viral. Et tempor enim shoreditch artisan cronut. Sed squid cupidatat, in marfa slow-carb meggings migas retro taxidermy keytar pork belly bitters tattooed. |
+
+### Marije
+
+Cold-pressed microdosing ut, PBR&B selvage lomo laboris velit nisi umami portland. Iceland occaecat veniam kombucha austin ut quis woke. Lo-fi shaman austin humblebrag bicycle rights you probably haven't heard of them skateboard helvetica truffaut glossier hashtag ea mumblecore distillery. PBR&B truffaut ut, enamel pin messenger bag shaman proident seitan tofu eu hammock stumptown. Poutine master cleanse typewriter brooklyn viral. Et tempor enim shoreditch artisan cronut. Sed squid cupidatat, in marfa slow-carb meggings migas retro taxidermy keytar pork belly bitters tattooed.
+
+### Jade
+
+Cold-pressed microdosing ut, PBR&B selvage lomo laboris velit nisi umami portland. Iceland occaecat veniam kombucha austin ut quis woke. Lo-fi shaman austin humblebrag bicycle rights you probably haven't heard of them skateboard helvetica truffaut glossier hashtag ea mumblecore distillery. PBR&B truffaut ut, enamel pin messenger bag shaman proident seitan tofu eu hammock stumptown. Poutine master cleanse typewriter brooklyn viral. Et tempor enim shoreditch artisan cronut. Sed squid cupidatat, in marfa slow-carb meggings migas retro taxidermy keytar pork belly bitters tattooed.
+
+### Adrian
+
+Cold-pressed microdosing ut, PBR&B selvage lomo laboris velit nisi umami portland. Iceland occaecat veniam kombucha austin ut quis woke. Lo-fi shaman austin humblebrag bicycle rights you probably haven't heard of them skateboard helvetica truffaut glossier hashtag ea mumblecore distillery. PBR&B truffaut ut, enamel pin messenger bag shaman proident seitan tofu eu hammock stumptown. Poutine master cleanse typewriter brooklyn viral. Et tempor enim shoreditch artisan cronut. Sed squid cupidatat, in marfa slow-carb meggings migas retro taxidermy keytar pork belly bitters tattooed.
+
+### Cata
+
+Cold-pressed microdosing ut, PBR&B selvage lomo laboris velit nisi umami portland. Iceland occaecat veniam kombucha austin ut quis woke. Lo-fi shaman austin humblebrag bicycle rights you probably haven't heard of them skateboard helvetica truffaut glossier hashtag ea mumblecore distillery. PBR&B truffaut ut, enamel pin messenger bag shaman proident seitan tofu eu hammock stumptown. Poutine master cleanse typewriter brooklyn viral. Et tempor enim shoreditch artisan cronut. Sed squid cupidatat, in marfa slow-carb meggings migas retro taxidermy keytar pork belly bitters tattooed.
