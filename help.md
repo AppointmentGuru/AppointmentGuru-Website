@@ -21,6 +21,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [I want to update my operating hours](update-operating-hours)
 * [Where do I add my clients?](add-clients)
 * [How do I add an appointment?](add-an-appointment)
+* [Use your signature to let your Clients know about AppointmentGuru](updating-your-signature)
 
 ## Your account settings
 
