@@ -29,3 +29,22 @@ getAGuru:
   #   practitioners:
   #     - id: 733
   #       title: Craig Stowe
+discoveryVitality:
+  title: Book your Discovery Vitality Fitness Assessment online
+  image: /assets/img/groups/discovery.jpeg
+  description: |
+    > You can book a Disovery Vitality Fitness Assessment online in seconds.
+    The following AppointmentGuru Biokineticists are qualified to perform the Vitality Fitness Assessment.
+
+    **Note:** AppointmentGuru is not in any way affiliated with Discovery Health.
+  startPage: /practitioners/
+  practitionerIds: '363,734'
+  groups:
+  - title: Johannesburg, Parktown North
+    practitioners:
+      - id: 363
+        title: Mumtaz Chohan Gani
+  - title: Johannesburg, Sandton
+    practitioners:
+      - id: 734
+        title: Simone Conley
