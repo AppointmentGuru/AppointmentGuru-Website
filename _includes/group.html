@@ -1,0 +1,45 @@
+<h3>{{include.data.title}}</h3>
+<div class='row' >
+	{% if include.data.image %}
+		<img
+			src='{{include.data.image}}'
+			align='right'
+			style="max-width:250px;padding:10px;" />
+	{% endif %}
+	{{include.data.description|markdownify}}
+</div>
+<hr/>
+<div class='row' >
+	<div class='col-md-6 col-xs-12' >
+		{% for group in include.data.groups %}
+		<h3>{{group.title}}</h3>
+		{% for practitioner in group.practitioners %}
+		<a title='{{practitioner.title}}'
+			onClick='return goto("/practitioners/{{practitioner.id}}")'
+			href='#' data-id='{{practitioner.id}}' >
+			{{practitioner.title}}
+		</a>
+		{% endfor %}
+		{% endfor %}
+	</div>
+	<div class='col-md-6 col-xs-12' >
+
+	<iframe
+		src='https://static.appointmentguru.co/appointmentguru-mobile/{{site.data.groups.widgetVersion}}/index.html#{{include.data.startPage}}?p={{include.data.practitionerIds}}'
+		id='widget'
+		style='border: 0px;box-shadow: 0 1px 3px rgba(0,0,0,.2),0 1px 1px rgba(0,0,0,.14),0 2px 1px -1px rgba(0,0,0,.12)!important;'
+		width='100%' scrolling='no'
+		height='736px' >
+	</iframe>
+
+	</div>
+</div>
+<script>
+function goto(path) {
+	var baseUrl = "https://static.appointmentguru.co/appointmentguru-mobile/{{site.data.groups.widgetVersion}}/index.html#";
+	var filters = '?p={{include.data.practitionerIds}}'
+	var url = baseUrl + path + filters;
+	document.getElementById('widget').src=url;
+	return false
+}
+</script>
