@@ -21,16 +21,41 @@
 		</a>
 		{% endfor %}
 		{% endfor %}
+		<hr/>
 	</div>
 	<div class='col-md-6 col-xs-12' >
 
+	<style>
+	.container--fluid { margin-top: 65px; }
+	/* styles to handle embedding the widget in another page */
+	.embedded .container--fluid { margin-top: 0px; }
+	.embedded .toolbar--fixed { position: relative; }
+	.embedded .sidebar--close { display: none; }
+	.embedded .sidebar--fixed { position: absolute; }
+	.embedded .btn--floating { position: absolute !important; }
+	#app a:hover { text-decoration: none; }
+	</style>
+	<div
+		class='embedded'
+		style='max-width:414px;max-height:736px;overflow: auto;border: 0px;box-shadow: 0 3px 9px rgba(0,0,0,.2),0 1px 1px rgba(0,0,0,.14),0 2px 1px -1px rgba(0,0,0,.12)!important;' >
+		<script>
+		window.practitioners = [{{include.data.practitionerIds}}]
+		</script>
+		<div class='yui3-cssreset' id='app' ></div>
+	</div>
+	<script type=text/javascript src=https://static.appointmentguru.co/appointmentguru-mobile/2.0.4/static/js/manifest.55f59daae6395ad43470.js></script>
+	<script type=text/javascript src=https://static.appointmentguru.co/appointmentguru-mobile/2.0.4/static/js/vendor.0f1a0862c243a07560fb.js></script>
+	<script type=text/javascript src=https://static.appointmentguru.co/appointmentguru-mobile/2.0.4/static/js/app.d25dcb4d8e93973f1725.js></script>
+
+	<!--
 	<iframe
-		src='https://static.appointmentguru.co/appointmentguru-mobile/{{site.data.groups.widgetVersion}}/index.html#{{include.data.startPage}}?p={{include.data.practitionerIds}}'
+		src='http://10.0.2.2:8080/index.html#{{include.data.startPage}}?p={{include.data.practitionerIds}}'
 		id='widget'
 		style='border: 0px;box-shadow: 0 1px 3px rgba(0,0,0,.2),0 1px 1px rgba(0,0,0,.14),0 2px 1px -1px rgba(0,0,0,.12)!important;'
 		width='100%' scrolling='no'
 		height='736px' >
 	</iframe>
+	-->
 
 	</div>
 </div>
