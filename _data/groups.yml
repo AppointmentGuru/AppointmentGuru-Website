@@ -1,4 +1,4 @@
-widgetVersion: 1.0.1
+widgetVersion: 2.0.2
 getAGuru:
   title: Find AppointmentGuru customer success agent
   description: |
@@ -14,7 +14,7 @@ getAGuru:
     * [Guru Does it for you](/)
 
     You can book an appointment with a consultant in your area below
-  startPage: /practitioners/1
+  startPage: /practitioners
   practitionerIds: '1,125'
   groups:
   - title: Johannesburg
