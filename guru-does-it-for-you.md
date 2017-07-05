@@ -20,7 +20,7 @@ If you need help setting up your AppointmentGuru account, we'd be happy to do it
 Please note:
 
 * If you already have a file of your clients, feel free to send that through to us instead of filling out the form.
-* If you've been using a physical diary for appointments, take photo's of the appointments with your phone and send those to us instead of filling out the form.
+* If you've been using a physical diary for appointments, take photos of the appointments with your phone and send those to us instead of filling out the form.
 
 *Price: Free.*
 
