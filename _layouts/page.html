@@ -12,12 +12,15 @@ body{
 <body>
 
 {% include mobilenav.html %}
-
 <div class="stage" id="stage">
   <div class="block app-header" >
     {% include nav.html %}
   </div>
+
+  <div class='container' >
   {{ content }}
+  </div>
+  <!-- end container -->
 
   <div class='clearfix' style='margin-bottom: 80px;' ></div>
 
@@ -55,6 +58,7 @@ body{
     <script src="/assets/js/toolkit.js"></script>
     <script src="/assets/js/application.js"></script>
   </body>
+
 </html>
 
 
