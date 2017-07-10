@@ -19,6 +19,8 @@ If you need help setting up your AppointmentGuru account, we'd be happy to do it
 * If you already have a file of your clients, feel free to send that through to us instead of filling out the form.
 * If you've been using a physical diary for appointments, take photo's of the appointments with your phone and send those to us instead of filling out the form.
 
+If you're in Joburg or Cape Town, we can meet with you to get you started. Go to the [Get a Guru page](/get-a-guru) for more information.
+
 ### Related articles
 
 * [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
