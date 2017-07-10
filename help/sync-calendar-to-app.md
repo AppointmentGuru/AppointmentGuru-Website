@@ -26,12 +26,11 @@ Once you have the link, you can add it to your calendar of choice. Two things to
 
 1. In Google Calendar, go to Other Calendars > dropdown arrow > Add by URL
 2. Paste the Calendar URL
-3. Add the Calendar to your Outlook Calendar
 
-## On Outlook.com go to Calendar > Import > Subscribe
+## Add the Calendar to your Outlook Calendar
 
-1. Paste the Calendar URL
-2. Add the Calendar to your Mac Calendar
+1. On Outlook.com go to Calendar > Import > Subscribe
+2. Paste the Calendar URL
 
 ## Add the Calendar to your Mac Calendar
 

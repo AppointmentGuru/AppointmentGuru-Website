@@ -14,6 +14,8 @@ We want to see our customers succeed and so, we're available on a number of chan
 * Send us an [email](mailto:support@appointmentguru.co)
 * Chat with us by clicking the blue bubble on the bottom right of [our website](http://www.appointmentguru.co/) or [web app](https://portal.appointmentguru.co/#/login).
 
+If you're in Joburg or Cape Town, we can meet you. Go to the [Get a Guru page](/get-a-guru) for more information.
+
 We welcome any questions and feedback you may have!
 
 ### Related articles

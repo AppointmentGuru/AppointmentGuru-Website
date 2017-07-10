@@ -2,9 +2,9 @@ widgetVersion: 2.0.2
 getAGuru:
   title: Find AppointmentGuru customer success agent
   description: |
-    > Find a friendly **AppointmentGuru** consultant in your area
+    > Find a friendly **AppointmentGuru** consultant in your area.
 
-    At AppointmentGuru we differentiate ourselves by providing excellent hand-on support.
+    At AppointmentGuru we differentiate ourselves by providing excellent hands-on support.
     Our customer success agents are there to help you in any way so that you can build a professional
     business using AppointmentGuru.
 
@@ -12,7 +12,7 @@ getAGuru:
 
     * Any technical questions you might have about the app
     * Setting up and optimizing your practitioner portal
-    * [Guru Does it for you](/)
+    * [Guru Does it for you](/guru-does-it-for-you)
 
     You can book an appointment with a consultant in your area below
   startPage: /practitioners

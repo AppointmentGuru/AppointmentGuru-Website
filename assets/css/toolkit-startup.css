@@ -4989,7 +4989,7 @@ body {
   font-size: 22px;
   font-weight: 300;
   line-height: 1.6;
-  letter-spacing: -0.02em;
+  letter-spacing: 0em;
 }
 @media (min-width: 768px) {
   .lead {
