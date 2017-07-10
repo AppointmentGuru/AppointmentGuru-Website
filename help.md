@@ -88,6 +88,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Let us do some of the work for you
 
+* [Get a Guru to help!](/get-a-guru)
 * [Setting up your account](setting-up-your-account)
 * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
 <!-- * [Business cards and flyers](business-cards-and-flyers) -->

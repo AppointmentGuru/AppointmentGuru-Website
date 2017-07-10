@@ -80,28 +80,31 @@ footer:
     title: About
     description: AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses succeed by taking advantage of technology, empowering them to do more with less.
   col1:
-    title: Product
+    title: Connect
     links:
-      # - href: #
-      #   title: iOS app for practitioners
-      - href: https://play.google.com/store/apps/details?id=za.co.AppointmentGuru.practitioner
-        title: Android app for practitioners
-      - href: http://portal.appointmentguru.co
-        title: Web app
-
+    - href: "mailto:hello@appointmentguru.co"
+      title: Email us
+    - href: https://www.facebook.com/appointmentguru/
+      title: Facebook
+    - href: /get-a-guru
+      title: Get a Guru
   col2:
-    title: Contact
+    title: Navigate
     links:
-      - href: /help/
-        title: Help
-      - href: https://www.facebook.com/appointmentguru/
-        title: Facebook
-      - href: "mailto:hello@appointmentguru.co"
-        title: Email us
-  col3:
-    title: Legal
-    links:
+    - href: /blog/
+      title: Blog
+    - href: /help/
+      title: Help
     - href: /privacy/
       title: Privacy
     - href: /terms/
-      title: Terms and conditions
+      title: Terms & Conditions
+  col3:
+    title: Access
+    links:
+      - href:
+        title: Signup
+      - href: http://portal.appointmentguru.co
+        title: Login
+      - href: http://www.getapp.guru
+        title: Mobile apps
