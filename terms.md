@@ -60,17 +60,25 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 18. Our compliance with privacy legislation is set out in our separate Privacy Policy which may be accessed from our home page.
 
+### Cost and subscription
+
+19. AppointmentGuru requests a monthly (30-day) subscription fee be paid via credit card once a customer has enjoyed a free trial for a month.
+
+20. After the first month, customers will be requested to enter credit card details to purchase a repeating monthly subscription. If customers decline to subscribe, their AppointmentGuru account will become read-only (no functionality will be possible) with the option of upgrading to a paid subscription at any time.
+
+21. The subscription may be canceled at any time and will stop at the end of the current month of subscription.
+
+22. AppointmentGuru may offer other optional services for once-off fees, not included in the monthly subscription.
+
 ### Payment
 
-19. AppointmentGuru uses Peach Payments. Peach Payments performs technical services to support payments to South African businesses. This service includes consulting on a selection of technical and administrative topics, configuring and provisioning of a transaction platform, and providing access to this platform.
+23. AppointmentGuru uses Peach Payments. Peach Payments performs technical services to support payments to South African businesses. This service includes consulting on a selection of technical and administrative topics, configuring and provisioning of a transaction platform, and providing access to this platform.
 
-20. No sensitive cardholder data passes through merchants' servers at any time for either once-off or subscription payments. When a user opts to store card details on a website using Peach Payments, these details are stored by Peach Payments in a PCI DSS level 1 compliant vault. Sensitive cardholder details are directly transmitted from users’ browsers to Peach Payment’s systems. Merchants' staff and systems do not have access to complete card number details at any point in time, on Peach Payments platforms.
-
-21. All new AppointmentGuru customers are entitled to a free trial of one month. After the first month, they will be requested to enter their credit card details to purchase a monthly subscription. If customers decline to subscribe, their AppointmentGuru account will become read-only (no functionality will be possible) with the option of upgrading to a paid subscription at any time.
+24. No sensitive cardholder data passes through merchants' servers at any time for either once-off or subscription payments. When a user opts to store card details on a website using Peach Payments, these details are stored by Peach Payments in a PCI DSS level 1 compliant vault. Sensitive cardholder details are directly transmitted from users’ browsers to Peach Payment’s systems. Merchants' staff and systems do not have access to complete card number details at any point in time, on Peach Payments platforms.
 
 ### Refund
 
-22. Any AppointmentGuru paying customer may request a refund in writing to support@appointmentguru.co with full details and explanation of their request.
+25. Any AppointmentGuru paying customer may request a refund, in writing, to support@appointmentguru.co with full details and explanation of their request. A refund may be issued, depending on the reasonability of the request.
 
 ### Service contact
 
