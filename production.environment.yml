@@ -1,0 +1,7 @@
+docker_environment:
+  - key: AWS_ACCESS_KEY_ID
+    value: "{{aws_access_key}}"
+  - key: AWS_SECRET_ACCESS_KEY
+    value: "{{aws_secret_key}}"
+  - key: SLACK_TOKEN
+    value: "{{slack_api_token}}"
