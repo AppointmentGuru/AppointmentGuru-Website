@@ -1,0 +1,14 @@
+- hosts: localhost
+  vars:
+    staticwebsite_region: eu-central-1
+    staticwebsite_redirect_domains: []
+    path_to_index: '/code/website/_site'
+  roles:
+    - { role: staticwebsite, staticwebsite_domain: appointmentguru.co, staticwebsite_redirect_domains: ['www.appointmentguru.co'] }
+    - { role: staticwebsite, staticwebsite_domain: appointmentguru.co.za, staticwebsite_redirect_domains: ['www.appointmentguru.co.za'] }
+  tasks:
+    - name: Tell slack
+      slack:
+        token: '{{slack_token}}'
+        msg: 'Website deployed: www.appointmentguru.co'
+      delegate_to: localhost

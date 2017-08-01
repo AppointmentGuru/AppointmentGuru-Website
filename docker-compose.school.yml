@@ -1,0 +1,12 @@
+version: "3"
+services:
+  school:
+    image: appointmentguru/infrastructure:latest
+    volumes:
+      - ./production.environment.yml:/code/ansible/group_vars/localhost.yml
+      - ./play.yml:/code/ansible/play.yml
+      - .:/code/website/
+    command: ansible-playbook /code/ansible/play.yml
+    environment:
+      - ANSIBLE_HOST_KEY_CHECKING=False
+      - ANSIBLE_LIBRARY=/etc/ansible/library
