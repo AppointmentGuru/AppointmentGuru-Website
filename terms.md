@@ -78,7 +78,7 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 ### 10. Refund
 
-10.1 Any AppointmentGuru paying customer may request a refund, in writing, to support@appointmentguru.co with full details and explanation of their request. A refund may be issued, depending on the reasonability of the request.
+10.1 Any AppointmentGuru paying customer may request a refund, in writing, to [support@appointmentguru.co](mailto:support@appointmentguru.co) with full details and explanation of their request. A refund may be issued, depending on the reasonability of the request.
 
 ### Service contact
 
