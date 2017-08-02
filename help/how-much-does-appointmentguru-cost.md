@@ -8,7 +8,7 @@ keywords: cost, pricing, fees, subscription
 
 # How much does AppointmentGuru cost?
 
-Right now, AppointmentGuru has a free trial for two weeks before asking you to subscribe to the service. Once the free trial is up, the monthly cost of AppointmentGuru is R400.
+Right now, AppointmentGuru has a free trial for one month (30 days) before asking you to subscribe to the service. Once the free trial is up, the monthly cost of AppointmentGuru is R400.
 
 R400 includes the following:
 
@@ -22,3 +22,6 @@ R400 includes the following:
 ### Related articles
 
 * [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
+* [How long is the free trial](/help/how-long-is-the-free-trial)
+* [How do I pay for my AppointmentGuru subscription?](/help/how-do-I-pay)
+* [Do I get an invoice or receipt for my AppointmentGuru subscription?](/help/do-I-get-a-receipt)
