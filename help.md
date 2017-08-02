@@ -16,8 +16,8 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [How does AppointmentGuru work?](how-does-appointmentguru-work)
 * [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
-* [How do I login?](/help/how-do-I-login)
-* [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
+* [How do I login?](how-do-I-login)
+* [How do I get help from AppointmentGuru?](how-do-I-get-help)
 * [How do I add the appointment types that I offer?](add-appointment-types)
 * [Where do I add my physical address?](add-address)
 * [I want to update my operating hours](update-operating-hours)
@@ -85,6 +85,14 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
+
+## Your AppointmentGuru subscription
+
+* [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
+* [How long is the free trial](how-long-is-the-free-trial)
+* [How do I pay for my AppointmentGuru subscription?](how-do-I-pay)
+* [Do I get an invoice or receipt for my AppointmentGuru subscription?](do-I-get-a-receipt)
+* [Can I get a refund?](can-I-get-a-refund)
 
 ## Let us do some of the work for you
 
