@@ -86,6 +86,13 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
 
+## Your AppointmentGuru subscription
+
+* [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
+* [How do I pay for my AppointmentGuru subscription?](how-do-I-pay)
+* [Do I get an invoice or receipt for my AppointmentGuru subscription?](do-I-get-a-receipt)
+* [Can I get a refund?](can-I-get-a-refund)
+
 ## Let us do some of the work for you
 
 * [Get a Guru to help!](/get-a-guru)
