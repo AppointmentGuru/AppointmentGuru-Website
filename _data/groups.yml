@@ -16,12 +16,14 @@ getAGuru:
 
     You can book an appointment with a consultant in your area below
   startPage: /practitioners
-  practitionerIds: '1,125'
+  practitionerIds: '1,125,1018'
   groups:
   - title: Johannesburg
     practitioners:
       - id: 1
         title: Christo Crampton
+      - id: 1018
+        title: Mumtaz Chohan-Gani
   - title: Cape Town
     practitioners:
       - id: 125
