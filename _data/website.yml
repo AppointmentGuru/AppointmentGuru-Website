@@ -5,7 +5,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R400
-  recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Hairdressers, Dietitians ... <i>you</i>.
+  recommendation: AppointmentGuru is perfect for Physios, Biokinetisists, Personal Trainers, Chiropractors, Psychologists, Dietitians, Consultants ... <i>you</i>.
   signup:
     css:
       - app.5a9ca873380a3ab1330d2de5e2e1781c.css
@@ -16,55 +16,66 @@ homepage:
 
   mainFeatureBlock:
     image: assets/img/guru/appointmentguru-app.png
-    titleSummary: Zero-admin appointments
-    title: The best way to manage your appointments.
-    description: We combine immediate real time events with rich historical data to help answer the toughest questions about retention, growth, and engagement.
+    titleSummary: Zero-admin appointments and invoicing
+    title: Run your business like a pro.
+    description: is empty
     features:
       - title: For your business
-        description: Take <strong>control</strong> of your appointment management, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+        description: Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional</strong> invoices, <strong>organise</strong> your admin and free up <strong>more time</strong>.
       - title: For your clients
-        description: <strong>Anytime</strong> online bookings, appointment <strong>reminders</strong> and <strong>information</strong> on your business.
+        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
 
   features:
     left:
-    - title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
-      icon: check
     - title: Manage your bookings on the go
-      description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
+      description: Use our mobile app or web app to manage your appointments, invoices, calendar, reminders and clients.
       icon: calendar
-    right:
+    - title: Send professional invoices that bookkeepers and medical aids will love
+      description: Professionally-designed invoices sent at the touch of a button. Include extra info like ICD-10 codes.
+      icon:
     - title: Know your business
       description: View reporting on your appointments, schedule and payments; access client histories and much more.
       icon: pie-chart
+    right:
     - title: Automated reminders and notifications
       description: Automatically send customizable reminders and notifications to your clients, minimising missed appointments.
       icon: mobile
+    - title: Take bookings online
+      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
+      icon: check
 
   majorFeatures:
-    - summary: Get more bookings
-      title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
-      picture: left
-      picture_url: assets/img/homepage/online-appointments.png
-    - summary: Run your practice like a pro
+    - summary: Run your business like a pro
       title: Manage your bookings on the go
-      description: Use our mobile app or web app to manage your appointments, calendar, reminders and clients.
+      description: Use our mobile or web app to manage your appointments, invoices, calendar, reminders and clients.
       picture: right
       picture_url: assets/img/homepage/manage-appointments.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
-      description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin-load.
+      description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin load.
       background: light
       picture: left
       picture_url: assets/img/homepage/notifications.png
+    - summary:
+      title: Send professional invoices that bookkeepers and medical aids will love
+      description: Professionally-designed invoices sent at the touch of a button. Include extra info like ICD-10 codes.
+      picture: right
+      picture_url:
+    - summary: Get more bookings
+      title: Take bookings online
+      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
+      background: light
+      picture: left
+      picture_url: assets/img/homepage/online-appointments.png
 
   pricingFeatures:
-    - A mobile app and web app for managing your appointments
-    - A free booking page (website) and mobile app to take online bookings
-    - Free SMS or email reminders for yourself and your clients
-    - Table talkers to encourage your clients to use AppointmentGuru to make appointments
-    - Access to logo design, business cards and flyers - all with your AppointmentGuru details
+    - A mobile and web app for managing your appointments
+    - A free booking page (website) and mobile app for clients to make appointments
+    - Free SMS or email appointment and payment reminders for your clients (and for you)
+    - Automatically generated invoices easily sent from AppointmentGuru
+    - Free table talkers encouraging clients to make appointments via AppointmentGuru
+    - Access to logo, business card and flyer design - all with your AppointmentGuru details
+    - The option to boost your subscription and use our expertise
     - Reliable customer support, keen to see you succeed
 
   screenshots:
@@ -106,5 +117,7 @@ footer:
         title: Signup
       - href: http://portal.appointmentguru.co
         title: Login
+      - href: /guru-does-it-for-you/
+        title: Guru Does It For You
       - href: http://www.getapp.guru
         title: Mobile apps
