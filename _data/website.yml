@@ -16,51 +16,58 @@ homepage:
 
   mainFeatureBlock:
     image: assets/img/guru/appointmentguru-app.png
-    titleSummary: Zero-admin appointments and invoicing
+    titleSummary: Zero-admin appointments # and invoicing
     title: Run your business like a pro.
-    description: is empty
+#    description: is empty
     features:
       - title: For your business
-        description: Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional</strong> invoices, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+        description: Take <strong>control</strong> of your appointment management, <strong>organise</strong> your admin and free up <strong>more time</strong>.
       - title: For your clients
-        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
+        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>.
+# Replace with this when invoicing is out:
+#      - title: For your business
+#        description: Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional</strong> invoices, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+#      - title: For your clients
+#        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
 
   features:
 
   majorFeatures:
     - summary: Run your business like a pro
       title: Manage your bookings on the go
-      description: Use our mobile and web app to manage your appointments, invoices, calendar, reminders and clients.
+      description: Use our mobile and web app to manage your appointments, calendar, reminders and clients.
+# Replace with this when invoicing is out:
+#      description: Use our mobile and web app to manage your appointments, invoices, calendar, reminders and clients.
       picture: right
       picture_url: assets/img/homepage/manage-appointments.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
       description: Editable appointment and payment reminder notifications lessen no-shows and lighten your admin load.
-      background: light
       picture: left
       picture_url: assets/img/homepage/notifications.png
-    - summary: Automatically generated invoices
-      title: Send professional invoices that clients, bookkeepers and medical aids will love
-      description: Industry standard invoices sent at the touch of a button. Include extra info like ICD-10 codes.
-      picture: right
-      picture_url:
+#    - summary: Automatically generated invoices
+#      title: Send professional invoices that clients, bookkeepers and medical aids will love
+#      description: Industry standard invoices sent at the touch of a button. Include extra info like ICD-10 codes.
+#      picture: right
+#      picture_url:
     - summary: Get more bookings
       title: Take bookings online
       description: With AppointmentGuru your clients can book online from your free booking page, or via the mobile app.
-      background: light
-      picture: left
+      picture: right
       picture_url: assets/img/homepage/online-appointments.png
     - summary: Guru Does It For You
-      title: Boost your subscription with Guru Does It For You
-      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
-      picture: right
+      title: Boost your subscription with <em>Guru Does It For You</em>
+      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
+# Replace with this when invoicing is out:
+#      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
+      picture: left
       picture_url:
 
   pricingFeatures:
     - A mobile and web app for managing your appointments
     - A free booking page (website) and mobile app for clients to make appointments
     - SMS and email appointment and payment reminders for your clients (and for you)
-    - Customisable, automatically generated invoices easily sent via AppointmentGuru
+#    - Customisable, automatically generated invoices easily sent via AppointmentGuru
     - Table talkers to encourage clients to make appointments through AppointmentGuru
     - Access to logo, business card and flyer design - all with your AppointmentGuru details
     - The option to boost your subscription with Guru Does It For You and use our expertise
