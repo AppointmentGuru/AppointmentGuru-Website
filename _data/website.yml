@@ -56,12 +56,12 @@ homepage:
       picture: right
       picture_url: assets/img/homepage/online-appointments.png
     - summary: Guru Does It For You
-      title: Boost your subscription with <em>Guru Does It For You</em>
+      title: Boost your subscription
       description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
 # Replace with this when invoicing is out:
 #      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
       picture: left
-      picture_url:
+      picture_url: assets/img/homepage/guru-does-it-for-you.png
 
   pricingFeatures:
     - A mobile and web app for managing your appointments
