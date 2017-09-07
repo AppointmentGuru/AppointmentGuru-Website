@@ -26,56 +26,44 @@ homepage:
         description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
 
   features:
-    left:
-    - title: Manage your bookings on the go
-      description: Use our mobile app or web app to manage your appointments, invoices, calendar, reminders and clients.
-      icon: calendar
-    - title: Send professional invoices that bookkeepers and medical aids will love
-      description: Professionally-designed invoices sent at the touch of a button. Include extra info like ICD-10 codes.
-      icon:
-    - title: Know your business
-      description: View reporting on your appointments, schedule and payments; access client histories and much more.
-      icon: pie-chart
-    right:
-    - title: Automated reminders and notifications
-      description: Automatically send customizable reminders and notifications to your clients, minimising missed appointments.
-      icon: mobile
-    - title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
-      icon: check
 
   majorFeatures:
     - summary: Run your business like a pro
       title: Manage your bookings on the go
-      description: Use our mobile or web app to manage your appointments, invoices, calendar, reminders and clients.
+      description: Use our mobile and web app to manage your appointments, invoices, calendar, reminders and clients.
       picture: right
       picture_url: assets/img/homepage/manage-appointments.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
-      description: Editable appointment reminders and payment reminder notifications lessen no-shows and lighten your admin load.
+      description: Editable appointment and payment reminder notifications lessen no-shows and lighten your admin load.
       background: light
       picture: left
       picture_url: assets/img/homepage/notifications.png
-    - summary:
-      title: Send professional invoices that bookkeepers and medical aids will love
-      description: Professionally-designed invoices sent at the touch of a button. Include extra info like ICD-10 codes.
+    - summary: Automatically generated invoices
+      title: Send professional invoices that clients, bookkeepers and medical aids will love
+      description: Industry standard invoices sent at the touch of a button. Include extra info like ICD-10 codes.
       picture: right
       picture_url:
     - summary: Get more bookings
       title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your free booking page, or via our mobile app.
+      description: With AppointmentGuru your clients can book online from your free booking page, or via the mobile app.
       background: light
       picture: left
       picture_url: assets/img/homepage/online-appointments.png
+    - summary: Guru Does It For You
+      title: Boost your subscription with Guru Does It For You
+      description: We'll help get your business running like a machine. Dedicated Guru? Check. Customise your AppointmentGuru account? Check. On standby to make changes to your appointments? Check. Send invoices for you? Check.
+      picture: right
+      picture_url:
 
   pricingFeatures:
     - A mobile and web app for managing your appointments
     - A free booking page (website) and mobile app for clients to make appointments
-    - Free SMS or email appointment and payment reminders for your clients (and for you)
-    - Automatically generated invoices easily sent from AppointmentGuru
-    - Free table talkers encouraging clients to make appointments via AppointmentGuru
+    - SMS and email appointment and payment reminders for your clients (and for you)
+    - Customisable, automatically generated invoices easily sent via AppointmentGuru
+    - Table talkers to encourage clients to make appointments through AppointmentGuru
     - Access to logo, business card and flyer design - all with your AppointmentGuru details
-    - The option to boost your subscription and use our expertise
+    - The option to boost your subscription with Guru Does It For You and use our expertise
     - Reliable customer support, keen to see you succeed
 
   screenshots:
