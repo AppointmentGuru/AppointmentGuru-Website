@@ -2,8 +2,8 @@
 layout: page
 title: Guru Does It For You
 permalink: /guru-does-it-for-you/
-description: Let AppointmentGuru help you setup your business
-keywords: AppointmentGuru admin, customer service, guru does it for you
+description: Boost your AppointmentGuru sub with Guru Does It For You
+keywords: AppointmentGuru admin, customer service, guru does it for you, virtual assistant
 ---
 # Guru Does It For You
 
