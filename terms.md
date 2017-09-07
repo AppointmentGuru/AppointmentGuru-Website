@@ -68,7 +68,9 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 8.3 The subscription may be canceled at any time and will stop at the end of the current month of subscription.
 
-8.4 AppointmentGuru may offer other optional services for once-off fees, not included in the monthly subscription.
+8.4 AppointmentGuru may offer more than one subscription type.
+
+8.5 AppointmentGuru may offer other optional services for once-off fees, not included in the monthly subscription.
 
 ### 9. Payment
 
