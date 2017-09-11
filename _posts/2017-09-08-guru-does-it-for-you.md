@@ -14,10 +14,10 @@ It might feel like we've been hibernating for the past few months but we do have
 
 ## Things we can do (and any others you can think of!):
 
-1. Configure your AppointmentGuru account
+1. Configure and tweak your AppointmentGuru account settings
 2. Import existing clients and appointments
 3. Manage your appointments for you
-4. Reconcile paid invoices in AppointmentGuru so that you can send payment reminders
+4. Reconcile paid invoices in AppointmentGuru so that you can send payment reminders and see accurate reporting
 5. Create mail campaigns to your Clients
 6. Link your Facebook page to AppointmentGuru
 7. Help customise your free AppointmentGuru booking page or give you code for the booking widget to add to your own website
@@ -27,6 +27,6 @@ It might feel like we've been hibernating for the past few months but we do have
 
 As we release more features, this list will grow! Keep updated on the [*Guru Does It For You*](/guru-does-it-for-you) page.
 
-We always welcome feedback via [email](mailto;support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
+We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
 
 <div style="text-align: right">8 September 2017</div>
