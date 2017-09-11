@@ -29,4 +29,4 @@ As we release more features, this list will grow! Keep updated on the [*Guru Doe
 
 We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
 
-<div style="text-align: right">8 September 2017</div>
+<div style="text-align: right">11 September 2017</div>
