@@ -3,7 +3,7 @@ layout: page
 title:  "Revamped mobile app and support for other appointment locations"
 date:   2017-06-22 10:00:00 +0200
 category: announcements
-pubished: true
+published: true
 tags:
   - AppointmentGuru mobile app
   - client app
