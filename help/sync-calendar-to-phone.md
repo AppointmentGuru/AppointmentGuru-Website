@@ -20,7 +20,7 @@ You can definitely sync your calendar apps!
 Once you have the link, you can add it to your calendar of choice. Two things to remember:
 
 1. It's a read-only calendar, so you won't be able to add appointments and expect it to sync back to AppointmentGuru.
-2. Some calendars take a while to sync (especially if your calendar is on a Google account).
+2. Some calendars take a while to sync (especially if your calendar is on a Google account, changes are only visible after 24 hours).
 
 ## Add the Calendar to your iPhone calendar app
 
@@ -30,7 +30,12 @@ Once you have the link, you can add it to your calendar of choice. Two things to
 ## Add the Calendar to your Android calendar app
 
 1. Follow the steps to add the Calendar to your Google Calendar ([on this link](/help/sync-calendar-to-app)).
-2. On your Android device, go to the Calendar App, or S Planner and choose the additional calendars to display.
+2. On your Android device, open the Calendar app and tap on the three dots on the top right > Calendars to display > Calendars to sync and check the box next to your calendar > OK.
+
+### To beat the 24-hour delay in updating with Google Calendar
+
+1. Try out [this app](https://play.google.com/store/apps/details?id=com.kenfenheuer.ICALSync). It's not a separate calendar app but rather pushes updates to your Google Calendar app more often.
+2. When setting it up, use the same calendar URL and choose the sync intervals you would like to use.
 
 ### Related articles
 
