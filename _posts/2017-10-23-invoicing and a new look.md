@@ -36,7 +36,6 @@ Along with medical codes, you'll be able to add your client's medical aid partic
 * We've removed the settings for your booking page (for now), it will come back soon.
 * A shedload of backend updates, fixes and enhancements to make everything run zippier and look good.
 
-
 We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
 
 <div style="text-align: right">23 October 2017</div>

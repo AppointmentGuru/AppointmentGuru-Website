@@ -32,9 +32,9 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [How do I add the appointment types that I offer?](add-appointment-types)
 * [I want to update my operating hours](update-operating-hours)
 * [Is my information and data safe and secure?](is-my-data-secure)
-* [What can I see on my dashboard?](what-is-on-the-dashboard)
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
+* [How does the reporting work?](reporting)
 
 ## Notifications
 

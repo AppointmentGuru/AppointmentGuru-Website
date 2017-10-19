@@ -13,13 +13,12 @@ When an appointment confirmation or reminder is sent to your Clients, you can ad
 ## Here's how to edit the notification
 
 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/) and go to the Settings page.
-2. Under *Communication messages*, click on the message you would like to edit and make changes in the fields provided
-3. Save your changes by clicking on the blue save icon
-4. Make sure you've got it right by sending a test message (click on the green arrow)
+2. Under *Communications*, click on the edit icon on the right next to the message you would like to edit.
+3. Make changes in the fields provided and click on *Save*.
 
 ## We can do it for you!
 
-Send the changes you'd like to make [to us](mailto:support@appointmentguru.co) and we'll update them for you.
+Click on *Do it for me* to open a chat with us or send the changes you'd like to make [to us](mailto:support@appointmentguru.co) and we'll update them for you.
 
 ### Related articles
 
