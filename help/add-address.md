@@ -12,8 +12,8 @@ An important part of allowing your clients to schedule appointments with you is 
 
 ## Here are the steps:
 
-1. Log into your AppointmentGuru account via the [web app](https://portal.appointmentguru.co/#/login)
-2. Go to the [Settings page](http://portal.appointmentguru.co/#/settings) and scroll down to *Services*
+1. Log into your AppointmentGuru account via the [web app](https://app.appointmentguru.co/#/login)
+2. Go to the [Settings page](http://app.appointmentguru.co/#/settings) and scroll down to *Services*
 3. Under *Location*, click on *Add a new service* and *Click here* to edit
 4. Add your address and contact details, remember to click on *Save Changes*
 

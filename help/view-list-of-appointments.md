@@ -8,7 +8,7 @@ keywords: previous appointments, scheduled appointments
 
 # Can I view a list of all the appointments that a client has had with me?
 
-Log into your [AppointmentGuru account](https://portal.appointmentguru.co) and find the client in your list of clients. You'll be able to view and do the following:
+Log into your [AppointmentGuru account](https://app.appointmentguru.co) and find the client in your list of clients. You'll be able to view and do the following:
 
 * See a list of appointments booked (and those canceled) with that specific client.
 * Mark an appointment as paid or send a payment reminder.

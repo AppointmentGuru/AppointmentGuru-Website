@@ -12,7 +12,7 @@ You can definitely sync your calendar apps!
 
 ## Finding the Calendar feed URL in your AppointmentGuru account
 
-1. Login to the AppointmentGuru [web app](https://portal.appointmentguru.co).
+1. Login to the AppointmentGuru [web app](https://app.appointmentguru.co).
 2. Click on calendar, then scroll to the bottom of the page. You should see a link which looks like this:
 
 ![Calendar-subscribe-link](/help/images/calendar/calendar-subscribe-link.png){:class="img-responsive"}

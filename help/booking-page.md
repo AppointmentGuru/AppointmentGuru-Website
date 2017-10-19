@@ -12,8 +12,8 @@ With your AppointmentGuru account, you'll get a free booking page that your clie
 
 ## Accessing the settings of your booking page
 
-1. Log into your AppointmentGuru account via the [web app](https://portal.appointmentguru.co/#/login).
-2. Go to the [Settings page](http://portal.appointmentguru.co/#/settings) and scroll down to *My website*
+1. Log into your AppointmentGuru account via the [web app](https://app.appointmentguru.co/#/login).
+2. Go to the [Settings page](http://app.appointmentguru.co/#/settings) and scroll down to *My website*
 3. Click on *choose a template* to find a background image that you like. If you'd prefer to use your own background image, feel free to [email it to us](mailto:support@appointmentguru.co).
 4. Clicking on *publish now* will make the site live for people to visit.
 

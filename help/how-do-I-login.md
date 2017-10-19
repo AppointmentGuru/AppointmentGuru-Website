@@ -12,7 +12,7 @@ Your AppointmentGuru account is accessible via a web and mobile app.
 
 ## Web app
 
-* Go to [portal.appointmentguru.co](https://portal.appointmentguru.co/)
+* Go to [portal.appointmentguru.co](https://app.appointmentguru.co/)
 * Enter the email address and password used to create your AppointmentGuru account
 
 ## Mobile app

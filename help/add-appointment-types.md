@@ -12,8 +12,8 @@ Before adding clients or scheduling appointments, you'll need to define the type
 
 ## The steps:
 
-1. Log into your AppointmentGuru account via the [web app](https://portal.appointmentguru.co/#/login)
-2. Go to the [Settings page](http://portal.appointmentguru.co/#/settings) and scroll down to *Services*
+1. Log into your AppointmentGuru account via the [web app](https://app.appointmentguru.co/#/login)
+2. Go to the [Settings page](http://app.appointmentguru.co/#/settings) and scroll down to *Services*
 3. Click on *Add a New Product*
 4. Add a name, price and time period for the type of appointment you offer
 5. Remember to click on *Add Service* to save your changes

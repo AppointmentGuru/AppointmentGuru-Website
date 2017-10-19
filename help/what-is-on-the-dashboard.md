@@ -8,7 +8,7 @@ keywords: dashboard, reporting, activity, account overview
 
 # What can I see on my dashboard?
 
-Whenever you log into your [AppointmentGuru account](https://portal.appointmentguru.co), you'll be able to see a dashboard that contains reporting on your AppointmentGuru clients, payments and activity.
+Whenever you log into your [AppointmentGuru account](https://app.appointmentguru.co), you'll be able to see a dashboard that contains reporting on your AppointmentGuru clients, payments and activity.
 
 ## Here's a list of reports
 

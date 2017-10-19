@@ -10,6 +10,12 @@ keywords: invoice, invoicing, line item, ICD-10, NAPPI, payment
 
 Invoice line items and descriptions can be added via the Appointment or Invoice pages.
 
+## Via the Appointment page
+
+
+
+## Via the Invoice page
+
 
 
 ### Related articles

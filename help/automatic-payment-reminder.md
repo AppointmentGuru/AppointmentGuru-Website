@@ -16,7 +16,7 @@ By default, the payment reminder says *Hi {{client.first_name}}. Just a friendly
 
 It's advised that you edit it to include any other information, here's how:
 
-1. Log into your AppointmentGuru account in the [web app](https://portal.appointmentguru.co/) and go to the Settings page.
+1. Log into your AppointmentGuru account in the [web app](https://app.appointmentguru.co/) and go to the Settings page.
 2. Click on the first notification *Payment reminder* and choose whether you want to edit the SMS or email notification.
 3. Once edited, click on the green arrow icon to the right to send yourself a test message.
 4. Clicking on the blue icon to the right, saves the message.

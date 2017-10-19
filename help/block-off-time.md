@@ -12,12 +12,12 @@ There will be blocks of time where you won't want your Clients to be able to boo
 
 ## Once-off blocking
 
-1. Go to the Schedule page in the [web app](https://portal.appointmentguru.co/) and mark a timeslot as unavailable by clicking on the *X*.
+1. Go to the Schedule page in the [web app](https://app.appointmentguru.co/) and mark a timeslot as unavailable by clicking on the *X*.
 2. On the Calendar page select the timeslot, click on *Custom Event* that appears in the block opening on the right and complete the form.
 
 ## Permanent blocking
 
-1. Log into your [AppointmentGuru account](https://portal.appointmentguru.co/) and go to the Settings page.
+1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/) and go to the Settings page.
 2. Under *Configure Services*, click on your current service and go to *Operating Hours*.
 3. Select the days and hours you'd like to be available for appointments, remember to click on *Update Operating Hours*.
 4. Should you want to add different hours for different days, click on *Add More Hours* or *Add More Days*.

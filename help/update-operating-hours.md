@@ -14,8 +14,8 @@ Your operating hours shouldn't change week-to-week. If there are time slots that
 
 ## Here's how to manage your operating hours
 
-1. Log into your AppointmentGuru account via the [web app](https://portal.appointmentguru.co/#/login)
-2. Go to the [Settings page](http://portal.appointmentguru.co/#/settings) and scroll down to *Services*
+1. Log into your AppointmentGuru account via the [web app](https://app.appointmentguru.co/#/login)
+2. Go to the [Settings page](http://app.appointmentguru.co/#/settings) and scroll down to *Services*
 3. Under *Operating Hours*, select the days and hours you'd like to be available for appointments
 4. Remember to click on *Update Operating Hours*
 5. Should you want to add different hours for different days, click on *Add More Days*

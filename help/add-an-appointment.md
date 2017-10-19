@@ -10,10 +10,9 @@ keywords: schedule, add, booking, appointment
 
 Adding appointments is the key functionality of AppointmentGuru! Remember, there are a few things that need to be setup before you can start adding appointments like [adding your appointment types](/help/add-appointment-types) and [adding clients?](/help/add-clients).
 
-## Add an appointment in the [web app](https://portal.appointmentguru.co/):
+## Add an appointment in the [web app](https://app.appointmentguru.co/):
 
-* Hit the *A* key on your keyboard to open the new booking form.
-* or, go to the Calendar page and select the appointment by highlighting the hours on the calendar with your cursor. A form will open and you can enter the appointment details.
+* Go to the Calendar page and select the appointment by highlighting the hours on the calendar with your cursor. A form will open and you can enter the appointment details.
 
 You appointment will be created and added to the calendar view.
 
