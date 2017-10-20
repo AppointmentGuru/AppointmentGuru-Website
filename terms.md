@@ -58,13 +58,13 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 7.1 We undertake to take all due care with any information which you may provide to us when accessing our website(s) and mobile application(s). However we do not warrant and cannot ensure the security of any information which you may provide to us. Information you transmit to us is entirely at your own risk although we undertake to take reasonable steps to preserve such information in a secure manner.
 
-7.2 Our compliance with privacy legislation is set out in our separate Privacy Policy which may be accessed from our home page.
+7.2 Our compliance with privacy legislation is set out in our separate [Privacy Policy](/privacy) which may be accessed from our home page.
 
 ### 8. Cost and subscription
 
-8.1 AppointmentGuru requests a monthly (30-day) subscription fee be paid via credit card once a customer has enjoyed a free trial for a month.
+8.1 AppointmentGuru requests a monthly (30-day) subscription fee be paid via credit card once a customer has enjoyed a free trial for two months.
 
-8.2 After the first month, customers will be requested to enter credit card details to purchase a repeating monthly subscription. If customers decline to subscribe, their AppointmentGuru account will become read-only (no functionality will be possible) with the option of upgrading to a paid subscription at any time.
+8.2 After the second month, customers will be requested to enter credit card details to purchase a repeating monthly subscription. If customers decline to subscribe, their AppointmentGuru account will become read-only (no functionality will be possible) with the option of upgrading to a paid subscription at any time.
 
 8.3 The subscription may be canceled at any time and will stop at the end of the current month of subscription.
 
@@ -88,4 +88,4 @@ support@appointmentguru.com
 
 ### Last updated
 
-02 August 2017.
+20 October 2017.
