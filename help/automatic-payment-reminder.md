@@ -18,16 +18,14 @@ It's advised that you edit it to include any other information, here's how:
 
 1. Log into your AppointmentGuru account in the [web app](https://app.appointmentguru.co/) and go to the Settings page.
 2. Click on the first notification *Payment reminder* and choose whether you want to edit the SMS or email notification.
-3. Once edited, click on the green arrow icon to the right to send yourself a test message.
-4. Clicking on the blue icon to the right, saves the message.
+3. Once edited, clicking on the blue Save button to save the message.
 
 **Please note:** Messages sent from AppointmentGuru use merge tags so that each message is personalised to that particular customer. If you're concerned that you'll make a mistake, please [contact us](mailto:support@appointmentguru.co) and we'll make the change for you!
 
 ## Sending the notification
 
 1. To send a notification for a particular appointment that needs to be paid, navigate to that appointment in either the web or mobile app.
-2. Click on the three dots on the bottom right.
-3. Select *Send payment reminder*.
+2. Click on the three dots and select *Send payment request*.
 
 ### Related articles
 

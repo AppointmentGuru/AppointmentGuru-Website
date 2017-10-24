@@ -65,7 +65,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [How do I add an appointment?](add-an-appointment)
 * [How do my clients book appointments with me?](how-do-clients-book-appointments)
 * [How do I know when a client has booked an appointment with me?](how-do-I-know-when-an-appointment-has-been-booked)
-* [What do the letters B, N, and P in the appointment mean?](appointment-status)
 * [How do I cancel an appointment?](cancel-appointment)
 * [I need to reschedule an appointment](reschedule-appointment)
 * [I want to block off time so that clients can't make bookings](block-off-time)
@@ -78,7 +77,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone)
 * [Can the calendar sync to my Outlook or Calendar app?](sync-calendar-to-app)
-* [What do the letters B, N, and P in the appointment mean?](appointment-status)
 
 ## Invoicing your clients
 
@@ -86,6 +84,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Add your invoicing settings](invoicing-settings)
 * [Adding medical records](adding-medical-records)
 * [Adding invoice line items](adding-invoice-line-items)
+* [How do I get an invoice ready to send?](invoice-ready-to-send)
 * [Edit an invoice](edit-an-invoice)
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)

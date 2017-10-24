@@ -26,7 +26,7 @@ Invoicing can be done as your appointments happen or you can complete them at th
 
 4. When you're ready to send the invoice, go to the [Invoicing page](https://app.appointmentguru.co/#/invoices). Add or edit any details and send it! [Read more on this link](/help/invoice-ready-to-send).
 
-<picture>
+![Invoice Ready](/help/images/invoicing/invoice_ready.jpg){:class="img-responsive"}
 
 ## Invoicing features we're still going to add
 

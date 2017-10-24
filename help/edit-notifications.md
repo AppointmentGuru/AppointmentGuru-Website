@@ -10,7 +10,9 @@ keywords: edit notification, add text
 
 When an appointment confirmation or reminder is sent to your Clients, you can add extra information they may need to know. For example, telling them to wear comfortable clothes, or to knock because the buzzer is broken - anything to make your life easier!
 
-## Here's how to edit the notification
+Adding and editing appointment notifications is currently not working properly. If you'd like to make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
+
+<!-- ## Here's how to edit the notification
 
 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/) and go to the Settings page.
 2. Under *Communications*, click on the edit icon on the right next to the message you would like to edit.
@@ -18,7 +20,7 @@ When an appointment confirmation or reminder is sent to your Clients, you can ad
 
 ## We can do it for you!
 
-Click on *Do it for me* to open a chat with us or send the changes you'd like to make [to us](mailto:support@appointmentguru.co) and we'll update them for you.
+Click on *Do it for me* to open a chat with us or send the changes you'd like to make [to us](mailto:support@appointmentguru.co) and we'll update them for you. -->
 
 ### Related articles
 

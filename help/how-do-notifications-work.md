@@ -26,7 +26,7 @@ One of the beautiful parts of AppointmentGuru are the automated notifications. A
 
 By default, all notifications are sent automatically (except Payment reminders) unless you've specified that they mustn't be sent when taking action on an appointment.
 
-Next is [editing notifications](/help/edit-notifications), customising the text to suit your needs.
+Learn more about [editing notifications](/help/edit-notifications), where you can customise the text to suit your needs.
 
 ### Related articles
 

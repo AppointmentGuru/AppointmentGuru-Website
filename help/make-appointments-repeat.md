@@ -8,7 +8,7 @@ keywords: repeat, re-occur
 
 # Can I make appointments repeat for repeating customers?
 
-If you have regular clients, there's an easy way to create repeating appointments so that you don't have to add them one-by-one.
+If you have regular clients, there's an easy way to create repeating appointments so that you don't have to add them one-by-one. 
 
 ## To create repeating appointments:
 

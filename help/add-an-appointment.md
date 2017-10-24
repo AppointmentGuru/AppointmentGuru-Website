@@ -12,7 +12,8 @@ Adding appointments is the key functionality of AppointmentGuru! Remember, there
 
 ## Add an appointment in the [web app](https://app.appointmentguru.co/):
 
-* Go to the Calendar page and select the appointment by highlighting the hours on the calendar with your cursor. A form will open and you can enter the appointment details.
+* Add an appointment anywhere within the web app by clicking on the blue plus on the bottom right of your screen.
+* Add an appointment on the Calendar page by clicking on a specific time on the calendar.
 
 You appointment will be created and added to the calendar view.
 
@@ -22,12 +23,6 @@ You appointment will be created and added to the calendar view.
 * or, go to *Clients*, choose the client and then *Create an appointment*.
 
 Unless you've specified not to, a notification will be sent to the client with the details of their appointment.
-
-| | | |
-| ![Add an appointment in the web app](/help/images/appointments/web-create-appointment.png){:class="img-responsive"} | | ![Add an appointment in the mobile app](/help/images/appointments/mobile-create-appointment.png){:class="img-responsive"} |
-| | | |
-| :-: | :-: | :-: |
-| **Web app** |  | **Mobile app** |
 
 ### Related articles
 

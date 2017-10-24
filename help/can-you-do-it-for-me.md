@@ -15,16 +15,14 @@ Yes, we can! We're always happy to help with any questions but we also offer [*G
 1. Configure your AppointmentGuru account
 2. Import existing clients and appointments
 3. Manage your appointments for you
-<!--
 4. Handle your invoicing
--->
-4. Reconciling paid invoices in AppointmentGuru
-5. Mail campaigns to clients
-6. Link your Facebook page
-7. Booking widget code for your existing website
-8. Setup your domain name and email
-9. Get your calendar syncing
-10. Access to logo design, business cards and flyers
+5. Reconciling paid invoices in AppointmentGuru
+6. Mail campaigns to clients
+7. Link your Facebook page
+8. Booking widget code for your existing website
+9. Setup your domain name and email
+10. Get your calendar syncing
+11. Access to logo design, business cards and flyers
 
 And more, just ask! Information can be found on [*Guru Does It For You*](/guru-does-it-for-you).
 
