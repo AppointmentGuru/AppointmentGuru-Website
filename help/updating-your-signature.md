@@ -17,9 +17,9 @@ The signature space on emails is a useful place to let your Clients know that th
 1. [How to edit your signature on Gmail](https://support.google.com/mail/answer/8395)
 2. [How to edit your signature on Outlook](https://support.office.com/en-us/article/Create-and-add-a-signature-to-messages-8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2)
 
-## Whatsapp
+## WhatsApp
 
-Add your booking page URL to your status on Whatsapp: *Settings* > your name > *About*
+Add your booking page URL to your status on WhatsApp: *Settings* > your name > *About*
 
 ### Related articles
 
