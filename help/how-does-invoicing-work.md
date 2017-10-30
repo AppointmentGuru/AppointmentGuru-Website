@@ -38,10 +38,10 @@ Invoicing can be done as your appointments happen or you can complete them at th
 
 ### Related articles
 
-* [Add your invoicing settings](invoicing-settings)
-* [Adding medical records](adding-medical-records)
-* [Adding invoice line items](adding-invoice-line-items)
-* [Editing and sending an invoice](edit-an-invoice)
-* [Can I download invoices for the month?](download-invoices)
-* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
-* [How do I give a client a discount for a specific appointment?](discount-appointment)
+* [Add your invoicing settings](/help/invoicing-settings)
+* [Adding medical records](/help/adding-medical-records)
+* [Adding invoice line items](/help/adding-invoice-line-items)
+* [Editing and sending an invoice](/help/edit-an-invoice)
+* [Can I download invoices for the month?](/help/download-invoices)
+* [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](/help/iscount-appointment)

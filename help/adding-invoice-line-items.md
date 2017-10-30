@@ -20,10 +20,10 @@ If the *Medical aid line items* area is not showing, click on the refresh button
 
 ### Related articles
 
-* [How does invoicing work?](how-does-invoicing-work)
-* [Add your invoicing settings](invoicing-settings)
-* [Adding medical records](adding-medical-records)
-* [Editing and sending an invoice](edit-an-invoice)
-* [Can I download invoices for the month?](download-invoices)
-* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
-* [How do I give a client a discount for a specific appointment?](discount-appointment)
+* [How does invoicing work?](/help/how-does-invoicing-work)
+* [Add your invoicing settings](/help/invoicing-settings)
+* [Adding medical records](/help/adding-medical-records)
+* [Editing and sending an invoice](/help/edit-an-invoice)
+* [Can I download invoices for the month?](/help/download-invoices)
+* [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](/help/discount-appointment)

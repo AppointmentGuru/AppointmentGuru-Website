@@ -23,8 +23,8 @@ keywords: process, methodology
 3. You'll be able to [add information to the notifications](/help/edit-notifications) sent to your clients.
 
 ## Don't forget to invoice and remind your clients to pay
-1. [Invoices](how-does-invoicing-work) can be automatically generated based on the appointments you've had.
-2. You'll be able to [add line items](adding-invoice-line-items) and [medical records](adding-medical-records).
+1. [Invoices](/help/how-does-invoicing-work) can be automatically generated based on the appointments you've had.
+2. You'll be able to [add line items](/help/adding-invoice-line-items) and [medical records](/help/adding-medical-records).
 3. Invoices are quickly sent via email from your AppointmentGuru account.
 4. [Marking appointments as paid](/help/mark-as-paid) will enable you to quickly see where you need to chase clients for payment.
 

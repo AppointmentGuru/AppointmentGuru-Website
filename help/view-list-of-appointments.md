@@ -11,7 +11,7 @@ keywords: previous appointments, scheduled appointments
 Log into your [AppointmentGuru account](https://app.appointmentguru.co) and find the client in your list of clients. You'll be able to view and do the following:
 
 * See a list of appointments booked (and those canceled) with that specific client.
-* Mark an appointment as paid or send a payment reminder.
+* Invoice or mark an appointment as paid or send a payment reminder.
 * Reschedule or cancel any future appointments.
 
 ### Related articles

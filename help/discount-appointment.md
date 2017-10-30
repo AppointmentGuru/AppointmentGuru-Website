@@ -14,7 +14,7 @@ When [editing an invoice](/help/edit-an-invoice), change the amount under *Appoi
 
 ### Related articles
 
-* [Editing and sending an invoice](edit-an-invoice)
+* [Editing and sending an invoice](/help/edit-an-invoice)
 * [How do I add the appointment types that I offer?](/help/add-appointment-types)
 * [Can I download invoices for the month?](/help/download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
