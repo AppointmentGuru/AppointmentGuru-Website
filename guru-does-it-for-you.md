@@ -7,7 +7,7 @@ keywords: AppointmentGuru admin, customer service, guru does it for you, virtual
 ---
 # Guru Does It For You
 
-We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial!
+We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial! 
 
 ## How does it work?
 

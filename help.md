@@ -106,7 +106,4 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 <!-- * [Business cards and flyers](business-cards-and-flyers) -->
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
-## Known issues
-
-* [Editing appointments not working](editing-appointments-not-working)
-* [Editing appointment types not working](editing-appointment-types-not-working)
+<!-- ## Known issues -->

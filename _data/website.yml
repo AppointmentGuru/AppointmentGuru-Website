@@ -40,29 +40,29 @@ homepage:
       picture_url: assets/img/homepage/notifications.png
     - summary: Automatically generated invoices
       title: Send professional invoices that clients, bookkeepers and medical aids will love
-      description: Industry standard invoices sent at the touch of a button. Include extra info like ICD-10 codes.
+      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes.
       picture: right
       picture_url: assets/img/homepage/invoicing.jpg
     - summary: Get more bookings
       title: Take bookings online
-      description: With AppointmentGuru your clients can book online from your free booking page, or via the mobile app.
+      description: With AppointmentGuru, your clients can book online from your free booking page, or via the mobile app.
       picture: left
       picture_url: assets/img/homepage/online-appointments.png
     - summary: Guru Does It For You
       title: Boost your subscription
-      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to make changes to your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
+      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
       picture: right
       picture_url: assets/img/homepage/guru-does-it-for-you.jpg
 
   pricingFeatures:
-    - A two month free trial
+    - A free trial for two months
     - A mobile and web app for managing your appointments
     - A free booking page (website) and mobile app for clients to make appointments
     - SMS and email appointment and payment reminders for your clients (and for you)
     - Customisable, automatically generated invoices easily sent via AppointmentGuru
     - Table talkers to encourage clients to make appointments through AppointmentGuru
     - Access to logo, business card and flyer design - all with your AppointmentGuru details
-    - The option to boost your subscription with Guru Does It For You to use our expertise
+    - The option to boost your subscription with <i>Guru Does It For You</i> to use our expertise
     - Reliable customer support, keen to see you succeed!
 
   screenshots:
