@@ -55,14 +55,15 @@ homepage:
       picture_url: assets/img/homepage/guru-does-it-for-you.jpg
 
   pricingFeatures:
+    - A two month free trial
     - A mobile and web app for managing your appointments
     - A free booking page (website) and mobile app for clients to make appointments
     - SMS and email appointment and payment reminders for your clients (and for you)
     - Customisable, automatically generated invoices easily sent via AppointmentGuru
     - Table talkers to encourage clients to make appointments through AppointmentGuru
     - Access to logo, business card and flyer design - all with your AppointmentGuru details
-    - The option to boost your subscription with Guru Does It For You and use our expertise
-    - Reliable customer support, keen to see you succeed
+    - The option to boost your subscription with Guru Does It For You to use our expertise
+    - Reliable customer support, keen to see you succeed!
 
   screenshots:
     - title: Online bookings
