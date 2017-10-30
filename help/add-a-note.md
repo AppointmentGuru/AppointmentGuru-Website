@@ -22,8 +22,6 @@ Adding notes to an appointment can help to keep track of a client.
 2. In the box that opens, type your notes and hit *Save*.
 3. To view the note after saving it, go to the specific appointment or find the client on the Client tab.
 
-We plan to build this feature out in the future.
-
 ### Related articles
 
 * [Where do I view the note I added to a particular appointment?](/help/view-a-note)

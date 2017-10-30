@@ -12,8 +12,8 @@ There will be blocks of time where you won't want your Clients to be able to boo
 
 ## Once-off blocking
 
-1. Go to the Calendar page in the [web app](https://app.appointmentguru.co/) and select the timeslot.
-2. Check the box next to *Custom event for me* and give it a name.
+1. Click on the blue plus on the bottom right or go to the Home or Appointments page in the [web app](https://app.appointmentguru.co/) and select the timeslot.
+2. Check the box next to *Tick this box to create a custom event for yourself*, give it a name and create!
 
 ## Permanent blocking
 

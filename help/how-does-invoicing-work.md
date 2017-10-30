@@ -24,7 +24,7 @@ Invoicing can be done as your appointments happen or you can complete them at th
 
 ![Invoice Line Items](/help/images/invoicing/invoice_lineitems.jpg){:class="img-responsive"}
 
-4. When you're ready to send the invoice, go to the [Invoicing page](https://app.appointmentguru.co/#/invoices). Add or edit any details and send it! [Read more on this link](/help/invoice-ready-to-send).
+4. When you're ready to send the invoice, go to the [Invoicing page](https://app.appointmentguru.co/#/invoices). Add or edit any details and send it! [Read more on this link](/help/edit-an-invoice).
 
 ![Invoice Ready](/help/images/invoicing/invoice_ready.jpg){:class="img-responsive"}
 
@@ -38,5 +38,10 @@ Invoicing can be done as your appointments happen or you can complete them at th
 
 ### Related articles
 
-* [](/help/invoicing-settings)
-* [](/help/edit-an-invoice)
+* [Add your invoicing settings](invoicing-settings)
+* [Adding medical records](adding-medical-records)
+* [Adding invoice line items](adding-invoice-line-items)
+* [Editing and sending an invoice](edit-an-invoice)
+* [Can I download invoices for the month?](download-invoices)
+* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](discount-appointment)

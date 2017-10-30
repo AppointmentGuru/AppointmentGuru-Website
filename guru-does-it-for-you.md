@@ -29,9 +29,9 @@ It takes time to add your clients and existing appointments, we'll happily do it
 
 It is super-quick to manage appointments via our apps but if you find it easier to ask us to do it, we will. Schedule, reschedule, cancel - we're able to do it all.
 
-#### 4. Reconciling paid invoices in AppointmentGuru
+#### 4. Sending invoices and reconciling paid invoices in AppointmentGuru
 
-If invoices have been paid, let us know and we'll mark them as paid in your AppointmentGuru account. This makes your reporting useful and also means unpaid invoices can be reminded.
+AppointmentGuru's invoicing feature makes it easy to create and send invoices to your clients. We can routinely send your invoices for you and if invoices have been paid, we'll mark them as paid in your AppointmentGuru account. This makes your reporting useful and also means unpaid invoices can be reminded.
 
 #### 5. Mail campaigns to Clients
 
