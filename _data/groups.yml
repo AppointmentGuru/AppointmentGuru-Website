@@ -22,8 +22,8 @@ getAGuru:
     practitioners:
       - id: 1
         title: Christo Crampton
-      - id: 1018
-        title: Mumtaz Chohan-Gani
+  #   - id: 1018
+  #     title: Mumtaz Chohan-Gani
   - title: Cape Town
     practitioners:
       - id: 125
@@ -46,7 +46,7 @@ discoveryVitality:
   - title: Johannesburg, Parktown North
     practitioners:
       - id: 363
-        title: Mumtaz Chohan Gani
+        title: MCG Biokinetics
   - title: Johannesburg, Sandton
     practitioners:
       - id: 734
