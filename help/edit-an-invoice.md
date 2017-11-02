@@ -40,6 +40,7 @@ As your appointments complete, they are added to the *Invoiceable* column on the
 * [Add your invoicing settings](/help/invoicing-settings)
 * [Adding medical records](/help/adding-medical-records)
 * [Adding invoice line items](/help/adding-invoice-line-items)
+* [Sending a QuickInvoice](quickinvoice)
 * [Can I download invoices for the month?](/help/download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](/help/discount-appointment)

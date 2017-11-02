@@ -22,7 +22,7 @@ Invoicing can be done as your appointments happen or you can complete them at th
 
 ![Medical Record Settings](/help/images/settings/medical_record_settings.jpg){:class="img-responsive"}
 
-3\. As you finish an appointment with a client, update the appointment with any relevant codes, notes and information. [Read more on this link](/help/adding-invoice-line-items).
+3\. As you finish an appointment with a client, update the appointment with any relevant codes, notes and information. [Read more about line items on this link](/help/adding-invoice-line-items). If you don't need to add line items and want to send the invoice right away, we have [QuickInvoice](/help/quickinvoice)!
 
 ![Invoice Line Items](/help/images/invoicing/invoice_lineitems.jpg){:class="img-responsive"}
 
@@ -35,15 +35,17 @@ Invoicing can be done as your appointments happen or you can complete them at th
 * Download all invoices (not available in the app but [contact us](mailto:support@appointmentguru.co) and we'll get it done for you).
 * Invoicing for non-medical businesses using AppointmentGuru.
 * Submitting to medical aids directly.
-* Digitise the New Client form - they'll be able to complete it online and it will sync back to your AppointmentGuru account.
+* Digitise the New Client form - your new clients will be able to complete it online and it will sync back to your AppointmentGuru account.
 * Cater for a cancellation fee.
 
 ### Related articles
 
+* [How does invoicing work?](/help/how-does-invoicing-work)
 * [Add your invoicing settings](/help/invoicing-settings)
 * [Adding medical records](/help/adding-medical-records)
 * [Adding invoice line items](/help/adding-invoice-line-items)
 * [Editing and sending an invoice](/help/edit-an-invoice)
+* [Sending a QuickInvoice](quickinvoice)
 * [Can I download invoices for the month?](/help/download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](/help/iscount-appointment)

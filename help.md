@@ -84,6 +84,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Add your invoicing settings](invoicing-settings)
 * [Adding medical records](adding-medical-records)
 * [Adding invoice line items](adding-invoice-line-items)
+* [Sending a QuickInvoice](quickinvoice)
 * [Editing and sending an invoice](edit-an-invoice)
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)

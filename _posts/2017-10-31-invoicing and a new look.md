@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Invoicing is here! Along with a brand new look."
-date:   2017-10-31 10:00:00 +0200
+date:   2017-11-03 10:00:00 +0200
 category: announcements
 published: true
 tags:
@@ -42,4 +42,4 @@ Along with medical codes, you'll be able to add your client's medical aid partic
 
 We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
 
-<div style="text-align: right">31 October 2017</div>
+<div style="text-align: right">3 November 2017</div>
