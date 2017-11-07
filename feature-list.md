@@ -7,8 +7,6 @@ keywords: AppointmentGuru features, benefits, compare
 ---
 # AppointmentGuru's full feature list
 
-If you're sticky for the detail, you'll find AppointmentGuru's full feature list here.
-
 ||AppointmentGuru subscription|AppointmentGuru virtual receptionist|
 |-|:-:|:-:|
 |Free trial|Two months|One month|
@@ -22,7 +20,8 @@ If you're sticky for the detail, you'll find AppointmentGuru's full feature list
 |Invoicing (including ICD-10 and other medical codes)|Yes|Yes|
 |Calendar syncing (Google, Outlook and iOS)|Yes|Yes|
 |Automatic reporting|Yes|Yes|
-|Access to [*Guru Does It For You*](https://appointmentguru.co/guru-does-it-for-you/)|Included in free trial only|Yes|
+|Access to [*Guru Does It For You*](https://appointmentguru.co/guru-does-it-for-you/) to configure your account|Included in the free trial only|Yes|
+|[*Guru Does It For You*](https://appointmentguru.co/guru-does-it-for-you/) will manage your appointments for you|Included in the free trial only|Yes|
 |Table talkers to encourage clients to make appointments through AppointmentGuru|Yes|Yes|
 |Listing in the AppointmentGuru directory|Yes|Yes|
 |Help promoting your new AppointmentGuru details|Yes|Yes|
