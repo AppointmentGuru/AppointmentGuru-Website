@@ -16,10 +16,6 @@ If you have regular clients, there's an easy way to create repeating appointment
 2. Choose the quantity of repeats and whether it's a daily, weekly, monthly and yearly repeat.
 3. If one of the repeats shouldn't happen, you have the option to remove it by clicking on the trash can.    
 
-&nbsp;
-
-![Repeating-appointment](/help/images/appointments/schedule.png)
-
 ### Related articles
 
 * [How do I add an appointment?](/help/add-an-appointment)
