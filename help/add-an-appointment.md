@@ -8,20 +8,13 @@ keywords: schedule, add, booking, appointment
 
 # How do I add an appointment?
 
-Adding appointments is the key functionality of AppointmentGuru! Remember, there are a few things that need to be setup before you can start adding appointments like [adding your appointment types](/help/add-appointment-types) and [adding clients?](/help/add-clients).
+Adding appointments is a key functionality of AppointmentGuru! Remember, there are a few things that need to be setup before you can start adding appointments like [adding your appointment types](/help/add-appointment-types) and [adding clients?](/help/add-clients).
 
-## Add an appointment in the [web app](https://app.appointmentguru.co/) anywhere:
+## Add an appointment in the [web app](https://app.appointmentguru.co/) or [mobile app](/help/is-there-a-mobile-app):
 
-* By clicking on the blue plus on the bottom right of your screen.
-* On the Home page by clicking on the plus next to the requested appointment time.
-* On the Calendar page by clicking on a specific time on the calendar.
-
-You appointment will be created and added to the calendar view.
-
-## Add an appointment in the [mobile app](/help/is-there-a-mobile-app):
-
-* Tap on the blue *plus* sign and then the orange calendar icon to fill out the appointment form.
-* or, go to *Clients*, choose the client and then *Create an appointment*.
+* Tap on the blue *plus* sign on the bottom right of the window
+* Fill out the form and select the various options
+* Click on *Create appointment*
 
 Unless you've specified not to, a notification will be sent to the client with the details of their appointment.
 
