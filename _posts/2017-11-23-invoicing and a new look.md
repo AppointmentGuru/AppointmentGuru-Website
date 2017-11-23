@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Invoicing is here! Along with a brand new look."
-date:   2017-11-03 10:00:00 +0200
+date:   2017-11-23 10:00:00 +0200
 category: announcements
 published: true
 tags:
@@ -25,7 +25,7 @@ Along with medical codes, you'll be able to add your client's medical aid partic
 
 ## New look and feel
 
-* A revamped web app, expect an updated mobile app shortly and both will be virtually identical.
+* A revamped web app, an updated mobile app and both are virtually identical.
 * More intuitive appointment booking in the web app, making it even quicker to book appointments.
 * Clicking on *Do It For Me* opens a tab where you can live chat with us super-easily.
 
@@ -42,4 +42,4 @@ Along with medical codes, you'll be able to add your client's medical aid partic
 
 We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).
 
-<div style="text-align: right">3 November 2017</div>
+<div style="text-align: right">23 November 2017</div>
