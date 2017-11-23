@@ -24,9 +24,9 @@ One of the beautiful parts of AppointmentGuru are the automated notifications. A
 <br /><br />
 6. **Appointment confirmation message**: the email or SMS notification that is sent to the Client when they create an appointment.
 
-By default, notifications are sent automatically unless you've specified that they mustn't be sent.
+By default, all notifications are sent automatically (except Payment reminders) unless you've specified that they mustn't be sent when taking action on an appointment.
 
-Next is [editing notifications](/help/edit-notifications), customising the text to suit your needs.
+Learn more about [editing notifications](/help/edit-notifications), where you can customise the text to suit your needs.
 
 ### Related articles
 

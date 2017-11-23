@@ -8,7 +8,7 @@ keywords:  directory, list, unlist, hidden
 
 # Is there a way for to be unlisted from the directory on the mobile app?
 
-Of course! Send us [an email](mailto:support@appointmentguru.co) and we'll get it done for you.
+Of course! Click on *Do it for me* in the app or send us [an email](mailto:support@appointmentguru.co) and we'll get it done for you.
 
 ### Related articles
 

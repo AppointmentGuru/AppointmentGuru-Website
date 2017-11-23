@@ -8,7 +8,7 @@ keywords: customer service, assistance, guru does it for you
 
 # Setting up your account
 
-If you need help setting up your AppointmentGuru account, we'd be happy to do it for you. The quickest way to get that done is to [contact us](mailto:support@appointmentguru.co)
+If you need help setting up your AppointmentGuru account, we'd be happy to do it for you. The quickest way to get that done is to click on *Do it for me* in the app or [contact us](mailto:support@appointmentguru.co)
 
 If you're in Joburg or Cape Town, we can meet with you to get you started. Go to the [Get a Guru page](/get-a-guru) for more information.
 

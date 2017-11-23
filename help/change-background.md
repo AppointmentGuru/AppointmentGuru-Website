@@ -8,16 +8,14 @@ keywords: background, website, template, free booking page
 
 # Can I change the background on my booking page?
 
-Absolutely! You can either use one of the backgrounds we offer or add one of your own.
+Absolutely! You can either use one of the backgrounds we offer or add one of your own. [Send us an email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/) for further help.
 
-## To change the background using AppointmentGuru's options
+<!-- ## To change the background using AppointmentGuru's options
 
-1. Log into your AppointmentGuru account via the [web app](https://portal.appointmentguru.co/#/login).
-2. Go to the [Settings page](http://portal.appointmentguru.co/#/settings) and scroll down to *My website*
+1. Log into your AppointmentGuru account via the [web app](https://app.appointmentguru.co/#/login).
+2. Go to the [Settings page](http://app.appointmentguru.co/#/settings) and scroll down to *My website*
 3. Click on *choose a template* to find a background image that you like.
-4. Clicking on *publish now* will make the site live for people to visit.
-
-If you'd prefer to use your own background image, feel free to [email it to us](mailto:support@appointmentguru.co).
+4. Clicking on *publish now* will make the site live for people to visit. -->
 
 ### Related articles
 
