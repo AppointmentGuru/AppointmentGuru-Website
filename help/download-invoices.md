@@ -13,7 +13,7 @@ We're busy working on allowing you to download your invoices and in the meantime
 * Date range of invoices (eg. invoices for the previous month, from the 1st to the 30th).
 * Any particular clients or all appointments.
 
-And we'll get them sent to you right away.
+And we'll get them sent to you right away. Don't forget that you can also choose to have invoices emailed to you when you email them to your clients.
 
 ### Related articles
 

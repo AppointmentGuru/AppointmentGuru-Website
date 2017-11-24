@@ -17,7 +17,7 @@ Your AppointmentGuru account is accessible via a web and mobile app.
 
 ## Mobile app
 
-* Download the [Android](https://play.google.com/store/apps/details?id=za.co.AppointmentGuru.practitioner) or iOS app *(coming soon)*
+* Download the [Android](https://play.google.com/store/apps/details?id=za.co.AppointmentGuru.practitioner) or [iOS app](https://itunes.apple.com/us/app/appointmentguru-mypractice/id1186604931).
 * Enter the email address and password used to create your AppointmentGuru account
 
 ### Related articles

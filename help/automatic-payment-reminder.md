@@ -14,7 +14,7 @@ Cashflow in any business is important and chasing outstanding payments can be ti
 
 By default, the payment reminder says *Hi {{client.first_name}}. Just a friendly reminder: {{appointment.currency}}{{appointment.price}} is owed to {{me.get_full_name}}. Banking details: ...*
 
-It's advised that you edit it to include any other information, usually you can do this yourself but it is currently disabled. If you'd like to make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
+You'll need to edit it to include your banking information and usually you can do this yourself but it is currently disabled. If you'd like to make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
 
 <!-- , here's how:
 
@@ -26,8 +26,8 @@ It's advised that you edit it to include any other information, usually you can 
 
 ## Sending the notification
 
-1. To send a notification for a particular invoice that needs to be paid, navigate to that appointment or invoice in either the web or mobile app.
-2. Click on the three dots and select *Send payment request*.
+1. To send a notification for a particular invoice that needs to be paid, navigate to that appointment or invoice.
+2. Click on the three dots and select *Send again*.
 
 ### Related articles
 
