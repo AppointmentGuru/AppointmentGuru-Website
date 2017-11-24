@@ -8,7 +8,7 @@ keywords: notifications, alerts, list, log
 
 # Where do I see what notifications have been sent to a client?
 
-We haven't yet incorporated this feature but it's on our to-do list! In the meantime, if there's a specific appointment you'd like the notification log for, click on *Do it for me* or [send us an email](mailto:support@appointmentguru.co) and we'll look into it for you.
+We haven't yet added this feature but it's on our to-do list! In the meantime, if there's a specific appointment you'd like the notification log for, click on *Do it for me* or [send us an email](mailto:support@appointmentguru.co) and we'll look into it for you.
 
 ### Related articles
 

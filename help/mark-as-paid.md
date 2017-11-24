@@ -8,9 +8,9 @@ keywords: paid, payment
 
 # A client has paid, how do I mark it as paid?
 
-Keeping tabs on whether a client has paid or not is useful both in keeping track of cashflow and making sure your reporting is up-to-date. Invoices (and their related appointment) can be marked as paid on the [Invoicing page](https://app.appointmentguru.co/#/invoices)<!-- or [mobile app](/help/is-there-a-mobile-app) - all work in a similar way-->:
+Keeping tabs on whether a client has paid or not is useful both in keeping track of cashflow and making sure your reporting is up-to-date.
 
-The invoice will be in the *Sent* column, click on the checkmark to confirm payment. It will then move to the *Paid* column.
+If the invoice is in the *In progress* column, click on the three dots and *Mark as paid*. If it's in the *Sent* column, click on the checkmark to confirm payment. It will then move to the *Paid* column.
 
 ### Related articles
 

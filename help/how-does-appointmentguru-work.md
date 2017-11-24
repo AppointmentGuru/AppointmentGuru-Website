@@ -8,7 +8,7 @@ keywords: process, methodology
 
 # How does AppointmentGuru work?
 
-[AppointmentGuru](http://www.appointmentguru.co/) is an appointment manager but it's also a way to manage your clients and billing through notifications and automation.
+[AppointmentGuru](http://www.appointmentguru.co/) is appointment management software but it's also a way to manage your clients and billing through notifications and automation.
 
 ## This is the process
 
@@ -25,8 +25,8 @@ keywords: process, methodology
 ## Don't forget to invoice and remind your clients to pay
 1. [Invoices](/help/how-does-invoicing-work) can be automatically generated based on the appointments you've had.
 2. You'll be able to [add line items](/help/adding-invoice-line-items) and [medical records](/help/adding-medical-records).
-3. Invoices are quickly sent via email from your AppointmentGuru account.
-4. [Marking appointments as paid](/help/mark-as-paid) will enable you to quickly see where you need to chase clients for payment.
+3. Invoices are quickly sent via SMS and/or email from your AppointmentGuru account.
+4. [Marking appointments as paid](/help/mark-as-paid) will enable you to quickly see who you need to chase for payment.
 
 ## What else is included in an AppointmentGuru account?
 

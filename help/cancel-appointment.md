@@ -8,9 +8,9 @@ keywords: cancel, stop, reschedule
 
 # How do I cancel an appointment?
 
-Occasionally (we hope) you'll need to cancel or reschedule an existing appointment. You can do this on the Calendar, Appointment or Clients pages in the [web app](https://app.appointmentguru.co) or [mobile app](is-there-a-mobile-app) - they all work in a similar way:
+Occasionally (we hope) you'll need to cancel or reschedule an existing appointment. You can do this on the Calendar, Appointment or Clients pages - they all work in a similar way:
 
-1. Find the relevant appointment, click on the three dots that appear on the top right.
+1. Find the relevant appointment and click on the three dots.
 2. A menu will open, click on *Cancel* or *Reschedule* to remove or change an appointment.
 3. Notifications will be sent confirming the change.
 

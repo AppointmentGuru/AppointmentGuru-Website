@@ -8,7 +8,7 @@ keywords: booking page, free website
 
 # What is the booking page?
 
-With your AppointmentGuru account, you'll get a free booking page that your clients can use to book appointments with you. Right now, it'll contain a bunch of your info as well as a booking widget where clients can make their appointments.
+With your AppointmentGuru account, you'll get a free booking page that your clients can use to book appointments with you. It displays info on your services as well as a booking widget where clients can make their appointments.
 
 Viewing the settings for your booking page is currently disabled. If you'd like to find out what your address is or make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
 
