@@ -10,8 +10,8 @@ keywords: notifications, off, on
 
 By default, notifications are set to go out or are 'on'. If you have a client or a particular action you'd like to stop notifications for, here's how:
 
-* When creating an appointment, make sure it says *No* next to *Send Notifications* under the *Advanced* section.
-* When rescheduling or canceling an appointment, prompts will open, asking if you want to send a notification or not.
+* When creating an appointment, toggle the checkbox next to *Send Notifications* to send a notification or not.
+* When rescheduling or canceling an appointment, a prompt will open, also with a checkbox next to *Send a message to the customer*.
 
 ### Related articles
 

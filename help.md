@@ -32,9 +32,9 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [How do I add the appointment types that I offer?](add-appointment-types)
 * [I want to update my operating hours](update-operating-hours)
 * [Is my information and data safe and secure?](is-my-data-secure)
-* [What can I see on my dashboard?](what-is-on-the-dashboard)
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
+* [How does the reporting work?](reporting)
 
 ## Notifications
 
@@ -65,7 +65,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [How do I add an appointment?](add-an-appointment)
 * [How do my clients book appointments with me?](how-do-clients-book-appointments)
 * [How do I know when a client has booked an appointment with me?](how-do-I-know-when-an-appointment-has-been-booked)
-* [What do the letters B, N, and P in the appointment mean?](appointment-status)
 * [How do I cancel an appointment?](cancel-appointment)
 * [I need to reschedule an appointment](reschedule-appointment)
 * [I want to block off time so that clients can't make bookings](block-off-time)
@@ -78,10 +77,15 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 * [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone)
 * [Can the calendar sync to my Outlook or Calendar app?](sync-calendar-to-app)
-* [What do the letters B, N, and P in the appointment mean?](appointment-status)
 
 ## Invoicing your clients
 
+* [How does invoicing work?](how-does-invoicing-work)
+* [Add your invoicing settings](invoicing-settings)
+* [Adding medical records](adding-medical-records)
+* [Adding invoice line items](adding-invoice-line-items)
+* [Sending a QuickInvoice](quickinvoice)
+* [Editing and sending an invoice](edit-an-invoice)
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
@@ -103,7 +107,4 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 <!-- * [Business cards and flyers](business-cards-and-flyers) -->
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
-## Known issues
-
-* [Editing appointments not working](editing-appointments-not-working)
-* [Editing appointment types not working](editing-appointment-types-not-working)
+<!-- ## Known issues -->

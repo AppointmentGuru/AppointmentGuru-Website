@@ -8,15 +8,18 @@ keywords: appointment notes, reference
 
 # I want to add a note to a particular appointment
 
-*Currently only available in the [mobile app](is-there-a-mobile-app).* Adding notes to an appointment can help to keep track of a client.
+Adding notes to an appointment can help to keep track of a client.
 
-## Here's how to add and view notes:
+## Here's how to add notes:
 
-1. Navigate to the appointment on your mobile app and tap the three dots on the bottom right.
+1. Navigate to the appointment and tap the three dots on the left.
 2. In the menu that opens, tap on *Add a note* and add the note.
 3. To view the note after saving it, follow the same steps.
 
-We plan to build this feature out in the future.
+## Here's how to view notes:
+
+1. Navigate to the client via the Clients page and click on *+ NOTES*.
+2. In the box that opens, view the notes that you've added over time.
 
 ### Related articles
 

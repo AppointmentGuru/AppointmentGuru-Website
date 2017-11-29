@@ -7,7 +7,7 @@ keywords: AppointmentGuru admin, customer service, guru does it for you, virtual
 ---
 # Guru Does It For You
 
-We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial!
+We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial! 
 
 ## How does it work?
 
@@ -29,9 +29,9 @@ It takes time to add your clients and existing appointments, we'll happily do it
 
 It is super-quick to manage appointments via our apps but if you find it easier to ask us to do it, we will. Schedule, reschedule, cancel - we're able to do it all.
 
-#### 4. Reconciling paid invoices in AppointmentGuru
+#### 4. Sending invoices and reconciling paid invoices in AppointmentGuru
 
-If invoices have been paid, let us know and we'll mark them as paid in your AppointmentGuru account. This makes your reporting useful and also means unpaid invoices can be reminded.
+AppointmentGuru's invoicing feature makes it easy to create and send invoices to your clients. We can routinely send your invoices for you and if invoices have been paid, we'll mark them as paid in your AppointmentGuru account. This makes your reporting useful and also means unpaid invoices can be reminded.
 
 #### 5. Mail campaigns to Clients
 

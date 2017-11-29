@@ -8,7 +8,7 @@ keywords: free trial, one month, try for free
 
 # How long is the free trial?
 
-The AppointmentGuru free trial is a month (30-days) from the moment you create your account. We'll remind you that your trial is ending just before the month is up. And, if you have any questions, we're always [here to help](mailto:support@appointmentguru.co).
+The AppointmentGuru free trial is two months (60-days) from the moment you create your account. We'll remind you that your trial is ending just before the time is up. And, if you have any questions, we're always [here to help](mailto:support@appointmentguru.co).
 
 ### Related articles
 
