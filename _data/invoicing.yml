@@ -5,7 +5,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R400
-  recommendation: AppointmentGuru's invoicing is built to save you time, lessen your admin load and help you to be focused on the important things.
+  recommendation: AppointmentGuru's invoicing is built to save you time, lessen your admin load and help you focus on the important things.
   signup:
     css:
       - app.5a9ca873380a3ab1330d2de5e2e1781c.css
@@ -15,7 +15,7 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: /assets/img/landing-pages/invoicing/placeholder.png
+    image: /assets/img/homepage/invoicing.png
     titleSummary: Flexible and easy-to-use invoicing
     title: Our invoicing will change your life
 #    description: is empty
@@ -30,7 +30,7 @@ homepage:
       title: Customise your invoices with your business and client information
       description: Include your business logo, name, address and bank details and your client info like name(s), address, phone and medical aid info
       picture: right
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+      picture_url: /assets/img/landing-pages/invoicing/invoice-settings.png
     - summary:
       title: Generate invoices automatically
       description: Send an invoice after each appointment or consolidate multiple appointments on a single invoice at month-end.
@@ -40,7 +40,7 @@ homepage:
       title: Support for medical codes
       description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes easily as individual line items. Those line item amounts can be split equally and total as the appointment cost or add to it.
       picture: right
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+      picture_url: /assets/img/landing-pages/invoicing/lineitems.png
     - summary:
       title: Send, remind and receipt
       description: Send invoices to your clients by email and SMS, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
