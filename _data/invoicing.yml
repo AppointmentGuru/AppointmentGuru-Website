@@ -5,7 +5,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R400
-  recommendation: AppointmentGuru's invoicing descriptive text<i>you</i>.
+  recommendation: AppointmentGuru's invoicing is built to save you time, lessen your admin load and help you to be focused on the important things.
   signup:
     css:
       - app.5a9ca873380a3ab1330d2de5e2e1781c.css
@@ -15,46 +15,48 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: /assets/img/guru/appointmentguru-app-v2.png
+    image: /assets/img/landing-pages/invoicing/placeholder.png
     titleSummary: Flexible and easy-to-use invoicing
-    title: Descriptive text on invoicing awesomeness
+    title: Our invoicing will change your life
 #    description: is empty
     features:
       - title: For your business
-        description:
+        description: Quick and accurate invoicing, complete with all your business info.
       - title: For your clients
-        description:
+        description: Professional invoices received by email and SMS.
 
   majorFeatures:
     - summary:
-      title: Lessen repetitive work with invoice creation
-      description:
-        - Make an invoice per appointment or at month-end to include all appointments
-        - Add extras, like equipment, supplies, ...
-        - Automatically include business information like payment
+      title: Customise your invoices with your business and client information
+      description: Include your business logo, name, address and bank details and your client info like name(s), address, phone and medical aid info
       picture: right
       picture_url: /assets/img/landing-pages/invoicing/placeholder.png
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: left
-    #   picture_url: /assets/img/landingpage/invoicing
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: right
-    #   picture_url: /assets/img/landingpage/invoicing
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: left
-    #   picture_url: /assets/img/landingpage/invoicing
+    - summary:
+      title: Generate invoices automatically
+      description: Send an invoice after each appointment or consolidate multiple appointments on a single invoice at month-end.
+      picture: left
+      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+    - summary:
+      title: Support for medical codes
+      description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes easily as individual line items. Those line item amounts can be split equally and total as the appointment cost or add to it.
+      picture: right
+      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+    - summary:
+      title: Send, remind and receipt
+      description: Send invoices to your clients by email and SMS, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
+      picture: left
+      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+    - summary:
+      title: Reconcile and view your reports
+      description: Mark invoices as paid as you get paid and easily view those still outstanding. Reporting updates to show your financial health over the month.
+      picture: right
+      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
 
   pricingFeatures:
     - text: A free trial for two months
       highlight: false
     - text: A mobile and web app for managing your appointments
-      highlight: false
+      highlight: true
     - text: A free booking page (website) and mobile app for clients to make appointments
       highlight: false
     - text: SMS and email appointment and payment reminders for your clients (and for you)
@@ -62,7 +64,7 @@ homepage:
     - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
       highlight: true
     - text: Table talkers to encourage clients to make appointments through AppointmentGuru
-      highlight: true
+      highlight: false
     - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
       highlight: false
     - text: The option to boost your subscription with <i>Guru Does It For You</i> to use our expertise
