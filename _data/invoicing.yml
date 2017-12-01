@@ -50,24 +50,24 @@ homepage:
       title: Reconcile and view your reports
       description: Mark invoices as paid as you get paid and easily view those still outstanding. Reporting updates to show your financial health over the month.
       picture: right
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+      picture_url: /assets/img/landing-pages/invoicing/reporting-3.png
 
   pricingFeatures:
     - text: A free trial for two months
       highlight: false
     - text: A mobile and web app for managing your appointments
-      highlight: true
+      highlight: false
     - text: A free booking page (website) and mobile app for clients to make appointments
       highlight: false
     - text: SMS and email appointment and payment reminders for your clients (and for you)
-      highlight: true
+      highlight: false
     - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
-      highlight: true
+      highlight: false
     - text: Table talkers to encourage clients to make appointments through AppointmentGuru
       highlight: false
     - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
       highlight: false
-    - text: The option to boost your subscription with <i>Guru Does It For You</i> to use our expertise
+    - text: Boost your subscription with <i>Guru Does It For You</i> to use our expertise
       highlight: false
     - text: Reliable customer support, keen to see you succeed!
       highlight: false
