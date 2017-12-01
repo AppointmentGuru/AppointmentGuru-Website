@@ -45,7 +45,7 @@ homepage:
       title: Send, remind and receipt
       description: Send invoices to your clients by email and SMS, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
       picture: left
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+      picture_url: /assets/img/landing-pages/invoicing/send-remind-receipt.png
     - summary:
       title: Reconcile and view your reports
       description: Mark invoices as paid as you get paid and easily view those still outstanding. Reporting updates to show your financial health over the month.
