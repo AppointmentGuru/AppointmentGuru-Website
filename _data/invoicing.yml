@@ -35,7 +35,7 @@ homepage:
       title: Generate invoices automatically
       description: Send an invoice after each appointment or consolidate multiple appointments on a single invoice at month-end.
       picture: left
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
+      picture_url: /assets/img/landing-pages/invoicing/invoicing-page.png
     - summary:
       title: Support for medical codes
       description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes easily as individual line items. Those line item amounts can be split equally and total as the appointment cost or add to it.

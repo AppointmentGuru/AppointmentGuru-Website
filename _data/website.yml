@@ -40,7 +40,7 @@ homepage:
       picture_url: /assets/img/homepage/notifications.png
     - summary: Automatically generated invoices
       title: Send professional invoices that clients, bookkeepers and medical aids will love
-      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes.
+      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes. <a href="/invoicing/">Learn more</a>
       picture: right
       picture_url: /assets/img/homepage/invoicing.png
     - summary: Get more bookings
@@ -50,7 +50,7 @@ homepage:
       picture_url: /assets/img/homepage/online-appointments-v2.png
     - summary: Guru Does It For You
       title: Boost your subscription
-      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
+      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="/guru-does-it-for-you/">so much more</a>.
       picture: right
       picture_url: assets/img/homepage/guru-does-it-for-you.jpg
 
