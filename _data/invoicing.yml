@@ -15,7 +15,7 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: /assets/img/homepage/invoicing.png
+    image: /assets/img/landing-pages/invoicing/invoicing.png
     titleSummary: Flexible and easy-to-use invoicing
     title: Our invoicing will change your life
 #    description: is empty
