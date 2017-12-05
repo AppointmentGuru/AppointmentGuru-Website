@@ -21,9 +21,9 @@ homepage:
 #    description: is empty
     features:
       - title: For your business
-        description: Quick and accurate invoicing, complete with all your business info.
+        description: <strong>Automatically generated</strong> invoices that are easy to complete, simple to send and let you <strong>keep on top of your cash flow</strong>.
       - title: For your clients
-        description: Professional invoices received by email and SMS.
+        description: <strong>Professional</strong> invoices received by <strong>email and SMS</strong>, suitable for medical aid submission. And <strong>payment reminders</strong>!
 
   majorFeatures:
     - summary:
