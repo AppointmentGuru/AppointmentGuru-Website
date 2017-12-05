@@ -1,0 +1,82 @@
+gaTrackingCode: UA-93898571-1
+homepage:
+  title: AppointmentGuru
+  headline: Automated zero-admin appointments
+  tagline: The best way to manage your appointments
+  primarycta: Get started for free
+  monthlyCost: R400
+  recommendation: AppointmentGuru's invoicing is built to save you time, lessen your admin load and help you focus on the important things.
+  signup:
+    css:
+      - app.5a9ca873380a3ab1330d2de5e2e1781c.css
+    js:
+      - manifest.38a5de2868f7b0860f9e.js
+      - vendor.f49f1c1dcc931d6ba6e3.js
+      - app.59b99e0ae07730d85ae2.js
+
+  mainFeatureBlock:
+    image: /assets/img/landing-pages/invoicing/invoicing.png
+    titleSummary: Flexible and easy-to-use invoicing
+    title: Our invoicing will change your life
+#    description: is empty
+    features:
+      - title: For your business
+        description: <strong>Automatically generated</strong> invoices that are easy to complete, simple to send and let you <strong>keep on top of your cash flow</strong>.
+      - title: For your clients
+        description: <strong>Professional</strong> invoices received by <strong>email and SMS</strong>, suitable for medical aid submission. And <strong>payment reminders</strong>!
+
+  majorFeatures:
+    - summary:
+      title: Customise your invoices with your business and client information
+      description: Include your business logo, name, address and bank details and your client info like name(s), address, phone and medical aid info
+      picture: right
+      picture_url: /assets/img/landing-pages/invoicing/invoice-settings.png
+    - summary:
+      title: Generate invoices automatically
+      description: Send an invoice after each appointment or consolidate multiple appointments on a single invoice at month-end.
+      picture: left
+      picture_url: /assets/img/landing-pages/invoicing/invoicing-page.png
+    - summary:
+      title: Support for medical codes
+      description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes easily as individual line items. Those line item amounts can be split equally and total as the appointment cost or add to it.
+      picture: right
+      picture_url: /assets/img/landing-pages/invoicing/lineitems.png
+    - summary:
+      title: Send, remind and receipt
+      description: Send invoices to your clients by email and SMS, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
+      picture: left
+      picture_url: /assets/img/landing-pages/invoicing/send-remind-receipt.png
+    - summary:
+      title: Reconcile and view your reports
+      description: Mark invoices as paid as you get paid and easily view those still outstanding. Reporting updates to show your financial health over the month.
+      picture: right
+      picture_url: /assets/img/landing-pages/invoicing/reporting-3.png
+
+  pricingFeatures:
+    - text: A free trial for two months
+      highlight: false
+    - text: A mobile and web app for managing your appointments
+      highlight: false
+    - text: A free booking page (website) and mobile app for clients to make appointments
+      highlight: false
+    - text: SMS and email appointment and payment reminders for your clients (and for you)
+      highlight: false
+    - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
+      highlight: false
+    - text: Table talkers to encourage clients to make appointments through AppointmentGuru
+      highlight: false
+    - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
+      highlight: false
+    - text: Boost your subscription with <i>Guru Does It For You</i> to use our expertise
+      highlight: false
+    - text: Reliable customer support, keen to see you succeed!
+      highlight: false
+
+
+  screenshots: []
+    # - title:
+    #   screenshot: /assets/img/landingpage/invoicing
+    # - title:
+    #   screenshot: /assets/img/landingpage/invoicing
+    # - title:
+    #   screenshot: /assets/img/landingpage/invoicing

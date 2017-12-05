@@ -9,7 +9,7 @@
 <div class="pricing-block">
 	<div class='col-sm-5 text-center' >
 		<center>
-		<img src='assets/img/homepage/pricing.png' class="img-responsive" />
+		<img src='/assets/img/homepage/pricing.png' class="img-responsive" />
 		</center>
 		<button
 			data-toggle="modal" data-target=".get-started-modal"
@@ -35,7 +35,11 @@
 		  {% for feature in include.features %}
 		  <li>
 		    <span class="icon icon-check"></span>
-		    {{feature}}
+		    {% if feature.highlight %}
+		    <strong>{{feature.text}}</strong>
+		    {% else %}
+		    {{feature.text}}
+		    {% endif %}
 		  </li>
 		  {% endfor %}
 		</ul>

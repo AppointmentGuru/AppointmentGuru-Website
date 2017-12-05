@@ -3,7 +3,7 @@
 ### Run locally:
 
 ```
-docker-compose up -d
+jekyll s
 ```
 
 it's on localhost:4000
@@ -14,7 +14,16 @@ it's on localhost:4000
 sh ./deploy.sh
 ```
 
+### Create a templated landing page:
+
+```
+sh ./lp-gen.sh {url}
+# e.g.:
+sh ./lp-gen.sh my-awesome-page
+```
+
+^^ now you can go to: `http://localhost:4000/my-awesome-page`
+
 **Notes:**
 
-* You will need to login to docker cloud in order to perform a deploy: `docker login`
 * This will deploy the contents of the `_site/` directory _on your computer_.

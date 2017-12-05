@@ -15,7 +15,7 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: assets/img/guru/appointmentguru-app.png
+    image: /assets/img/guru/appointmentguru-app-v2.png
     titleSummary: Zero-admin appointments and invoicing
     title: Run your business like a pro.
 #    description: is empty
@@ -32,39 +32,47 @@ homepage:
       title: Manage your bookings on the go
       description: Use our mobile and web app to manage your appointments, invoices, calendar, reminders and clients.
       picture: right
-      picture_url: assets/img/homepage/manage-appointments.png
+      picture_url: /assets/img/homepage/manage-appointments-v2.png
     - summary: Stay informed and up-to-date
       title: Send reminders and notifications that you can customise
       description: Editable appointment and payment reminder notifications lessen no-shows and lighten your admin load.
       picture: left
-      picture_url: assets/img/homepage/notifications.png
+      picture_url: /assets/img/homepage/notifications.png
     - summary: Automatically generated invoices
       title: Send professional invoices that clients, bookkeepers and medical aids will love
-      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes.
+      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes. <a href="/invoicing/">Learn more</a>
       picture: right
-      picture_url: assets/img/homepage/invoicing.jpg
+      picture_url: /assets/img/homepage/invoicing.png
     - summary: Get more bookings
       title: Take bookings online
       description: With AppointmentGuru, your clients can book online from your free booking page, or via the mobile app.
       picture: left
-      picture_url: assets/img/homepage/online-appointments.png
+      picture_url: /assets/img/homepage/online-appointments-v2.png
     - summary: Guru Does It For You
       title: Boost your subscription
-      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="https://appointmentguru.co/guru-does-it-for-you/">so much more</a>.
+      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="/guru-does-it-for-you/">so much more</a>.
       picture: right
       picture_url: assets/img/homepage/guru-does-it-for-you.jpg
 
   pricingFeatures:
-    - A free trial for two months
-    - A mobile and web app for managing your appointments
-    - A free booking page (website) and mobile app for clients to make appointments
-    - SMS and email appointment and payment reminders for your clients (and for you)
-    - Customisable, automatically generated invoices easily sent via AppointmentGuru
-    - Table talkers to encourage clients to make appointments through AppointmentGuru
-    - Access to logo, business card and flyer design - all with your AppointmentGuru details
-    - The option to boost your subscription with <i>Guru Does It For You</i> to use our expertise
-    - Reliable customer support, keen to see you succeed!
-
+    - text: A free trial for two months
+      highlight: false
+    - text: A mobile and web app for managing your appointments
+      highlight: false
+    - text: A free booking page (website) and mobile app for clients to make appointments
+      highlight: false
+    - text: SMS and email appointment and payment reminders for your clients (and for you)
+      highlight: false
+    - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
+      highlight: false
+    - text: Table talkers to encourage clients to make appointments through AppointmentGuru
+      highlight: false
+    - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
+      highlight: false
+    - text: Boost your subscription with <i>Guru Does It For You</i> to use our expertise
+      highlight: false
+    - text: Reliable customer support, keen to see you succeed!
+      highlight: false
   screenshots:
     - title: Online bookings
       screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
