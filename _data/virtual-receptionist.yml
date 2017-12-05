@@ -15,7 +15,7 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: /assets/img/landing-pages/vr/placeholder.png
+    image: /assets/img/landing-pages/vr/vr-webapp.png
     titleSummary: AppointmentGuru-flavoured virtual assistance
     title: Strengthen your business with a Virtual Receptionist
 #    description: is empty
@@ -35,12 +35,12 @@ homepage:
       title: Speedy and attentive
       description: Friendly, real-time access to a virtual receptionist familiar with your business, helping you get the most out of AppointmentGuru.
       picture: left
-      picture_url: /assets/img/landing-pages/vr/placeholder.png
+      picture_url: /assets/img/landing-pages/vr/vr-whatsapp.png
     - summary:
       title: Promote your number to your clients
       description: Help publicising your new number with a checklist of options including email and SMS campaigns.
       picture: right
-      picture_url: /assets/img/landing-pages/vr/placeholder.png
+      picture_url: /assets/img/landing-pages/vr/checklist.png
     - summary:
       title: Try it out!
       description: A 30-day free trial,
@@ -51,7 +51,7 @@ homepage:
     - text: A free trial for one month
       highlight: false
     - text: A monthly fee that includes the AppointmentGuru subscription and <i><a href="/guru-does-it-for-you/">Guru Does It For You</a></i>
-    - text: A dedicated mobile number, virtual receptionist and 
+    - text: A dedicated mobile number, virtual receptionist and privacy guarantee
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false
