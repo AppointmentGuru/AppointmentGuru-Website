@@ -4,7 +4,7 @@ homepage:
   headline: Automated zero-admin appointments
   tagline: The best way to manage your appointments
   primarycta: Get started for free
-  monthlyCost: R400
+  monthlyCost: R1000
   # recommendation: AppointmentGuru's invoicing descriptive text<i>you</i>.
   signup:
     css:
@@ -15,59 +15,55 @@ homepage:
       - app.59b99e0ae07730d85ae2.js
 
   mainFeatureBlock:
-    image: /assets/img/guru/appointmentguru-app-v2.png
-    titleSummary: Flexible and easy-to-use invoicing
-    title: Descriptive text on invoicing awesomeness
+    image: /assets/img/landing-pages/vr/placeholder.png
+    titleSummary: AppointmentGuru-flavoured virtual assistance
+    title: Strengthen your business with a Virtual Receptionist
 #    description: is empty
     features:
       - title: For your business
-        description:
+        description: <strong>Peace of mind</strong>, help for everything AppointmentGuru <strong>when you need it</strong> and free time to <strong>do the important things</strong>.
       - title: For your clients
-        description:
+        description: A <strong>number to call or SMS</strong> for <strong>friendly help</strong> with appointments and basic information on your business.
 
   majorFeatures:
     - summary:
-      title: Lessen repetitive work with invoice creation
-      description:
-        - Make an invoice per appointment or at month-end to include all appointments
-        - Add extras, like equipment, supplies, ...
-        - Automatically include business information like payment
+      title: Your own mobile phone number
+      description: A number for clients to call and SMS, answered professionally with your business name. A virtual answering machine to take messages after hours.
       picture: right
-      picture_url: /assets/img/landing-pages/invoicing/placeholder.png
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: left
-    #   picture_url: /assets/img/landingpage/invoicing
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: right
-    #   picture_url: /assets/img/landingpage/invoicing
-    # - summary:
-    #   title:
-    #   description:
-    #   picture: left
-    #   picture_url: /assets/img/landingpage/invoicing
+      picture_url: /assets/img/landing-pages/vr/placeholder.png
+    - summary:
+      title: Speedy and attentive
+      description: Friendly, real-time access to a virtual receptionist familiar with your business, helping you get the most out of AppointmentGuru.
+      picture: left
+      picture_url: /assets/img/landing-pages/vr/placeholder.png
+    - summary:
+      title: Promote your number to your clients
+      description: Help publicising your new number with a checklist of options including email and SMS campaigns.
+      picture: right
+      picture_url: /assets/img/landing-pages/vr/placeholder.png
+    - summary:
+      title: Try it out!
+      description: A 30-day free trial,
+      picture: left
+      picture_url: /assets/img/landing-pages/vr/placeholder.png
 
   pricingFeatures:
-    - text: A free trial for two months
+    - text: A free trial for one month
+      highlight: false
+    - text: A monthly fee that includes the AppointmentGuru subscription and <i><a href="/guru-does-it-for-you/">Guru Does It For You</a></i>
+    - text: A dedicated mobile number, virtual receptionist and 
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false
     - text: A free booking page (website) and mobile app for clients to make appointments
       highlight: false
     - text: SMS and email appointment and payment reminders for your clients (and for you)
-      highlight: true
+      highlight: false
     - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
-      highlight: true
+      highlight: false
     - text: Table talkers to encourage clients to make appointments through AppointmentGuru
-      highlight: true
+      highlight: false
     - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
-      highlight: false
-    - text: The option to boost your subscription with <i>Guru Does It For You</i> to use our expertise
-      highlight: false
-    - text: Reliable customer support, keen to see you succeed!
       highlight: false
 
 
