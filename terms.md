@@ -72,13 +72,33 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 8.5 AppointmentGuru may offer other optional services for once-off fees, not included in the monthly subscription.
 
-### 9. Payment
+### 9. Virtual Receptionist
+
+9.1 AppointmentGuru offers a Virtual Receptionist product in addition to the basic AppointmentGuru product. The monthly fee includes the basic AppointmentGuru subscription and the subscription is managed in the same way as outlined in # 8 above.
+
+9.2 Virtual Receptionist-specific terms:-
+
+9.2.1 A unique phone number the practitioners clients can call/SMS to book, cancel and reschedule appointments The number cannot be used for WhatsApp, outgoing SMS’s or outgoing calls (although that might change in the future).
+
+9.2.2 Officially, the service is available 9am-5pm, but may be answered if the Virtual Receptionist is still available. If not, there is an virtual answering machine for messages.
+
+9.2.3 Available in English only.
+
+9.2.4 Calls are answered with the practitioners info, voicemails are recorded with practitioners info
+
+9.2.5 AppointmentGuru will review appointment reminder notifications, to make sure it has info people don’t need to call for.
+
+9.2.6 AppointmentGuru's Virtual Receptionists will sign an NDA's or patient confidentiality agreements (as compliance for POPI and the requirements of the HPCSA confidentiality). AppointmentGuru will recommend that practitioners inform and get consent from their clients, notifying them that the Virtual Receptionist will have access to their information.
+
+9.2.7 Should the service no longer be required, the number will be disconnected 30-days from cancellation. During that 30-day period, calls/SMS's will be forwarded to the practitioners number.
+
+### 10. Payment
 
 9.1 AppointmentGuru uses Peach Payments. Peach Payments performs technical services to support payments to South African businesses. This service includes consulting on a selection of technical and administrative topics, configuring and provisioning of a transaction platform, and providing access to this platform.
 
 9.2 No sensitive cardholder data passes through merchants' servers at any time for either once-off or subscription payments. When a user opts to store card details on a website using Peach Payments, these details are stored by Peach Payments in a PCI DSS level 1 compliant vault. Sensitive cardholder details are directly transmitted from users’ browsers to Peach Payment’s systems. Merchants' staff and systems do not have access to complete card number details at any point in time, on Peach Payments platforms.
 
-### 10. Refund
+### 11. Refund
 
 10.1 Any AppointmentGuru paying customer may request a refund, in writing, to [support@appointmentguru.co](mailto:support@appointmentguru.co) with full details and explanation of their request. A refund may be issued, depending on the reasonability of the request.
 
@@ -88,4 +108,4 @@ support@appointmentguru.com
 
 ### Last updated
 
-31 October 2017.
+6 December 2017.
