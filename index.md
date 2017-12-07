@@ -1,7 +1,7 @@
 ---
 id: index
 layout: home
-title: AppointmentGuru. The best way to manage your appointments
+title: The best way to manage your appointments
 permalink: //
 canonical: 'https://appointmentguru.co'
 description: AppointmentGuru practice management software is the best way to manage your appointments and your business
