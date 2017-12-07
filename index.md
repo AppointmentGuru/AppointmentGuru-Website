@@ -5,7 +5,7 @@ title: AppointmentGuru. The best way to manage your appointments
 permalink: //
 canonical: 'https://appointmentguru.co'
 description: AppointmentGuru practice management software is the best way to manage your appointments and your business
-keywords: appointment, appointmentguru, book online, practice management, schedule, calendar, invoicing, administration, physio, biokinetics
+keywords: appointment manager, professional, organise, reminders, notifications, free booking page, book online, practice management, scheduling, calendar, invoicing, physio, biokinetics
 ---
 
 {% include blocks/major-feature-block.html data=site.data.website.homepage.mainFeatureBlock %}
