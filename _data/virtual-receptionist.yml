@@ -5,7 +5,7 @@ homepage:
   tagline: The best way to manage your appointments
   primarycta: Get started for free
   monthlyCost: R1000
-  # recommendation: AppointmentGuru's invoicing descriptive text<i>you</i>.
+  recommendation: Delegate all things AppointmentGuru to a Virtual Receptionist and focus on the important parts of your business.
   signup:
     css:
       - app.5a9ca873380a3ab1330d2de5e2e1781c.css
@@ -29,23 +29,23 @@ homepage:
     - summary:
       title: Your own phone number
       description: A number for your clients to call and SMS. Answered professionally with your business name and a virtual answering machine to take messages after hours.
-      picture: right
+      picture: left
       picture_url: /assets/img/landing-pages/vr/notifications.png
     - summary:
       title: Speedy and attentive
       description: Friendly, real-time access to a virtual receptionist familiar with your business, helping you get the most out of AppointmentGuru.
-      picture: left
+      picture: right
       picture_url: /assets/img/landing-pages/vr/vr-whatsapp.png
     - summary:
       title: Promote your number to your clients
       description: Help publicising your new number with a checklist of options including email and SMS campaigns.
-      picture: right
-      picture_url: /assets/img/landing-pages/vr/checklist.png
-    - summary:
-      title: Try it out!
-      description: A 30-day free trial to decide whether AppointmentGuru's Virtual Receptionist is for you.
       picture: left
-      picture_url: /assets/img/landing-pages/vr/placeholder.png
+      picture_url: /assets/img/landing-pages/vr/checklist.png
+#    - summary:
+#      title: Try it out!
+#      description: A 30-day free trial to decide whether AppointmentGuru's Virtual Receptionist is for you.
+#      picture: left
+#      picture_url: /assets/img/landing-pages/vr/freetrial.png
 
   pricingFeatures:
     - text: A free trial for one month

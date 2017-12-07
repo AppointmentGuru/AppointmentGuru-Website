@@ -14,7 +14,7 @@ keywords: appointment, appointmentguru, book online, practice management, schedu
 {% include blocks/text-block.html text=site.data.virtual-receptionist.homepage.recommendation %}
 <div id='product'></div>
 {% for feature in site.data.virtual-receptionist.homepage.majorFeatures %}
-<div class='{% cycle 'light', 'dark' %}' >
+<div class='{% cycle 'dark', 'light' %}' >
 {% include blocks/feature-detail.html feature=feature %}
 </div>
 {% endfor %}
