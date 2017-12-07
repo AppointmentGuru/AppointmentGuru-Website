@@ -3,7 +3,7 @@
 id: virtual-receptionist
 layout: home
 title: AppointmentGuru. The best way to manage your appointments
-permalink: /virtual-receptionist/
+permalink: /landing-page/virtual-receptionist/
 canonical: 'https://appointmentguru.co'
 description: AppointmentGuru practice management software is the best way to manage your appointments and your business
 keywords: appointment, appointmentguru, book online, practice management, schedule, calendar, invoicing, administration, physio, biokinetics

@@ -93,9 +93,9 @@ footer:
     - href: "mailto:hello@appointmentguru.co"
       title: Email us
     - href: https://www.facebook.com/appointmentguru/
-      title: Facebook
+      title: Find us on Facebook
     - href: /get-a-guru
-      title: Get a Guru
+      title: Get a Guru!
   col2:
     title: Navigate
     links:
@@ -116,5 +116,7 @@ footer:
         title: Login
       - href: /guru-does-it-for-you/
         title: Guru Does It For You
+      - href: /landing-page/virtual-receptionist/
+        title: Virtual Receptionist
       - href: http://www.getapp.guru
         title: Mobile apps
