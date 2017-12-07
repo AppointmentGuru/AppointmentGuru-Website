@@ -110,9 +110,9 @@ footer:
   col3:
     title: Access
     links:
-      - href:
-        title: Signup
-      - href: http://portal.appointmentguru.co
+#      - href:
+#        title: Signup
+      - href: http://app.appointmentguru.co
         title: Login
       - href: /guru-does-it-for-you/
         title: Guru Does It For You
