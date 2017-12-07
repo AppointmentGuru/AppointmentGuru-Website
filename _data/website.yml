@@ -17,13 +17,15 @@ homepage:
   mainFeatureBlock:
     image: /assets/img/guru/appointmentguru-app-v2.png
     titleSummary: Zero-admin appointments and invoicing
-    title: Run your business like a pro.
+    title: More than just an appointment manager
 #    description: is empty
     features:
       - title: For your business
-        description: Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional</strong> invoices, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+        description: Automate your appointment management; send good-looking invoices; be better at running your business and free up more time.
+#       Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional invoices</strong>, <strong>organise</strong> your admin and free up <strong>more time</strong>.
       - title: For your clients
-        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
+        description: Make appointments with you; get notifications; view information on your business and receive easy-to-understand invoices.
+#       <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
 
   features:
 
