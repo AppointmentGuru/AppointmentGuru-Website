@@ -23,6 +23,8 @@ POPI is a good thing! It gives businesses the opportunity to simplify, review an
 
 3. Invoices generated from AppointmentGuru are sent to your Clients directly, to an email address they've provided to you. This eliminates the need to save versions on your computer, print copies to post and risk any unauthorised person(s) viewing the data.
 
+4. If you're using AppointmentGuru's Virtual Receptionists, you can be assured that they have signed NDA's and/or patient confidentiality agreements (as compliance for POPI and the requirements of the HPCSA confidentiality). AppointmentGuru will recommend that practitioners inform and get consent from their clients, notifying them that the Virtual Receptionist will have access to their information.
+
 ## Where do I see more information on POPI?
 
 Read the Act on [gov.za](https://www.gov.za/sites/default/files/37067_26-11_Act4of2013ProtectionOfPersonalInfor_correct.pdf). For a short and sweet checklist, we found [The 8 Compliance Details](http://www.popi360solution.co.za/the-8-compliance-details/) useful.
