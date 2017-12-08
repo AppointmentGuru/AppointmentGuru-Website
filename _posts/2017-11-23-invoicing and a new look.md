@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Invoicing is here! Along with a brand new look."
+title:  "<i>23 Nov 2017</i> - Invoicing is here! Along with a brand new look."
 date:   2017-11-23 10:00:00 +0200
 category: announcements
 published: true
