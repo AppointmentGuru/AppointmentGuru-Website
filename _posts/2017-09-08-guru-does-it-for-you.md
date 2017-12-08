@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "<i>23 Sept 2017</i> - Introducing Guru Does It For You"
+title:  "Introducing Guru Does It For You"
 date:   2017-09-11 10:00:00 +0200
 category: announcements
 published: true
