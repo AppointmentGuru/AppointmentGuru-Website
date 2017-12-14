@@ -16,6 +16,7 @@ keywords: AppointmentGuru features, benefits, compare
 |SMS/email notifications for your clients|Yes|Yes|
 |SMS/email notifications for you|Yes|Yes|
 |A phone number your clients can call/SMS to make appointments|No|Yes|
+|A Virtual Receptionist, ready to help you|No|Yes|
 |Saving notes on appointments and clients|Yes|Yes|
 |Invoicing (including ICD-10 and other medical codes)|Yes|Yes|
 |Calendar syncing (Google, Outlook and iOS)|Yes|Yes|

@@ -17,6 +17,7 @@ Add your business-specific details and click on *Save*. They will appear on your
 * [How does invoicing work?](/help/how-does-invoicing-work)
 * [Adding medical records](/help/adding-medical-records)
 * [Adding invoice line items](/help/adding-invoice-line-items)
+* [How do QuickCodes work?](/help/quickcodes)
 * [Editing and sending an invoice](/help/edit-an-invoice)
 * [Sending a QuickInvoice](quickinvoice)
 * [Can I download invoices for the month?](/help/download-invoices)
