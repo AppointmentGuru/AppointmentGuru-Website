@@ -8,6 +8,8 @@ keywords: invoicing, invoices, editing, edit, payment, send, sending
 
 # Editing and sending an invoice
 
+This help page outlines how to send an invoice from the Invoicing page/tab of the web or mobile app. You can also use [QuickInvoice](/help/quickinvoice) to send invoices on a per-appointment basis.
+
 As your appointments complete, they are added to the *Invoiceable* column on the [invoicing page](https://app.appointmentguru.co/#/invoices). The column is organised by client and you'll be able to create an invoice based on the appointments they've had with you but not yet paid for. You also be able to exclude any appointments from the invoice you're creating.
 
 ## Step 1
@@ -41,6 +43,7 @@ If you'd like to [add specific line items](/help/adding-invoice-line-items) to a
 
 * [How does invoicing work?](/help/how-does-invoicing-work)
 * [Add your invoicing settings](/help/invoicing-settings)
+* [How do QuickCodes work?](/help/quickcodes)
 * [Adding medical records](/help/adding-medical-records)
 * [Adding invoice line items](/help/adding-invoice-line-items)
 * [Sending a QuickInvoice](quickinvoice)
