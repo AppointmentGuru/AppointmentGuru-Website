@@ -12,6 +12,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 {% include search.html %}
 
+First Header | Second Header
+------------ | -------------
+Hello! Get Started... | Your account settings | Notifications | Your booking page | Adding clients |
+Adding appointments | Calendar and schedule | Invoicing your clients | Medical billing | Known issues |
+
+
 ## Get Started
 
 * [How does AppointmentGuru work?](how-does-appointmentguru-work)
