@@ -18,21 +18,22 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 <br>
 
-| ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [![Get started](/assets/img/help/hello_get_started.png)](http://google.com/) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](http://google.com/) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Notifications](/assets/img/help/notifications.png)](http://google.com/) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Your booking page](/assets/img/help/booking_page.png)](http://google.com/) |
 | | | | | | | |
-| [![Managing your clients](/assets/img/help/managing_your_clients.png)](http://google.com/) | | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](http://google.com/) | | [![Calendar and schedule](/assets/img/help/calendar_schedule.png)](http://google.com/) | | [![Invoicing your clients](/assets/img/help/invoicing_your_clients.png)](http://google.com/) |
+| [![Get started](/assets/img/help/hello_get_started.png)](/help/get-started) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](/help/account-settings) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Notifications](/assets/img/help/notifications.png)](/help/notifications) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Your booking page](/assets/img/help/booking_page.png)](/help/your-booking-page) |
 | | | | | | | |
-| [![Medical billing](/assets/img/help/medical_billing.png)](http://google.com/) | | [![Known Issues](/assets/img/help/known_issues.png)](http://google.com/) | | [![FAQ](/assets/img/help/faq.png)](http://google.com/) | | |
+| [![Managing your clients](/assets/img/help/managing_your_clients.png)](/help/managing-your-clients) | | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](/help/adding-and-managing-appointments) | | [![Calendar and schedule](/assets/img/help/calendar_schedule.png)](/help/calendar-and-schedule) | | [![Invoicing your clients](/assets/img/help/invoicing_your_clients.png)](/help/invoicing-your-clients) |
+| | | | | | | |
+| [![Medical billing](/assets/img/help/medical_billing.png)](/help/medical-billing) | | [![Known Issues](/assets/img/help/known_issues.png)](/help/known-issues) | | [![FAQ](/assets/img/help/faq.png)](/help/faq) | | |
 
 <br>
 
 ## Answers to common questions
 
-1. [How does AppointmentGuru work?](how-does-appointmentguru-work)
-2. [How do I add an appointment?](add-an-appointment)
-3. [How does invoicing work?](how-does-invoicing-work)
-4. [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
+| | | |
+| [How does AppointmentGuru work?](how-does-appointmentguru-work) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
+| [How do I add an appointment?](add-an-appointment) | | |
+| [How does invoicing work?](how-does-invoicing-work) | | |
+| [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost) | | |
 
 <br>
 
