@@ -16,8 +16,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Find answers in the relevant section
 
-<br>
-
 | | | | | | | |
 | [![Get started](/assets/img/help/hello_get_started.png)](/help/get-started) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](/help/account-settings) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](/help/adding-and-managing-appointments) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Managing your clients](/assets/img/help/managing_your_clients.png)](/help/managing-your-clients) |
 | | | | | | | |
@@ -38,8 +36,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 <br>
 
 ## Need more help? We're here!
-
-<br>
 
 | | | | | |
 | [![Mail us](/assets/img/help/mail_us.png)](mailto:support@appointmentguru.co) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Book an appointment with a Guru](/assets/img/help/book_an_appointment.png)](/get-a-guru/) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
