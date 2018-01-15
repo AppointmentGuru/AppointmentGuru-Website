@@ -9,7 +9,7 @@ keywords: AppointmentGuru features, benefits, compare
 
 ||AppointmentGuru subscription|AppointmentGuru virtual receptionist|
 |-|:-:|:-:|
-|Free trial|Two months|One month|
+|Free trial|One month|One month|
 |A mobile and web app for you|Yes|Yes|
 |A mobile app for your clients to make appointments|Yes|Yes|
 |A free booking page (website)|Yes|Yes|
