@@ -62,7 +62,7 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 ### 8. Cost and subscription
 
-8.1 AppointmentGuru requests a monthly (30-day) subscription fee be paid via credit card once a customer has enjoyed a free trial for two months.
+8.1 AppointmentGuru requests a monthly (30-day) subscription fee be paid via credit card once a customer has enjoyed a free trial for one month.
 
 8.2 After the second month, customers will be requested to enter credit card details to purchase a repeating monthly subscription. If customers decline to subscribe, their AppointmentGuru account will become read-only (no functionality will be possible) with the option of upgrading to a paid subscription at any time.
 

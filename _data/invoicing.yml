@@ -53,7 +53,7 @@ homepage:
       picture_url: /assets/img/landing-pages/invoicing/reporting-3.png
 
   pricingFeatures:
-    - text: A free trial for two months
+    - text: A free trial for one month
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false
