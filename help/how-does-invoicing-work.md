@@ -8,11 +8,13 @@ keywords: invoice, invoicing, ICD10, payment
 
 # How does invoicing work?
 
-AppointmentGuru's invoicing works for anyone but it also caters for South African medical practitioners whose invoices need to be submitted to medical aids. This means you can include various codes like ICD-10, process, procedure and NAPPI.
+AppointmentGuru's invoicing works for anyone but it also caters for South African medical practitioners whose invoices are submitted to medical aids. This means you can include various codes like ICD-10, process, procedure and NAPPI.
 
-Invoicing can be done as your appointments happen or you can complete them at the end of the month.
+Invoicing can be done as your appointments happen or you can complete them at the end of the week or month - whatever suits you!
 
 ## Here's how it works
+
+### Add your business information that will appear on the invoices
 
 1\. Make sure your business details are correct on the [Settings page](https://app.appointmentguru.co/#/settings) (you only need to enter them once). [Read more on this link](/help/invoicing-settings).
 
