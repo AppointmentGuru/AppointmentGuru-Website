@@ -30,4 +30,4 @@ keywords: AppointmentGuru features, benefits, compare
 |Access to logo, business card and flyer design - all with your AppointmentGuru details|Yes|Yes|
 |Monthly subscription cost|R400|R1000|
 
-<div style="text-align: right">Last updated November 2017</div>
+<div style="text-align: right">Last updated January 2018</div>

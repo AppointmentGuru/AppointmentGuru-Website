@@ -6,6 +6,8 @@ description: Using AppointmentGuru's invoicing
 keywords: invoice, invoicing, ICD10, payment
 ---
 
+[Home](/) > [Help](/help) > [Invoicing]() > How does invoicing work?
+
 # How does invoicing work?
 
 AppointmentGuru's invoicing works for anyone and it also caters for South African medical practitioners whose invoices are submitted to medical aids. This means you can include various codes like ICD-10, process, procedure and NAPPI codes.

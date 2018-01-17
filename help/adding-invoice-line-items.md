@@ -8,7 +8,7 @@ keywords: invoice, invoicing, line item, ICD-10, NAPPI, payment
 
 # Adding invoice line items
 
-Some invoices may require more detail in the form of line items. These can be added via the Appointment, Client or when you create the specific invoice - all of them work the same way.
+Some invoices may require more detail in the form of line items. These can be added via the Appointment, Client or when you create the specific invoice - all work the same way.
 
 ## After navigating to the invoice editing screen you can:
 
