@@ -43,7 +43,6 @@ If you'd like to [add specific line items](/help/adding-invoice-line-items) to a
 
 * [How does invoicing work?](/help/how-does-invoicing-work)
 * [Add your invoicing settings](/help/invoicing-settings)
-* [How do QuickCodes work?](/help/quickcodes)
 * [Adding medical records](/help/adding-medical-records)
 * [Adding invoice line items](/help/adding-invoice-line-items)
 * [Sending a QuickInvoice](quickinvoice)
