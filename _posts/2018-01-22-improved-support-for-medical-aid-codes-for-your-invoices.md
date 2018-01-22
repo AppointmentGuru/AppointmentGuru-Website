@@ -22,7 +22,7 @@ So, what exactly have we done?
 
 Previously, we had a few different ways in which you could manage invoice details, lineitems and prices. We've consolidated all of those into a single interface. You can access it directly from the appointment detail page (ie. click on an appointment and open it), or from any appointment actions dropdown.
 
-<img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/invoice-details-page.png' alt='The invoice details page' class='img-responsive block' />
+<img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/invoice-details-page.png' alt='The invoice details page' class='img-responsive img-thumbnail' />
 
 ### Add, edit and delete codes for an appointment
 
@@ -51,7 +51,7 @@ The "add and add more" option is also useful when you're adding a lot of codes. 
     </div>
 
     <div class="col-xs-12 col-sm-6">
-      <img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/icd10-code-picker.png' alt='The invoice details page' class='img-responsive' />
+      <img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/icd10-code-picker.png' alt='The invoice details page' class='img-responsive img-thumbnail' />
     </div>
   </div>
 </div>
