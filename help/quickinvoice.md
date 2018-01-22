@@ -14,7 +14,7 @@ If you're a business that doesn't need to add medical line items and you want to
 
 1. Navigate to the appointment, on the Calendar or Appointments page and click on the three vertical dots.
 2. Click on *send QuickInvoice*.
-3. Give a name for the invoice (for example, *Customer name 12 Nov 2017*) and choose how to send the invoice.
+3. Give a name for the invoice (for example, *Sam Smith 12 Nov 2017*) and choose how to send the invoice.
 
 ### Related articles
 

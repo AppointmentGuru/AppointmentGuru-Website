@@ -8,15 +8,17 @@ keywords: invoice, invoicing, line item, ICD-10, NAPPI, payment
 
 # Adding invoice line items
 
-Some invoices may require more detail in the form of line items. These can be added via the Appointment, Client or when you create the specific invoice - all work the same way.
+Some invoices may require more detail in the form of line items, particularly codes for medical aid submission. These can be added via an appointment or the Invoicing page.
 
-## After navigating to the invoice editing screen you can:
+Once you've landed on editing the actual invoice, these are the steps to follow:
 
-* Edit the invoice title.
-* Add line items by clicking on the blue plus - choose the type of medical aid code and its specific details.
-* Once you're done, click on *Mark as ready for invoicing*.
+* Click on the blue-plus sign next to *Medical aid line items*.
+* In the box that opens, add or search for the appropriate codes. As you use this feature, your often-used codes and prices will be remembered.
+* To add multiple line items, click on *Add and add more*.
+* Edit an existing line item by clicking on it and remove one by clicking on the trash can to the right.
+* Once you're done, click on *Ready for invoicing*.
 
-If the *Medical aid line items* area is not showing, click on the refresh button next to the client name on the *Add invoice details* screen.
+Invoices can be sent (and resent) from Invoicing page.
 
 ### Related articles
 
