@@ -30,11 +30,31 @@ Managing the lineitems is now as simple as managing a table. You can edit detail
 
 The "add and add more" option is also useful when you're adding a lot of codes. It doesn't clear the fields, so you can quickly add lineitems which use mostly the same data. For example, you might add a number of process codes for the same ICD10 code. Since the only data that's changing per lineitem is the process code, you can now simply edit the code and click "add" again - making it fast and simple to add!
 
-### Smart process and diagnosis code search
+<div class='block' >
 
-<img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/icd10-code-picker.png' alt='The invoice details page' class='img-responsive block' style='float:right;width:60%;' />
+  <h3>Smart process and diagnosis code search</h3>
 
-When adding codes to your invoice, you might need to search to find the exact code. Don't worry, we've got your back with ICD10 code search _and_ process code search. What's more, we'll also **highlight codes that you often use**, or that you've used recently. **With process codes we can even remember the price you normally use with them add add that for you automoatically**.
+  <div class="row my-4">
+    <div class="col-xs-12 col-sm-6">
+      When adding codes to your invoice, you might need to search to find the exact code. Don't worry, we've got your back with ICD10 code search <i>and</i> process code search. What's more, we'll also highlight codes that you often use, or that you've used recently. With process codes we can even remember the price you normally use with them add add that for you automoatically.
+
+      <p><br/>
+      <strong>Feature summary:</strong>
+
+      <ul>
+        <li>Search ICD10 and process codes</li>
+        <li>Detailed results are returned, including medical aid tariff rates for process codes</li>
+        <li>Suggested results let you quickly add find what you're looking for based on codes you've used previously</li>
+        <li>Price can be populated based on prices you've used before</li>
+      </ul>
+      </p>
+    </div>
+
+    <div class="col-xs-12 col-sm-6">
+      <img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/icd10-code-picker.png' alt='The invoice details page' class='img-responsive' />
+    </div>
+  </div>
+</div>
 
 ### The pricing becomes more obvious
 
