@@ -10,9 +10,9 @@ tags:
 ---
 # Improved support for entering your medical aid codes
 
-Today we released an update which makes it simpler, faster and easier to add medical aid details like ICD10 codes and process codes to your appointments. This is part of our drive to make invoicing as simple and seamless for you as possible.
+Today we released an update which makes it simpler, faster and easier to add medical aid details like ICD10 and process codes to your appointments. This is part of our drive to make invoicing as simple and seamless for you as possible.
 
-Our vision is to make you better and admin while spending less time doing it. Getting invoicing right is a large part of that vision. Today, we hope, we've taken an important step in that direction.
+Our vision is to make you better at admin while spending less time doing it - getting invoicing right is a large part of that vision. Today, we think we've taken an important step in that direction!
 
 ## What's improved
 
@@ -20,13 +20,13 @@ So, what exactly have we done?
 
 ### One way of doing things
 
-We used to have a few different ways in which you could manage invoice details and prices. We've consolidated all of those into a single interface now. You can access it directly from the Appointment detail page, or from any appointment actions dropdown.
+Previously, we had a few different ways in which you could manage invoice details, lineitems and prices. We've consolidated all of those into a single interface. You can access it directly from the appointment detail page (ie. click on an appointment and open it), or from any appointment actions dropdown.
 
 <img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/invoice-details-page.png' alt='The invoice details page' class='img-responsive block' />
 
 ### Add, edit and delete codes for an appointment
 
-Managing the lineitems is now as simple as managing a table. You can edit details be clicking on the row; delete by clicking on the trash bin, and add a new item as well.
+Managing lineitems is now as simple as managing a table. You can edit details by clicking on the row; delete by clicking on the trash bin, and also add a new item.
 
 The "add and add more" option is also useful when you're adding a lot of codes. It doesn't clear the fields, so you can quickly add lineitems which use mostly the same data. For example, you might add a number of process codes for the same ICD10 code. Since the only data that's changing per lineitem is the process code, you can now simply edit the code and click "add" again - making it fast and simple to add!
 
@@ -36,16 +36,16 @@ The "add and add more" option is also useful when you're adding a lot of codes. 
 
   <div class="row my-4">
     <div class="col-xs-12 col-sm-6">
-      When adding codes to your invoice, you might need to search to find the exact code. Don't worry, we've got your back with ICD10 code search <i>and</i> process code search. What's more, we'll also highlight codes that you often use, or that you've used recently. With process codes we can even remember the price you normally use with them add add that for you automoatically.
+      When adding codes to your invoice, you might need to search to find the exact code. Don't worry, we've got your back with ICD10 code search <i>and</i> process code search. What's more, codes that are often used or used recently are highlighted. When it comes to process codes, the price you normally use is remembered and added automatically.
 
       <p><br/>
       <strong>Feature summary:</strong>
 
       <ul>
-        <li>Search ICD10 and process codes</li>
-        <li>Detailed results are returned, including medical aid tariff rates for process codes</li>
-        <li>Suggested results let you quickly add find what you're looking for based on codes you've used previously</li>
-        <li>Price can be populated based on prices you've used before</li>
+        <li>Search ICD10 and process codes.</li>
+        <li>Detailed results are returned, including medical aid tariff rates for process codes.</li>
+        <li>Suggested results let you quickly find and add what you're looking for based on codes you've used previously.</li>
+        <li>Price can be populated based on prices you've used before.</li>
       </ul>
       </p>
     </div>
@@ -62,6 +62,5 @@ If you've specified medical aid codes and process numbers on your invoice, the p
 
 ### Other small improvements
 
-* The appointment type information is now included on appointment details _and you can edit it!_
-* The invoiceable status of an appointment is included on the appointments list on the client detail page.
-
+* The appointment type information is now included on appointment details _and you can edit it!_ For example, if you've mistakenly made an appointment for an "Initial Consultation" but it's actually a "Followup Consultation", it's easily updated on the appointment detail page.
+* The invoiceable status of an appointment is included on the list of appointments visible on the client detail page.
