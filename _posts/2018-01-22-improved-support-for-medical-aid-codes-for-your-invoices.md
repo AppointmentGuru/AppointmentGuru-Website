@@ -20,15 +20,15 @@ So, what exactly have we done?
 
 ### One way of doing things
 
-Previously, we had a few different ways in which you could manage invoice details, lineitems and prices. We've consolidated all of those into a single interface. You can access it directly from the appointment detail page (ie. click on an appointment and open it), or from any appointment actions dropdown.
+Previously, we had a few different ways in which you could manage invoice details, line items and prices. We've consolidated all of those into a single interface. You can access it directly from the appointment detail page (ie. click on an appointment and open it), or from any appointment actions dropdown.
 
 <img src='/assets/img/blog/2018-01-22-improved-support-for-medical-aid-codes-for-your-invoices/invoice-details-page.png' alt='The invoice details page' class='img-responsive img-thumbnail' />
 
 ### Add, edit and delete codes for an appointment
 
-Managing lineitems is now as simple as managing a table. You can edit details by clicking on the row; delete by clicking on the trash bin, and also add a new item.
+Managing line items is now as simple as managing a table. You can edit details by clicking on the row; delete by clicking on the trash bin, and also add a new item.
 
-The "add and add more" option is also useful when you're adding a lot of codes. It doesn't clear the fields, so you can quickly add lineitems which use mostly the same data. For example, you might add a number of process codes for the same ICD10 code. Since the only data that's changing per lineitem is the process code, you can now simply edit the code and click "add" again - making it fast and simple to add!
+The "add and add more" option is also useful when you're adding a lot of codes. It doesn't clear the fields, so you can quickly add line items which use mostly the same data. For example, you might add a number of process codes for the same ICD10 code. Since the only data that's changing per line item is the process code, you can now simply edit the code and click "add" again - making it fast and simple to add!
 
 <div class='block' >
 

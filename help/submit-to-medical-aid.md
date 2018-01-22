@@ -20,4 +20,4 @@ We look forward to introducing medical aid submission features in the future!
 * [Editing and sending an invoice](/help/edit-an-invoice)
 * [Can I download invoices for the month?](/help/download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
-* [How do I give a client a discount for a specific appointment?](/help/iscount-appointment)
+* [How do I give a client a discount for a specific appointment?](/help/discount-appointment)

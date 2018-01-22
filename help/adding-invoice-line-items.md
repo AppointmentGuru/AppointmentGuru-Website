@@ -23,7 +23,6 @@ If the *Medical aid line items* area is not showing, click on the refresh button
 * [How does invoicing work?](/help/how-does-invoicing-work)
 * [Add your invoicing settings](/help/invoicing-settings)
 * [Adding medical records](/help/adding-medical-records)
-* [How do QuickCodes work?](/help/quickcodes)
 * [Sending a QuickInvoice](quickinvoice)
 * [Editing and sending an invoice](/help/edit-an-invoice)
 * [Can I download invoices for the month?](/help/download-invoices)

@@ -38,7 +38,7 @@ homepage:
       picture_url: /assets/img/landing-pages/invoicing/invoicing-page.png
     - summary:
       title: Powerful support for medical codes
-      description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes easily with <i>QuickCodes</i> or as individual line items. Those line item amounts can be split equally and total as the appointment cost or add to it.
+      description: AppointmentGuru allows you to add ICD10, NAPPI, procedure and process codes. It includes Smart search and remembers your previous choices.
       picture: right
       picture_url: /assets/img/landing-pages/invoicing/lineitems.png
     - summary:
