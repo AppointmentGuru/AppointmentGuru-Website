@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Improved support for entering your medical aid codes"
-date: 2018-01-21 10:00:00 +0200
+date: 2018-01-26 10:00:00 +0200
 category: announcements
 published: true
 tags:
@@ -62,5 +62,7 @@ If you've specified medical aid codes and process numbers on your invoice, the p
 
 ### Other small improvements
 
+* Send the invoice to another email address when sending it to your client/yourself. Included is a list of email addresses used by Medical Aids for submitting claims. Just click on the search icon. We're going to improve this functionality over time.
 * The appointment type information is now included on appointment details _and you can edit it!_ For example, if you've mistakenly made an appointment for an "Initial Consultation" but it's actually a "Followup Consultation", it's easily updated on the appointment detail page.
 * The invoiceable status of an appointment is included on the list of appointments visible on the client detail page.
+* Add clients from the your Contacts on your phone (a feature we had mistakenly removed, sorry Melissa!)

@@ -44,7 +44,7 @@ If you send invoices on a monthly basis, for example, you can send an invoice th
 * Go to the [Invoices page](https://app.appointmentguru.co/#/invoices), find the client in the *Invoiceable* column (sometimes, using the date filter on the top-right is helpful if you have lots of clients) and click on the arrow to start the invoicing process.
 * Select the correct invoicing dates and choose which appointments should be included in the invoice.
 * To edit/add more details on the invoice, click on the 3 dots to the left of the client name in the *In progress* column and *Edit*.
-* Once finished, save the invoice and click on the arrow to send the invoice to your client and yourself.
+* Once finished, save the invoice and click on the arrow to send the invoice to your client and yourself. If you want to send it to a medical aid, click on the search icon next to *Send to email*.
 
 ![Invoice Line Items](/help/images/invoicing/invoice_lineitems.jpg){:class="img-responsive"}
 
@@ -56,7 +56,6 @@ If you send invoices on a monthly basis, for example, you can send an invoice th
 ## Invoicing features still to come
 
 * Download all invoices (not yet available but [contact us](mailto:support@appointmentguru.co) and we'll get it done for you).
-* Submitting to medical aids directly.
 * Digitising the New Client form - your new clients will be able to complete it online and it will sync back to your AppointmentGuru account to make invoicing even easier.
 
 ### Related articles
