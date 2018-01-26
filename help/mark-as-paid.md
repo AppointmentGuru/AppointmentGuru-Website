@@ -12,6 +12,8 @@ Keeping tabs on whether a client has paid or not is useful both in keeping track
 
 If the invoice is in the *In progress* column, click on the three dots and *Mark as paid*. If it's in the *Sent* column, click on the checkmark to confirm payment. It will then move to the *Paid* column.
 
+Alternatively, click on the appointment and *Mark as paid* on the list that opens.
+
 ### Related articles
 
 * [I want to send an automatic payment reminder to clients who haven't paid](/help/automatic-payment-reminder)
