@@ -15,23 +15,33 @@ However, until that functionality is available, there are ways that a multiple-p
 1. Setup two different AppointmentGuru accounts and we'll provide you with a booking page for your practice.
 2. Use one AppointmentGuru account and create appointment types specifically for each practitioner.
 
-Here's a table comparing the two:
+Here's the differences between the two:
 
-|Two AppointmentGuru accounts|One AppointmentGuru account|
-|---|---|
-|Your own practice information \*|Shared practice information \*|
-|Two accounts with your own login details|Shared login details using one email address and one mobile number|
-|Separate invoicing|Shared invoicing|
-|Separate clients|Shared clients|
-|Separate calendars|Shared calendar|
-|Your own customised notifications|Shared notifications that can specify practitioners|
-|Your own operating hours and appointment types|Your own operating hours and appointment types|
-|One month free trial|One month free trial|
-|A 50% discount until proper functionality is built|R400 per month|
-|AppointmentGuru monthly subscription deducted from two cards|Monthly subscription deducted from one card|
-|Two booking pages and a practice page|One booking page|
+**Two AppointmentGuru accounts**
+* Your own practice information \*
+* Two accounts with your own login details
+* Separate invoicing
+* Separate clients
+* Separate calendars
+* Your own customised notifications
+* Your own operating hours and appointment types
+* One month free trial
+* A 50% discount until proper functionality is built
+* AppointmentGuru monthly subscription deducted from two cards
+* Two booking pages and a practice page
 
-<br>
+**One AppointmentGuru account**
+* Shared practice information \*
+* Shared login details using one email address and one mobile number
+* Shared invoicing
+* Shared clients
+* Shared calendar
+* Shared notifications that can specify practitioners
+* Your own operating hours and appointment types
+* One month free trial
+* R400 per month
+* Monthly subscription deducted from one card
+* One booking page
 
 \* Practice information is address, phone number, email address, practice description, logo and profile pic
 
