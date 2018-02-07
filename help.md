@@ -40,7 +40,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 ## Notifications
 
 * [How do notifications work?](how-do-notifications-work)
-* [I need to add information to the appointment reminder notification sent to my clients](edit-notifications)
 * [How do I edit notifications that are sent to my client?](edit-notifications)
 * [Can I turn the notifications off and on?](turning-notifications-off-and-on)
 * [Where do I see what notifications have been sent to a client?](notification-log)
@@ -104,7 +103,8 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Get a Guru to help!](/get-a-guru)
 * [Can you do it for me?](can-you-do-it-for-me)
 * [Setting up your account](setting-up-your-account)
-* [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
+* [Telling your clients about AppointmentGuru](/telling-clients/)
+<!-- * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email) -->
 <!-- * [Business cards and flyers](business-cards-and-flyers) -->
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
