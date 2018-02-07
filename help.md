@@ -35,6 +35,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
 * [How does the reporting work?](reporting)
+* [My business has more than one practitioner, can I use AppointmentGuru?](multiple-practitioner)
 
 ## Notifications
 
