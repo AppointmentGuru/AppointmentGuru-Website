@@ -15,7 +15,7 @@ However, until that functionality is available, there are ways that a multiple-p
 1. Setup two different AppointmentGuru accounts and we'll provide you with a booking page for your practice.
 2. Use one AppointmentGuru account and create appointment types specifically for each practitioner.
 
-Here's the differences between the two:
+## Here's the differences between the two:
 
 **Two AppointmentGuru accounts**
 * Your own practice information \*
