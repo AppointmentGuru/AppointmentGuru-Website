@@ -103,7 +103,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Get a Guru to help!](/get-a-guru)
 * [Can you do it for me?](can-you-do-it-for-me)
 * [Setting up your account](setting-up-your-account)
-* [Telling your clients about AppointmentGuru](/telling-clients/)
+* [Telling your clients about AppointmentGuru](telling-clients/)
 <!-- * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email) -->
 <!-- * [Business cards and flyers](business-cards-and-flyers) -->
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
