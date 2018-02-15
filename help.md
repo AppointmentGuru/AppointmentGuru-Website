@@ -21,7 +21,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 | | | | | |
 | [![Managing your clients](/assets/img/help/managing_your_clients.png)](managing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Calendar and schedule](/assets/img/help/calendar_schedule.png)](calendar-and-schedule) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Notifications](/assets/img/help/notifications.png)](notifications) |
 | | | | | |
-| [![Your free website](/assets/img/help/your_website.png)](your-booking-page) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Invoicing your clients](/assets/img/help/invoicing_your_clients.png)](invoicing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Medical billing](/assets/img/help/medical_billing.png)](medical-billing) |
+| [![Your free website](/assets/img/help/your_website.png)](your-free-website) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Invoicing your clients](/assets/img/help/invoicing_your_clients.png)](invoicing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Medical billing](/assets/img/help/medical_billing.png)](medical-billing) |
 
 <!-- to add when working: [![Virtual Receptionist](/assets/img/help/virtual_receptionist.png)](virtual receptionist) and [![Advice and best practices](/assets/img/help/advice.png)](advice) -->
 
