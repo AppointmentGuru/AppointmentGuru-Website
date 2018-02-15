@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Managing your clients
-permalink: /help/managing-your-clients
+permalink: /help/managing-your-clients/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

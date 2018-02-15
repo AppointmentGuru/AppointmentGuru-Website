@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get started
-permalink: /help/get-started
+permalink: /help/get-started/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Your free website
-permalink: /help/your-free website
+permalink: /help/your-free website/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

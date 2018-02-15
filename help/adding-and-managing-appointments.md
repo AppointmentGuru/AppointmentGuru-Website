@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adding and managing appointments
-permalink: /help/adding-and-managing-appointments
+permalink: /help/adding-and-managing-appointments/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

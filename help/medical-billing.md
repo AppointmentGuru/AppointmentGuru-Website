@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Medical billing
-permalink: /help/medical-billing
+permalink: /help/medical-billing/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

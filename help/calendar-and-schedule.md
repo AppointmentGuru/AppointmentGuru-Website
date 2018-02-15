@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar and schedule
-permalink: /help/calendar-and-schedule
+permalink: /help/calendar-and-schedule/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---
