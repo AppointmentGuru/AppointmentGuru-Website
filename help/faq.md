@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /help/faq
+permalink: /help/faq/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

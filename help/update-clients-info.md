@@ -2,8 +2,8 @@
 layout: page
 title: My client's contact information has changed, how do I update it?
 permalink: /help/update-clients-info/
-description:
-keywords:
+description: Updating your clients info is easy
+keywords: client info, client details
 ---
 
 # My client's contact information has changed, how do I update it?

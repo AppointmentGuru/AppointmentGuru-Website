@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notifications
-permalink: /help/notifications
+permalink: /help/notifications/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---

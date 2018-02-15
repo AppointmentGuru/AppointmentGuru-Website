@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Invoicing your clients
-permalink: /help/invoicing-your-clients
+permalink: /help/invoicing-your-clients/
 description: Find all the help you need to use AppointmentGuru.
 keywords: support, help, information, customer service
 ---
