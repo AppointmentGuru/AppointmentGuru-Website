@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Can I change the background on my booking page?
+title: Can I change the background on my website?
 permalink: /help/change-background/
-description: Changing the background on your free booking page
+description: Changing the background on your free website
 keywords: background, website, template, free booking page
 ---
 
-# Can I change the background on my booking page?
+# Can I change the background on my website?
 
 Absolutely! You can either use one of the backgrounds we offer or add one of your own. [Send us an email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/) for further help.
 
@@ -19,6 +19,6 @@ Absolutely! You can either use one of the backgrounds we offer or add one of you
 
 ### Related articles
 
-* [What is the booking page?](/help/booking-page)
-* [What's the address of my booking page?](/help/address-of-booking-page)
-* [Can I use my own domain name with my booking page?](/help/use-domain-name)
+* [What is the free website?](/help/booking-page)
+* [What's the address of my website?](/help/address-of-booking-page)
+* [Can I use my own domain name with my website?](/help/use-domain-name)

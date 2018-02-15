@@ -37,7 +37,7 @@ Along with medical codes, you'll be able to add your client's medical aid partic
 * Reporting is on its own page, now with more graphs.
 * The graphs on the reporting page can be changed to show info over different time periods.
 * More date pickers to narrow down your searches on various pages (eg. choose a date range on the Client page to see what clients you saw over that time period).
-* We've removed the settings for your booking page (for now), it will come back soon.
+* We've removed the settings for your website (for now), it will come back soon.
 * A shedload of backend updates, fixes and enhancements to make everything run even zippier and look good.
 
 We always welcome feedback via [email](mailto:support@appointmentguru.co) or our [Facebook page](https://www.facebook.com/appointmentguru/).

@@ -7,7 +7,7 @@ keywords: AppointmentGuru admin, customer service, guru does it for you, virtual
 ---
 # Guru Does It For You
 
-We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial! 
+We build AppointmentGuru with simplicity and ease-of-use in mind but we also know that sometimes you just don't have the time or resources to get certain things done. We can help you! From setting up your AppointmentGuru account all the way to logo design and day-to-day business admin. Boost your AppointmentGuru subscription with *Guru Does It For You* for an extra R400 per month. And take advantage, it's included in your free trial!
 
 ## How does it work?
 
@@ -39,9 +39,9 @@ Introduce your clients to AppointmentGuru - we can send a personalised email on 
 
 #### 6. Link your Facebook page
 
-By [linking your Facebook page](/help/linking-facebook/) to AppointmentGuru, you'll be able to direct people to your booking page to make an appointment. You can also setup an instant reply when you aren't around to respond. If you don't have a Facebook page, we’ll create the page for you and add business information, images etc (we’ll also add the “book now” button and instant reply).
+By [linking your Facebook page](/help/linking-facebook/) to AppointmentGuru, you'll be able to direct people to your website to make an appointment. You can also setup an instant reply when you aren't around to respond. If you don't have a Facebook page, we’ll create the page for you and add business information, images etc (we’ll also add the “book now” button and instant reply).
 
-#### 7. Booking page/website
+#### 7. Free website
 
 Included in your monthly subscription is a free one-page website hosted with AppointmentGuru. If you’ve opted to buy a domain name, we can make sure that your website is available at that address.
 

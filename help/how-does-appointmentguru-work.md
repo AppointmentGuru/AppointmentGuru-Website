@@ -31,7 +31,7 @@ keywords: process, methodology
 ## What else is included in an AppointmentGuru account?
 
 * Access to your account via a [web](/help/how-do-I-login) and [mobile app](/help/is-there-a-mobile-app).
-* A [booking page](/help/booking-page) and [mobile app](/help/is-there-a-mobile-app) that your clients can use to book appointments with you.
+* A [free website](/help/booking-page) and [mobile app](/help/is-there-a-mobile-app) that your clients can use to book appointments with you.
 * Marketing collateral to promote yourself through AppointmentGuru.
 * Free and enthusiastic customer service, keen to see you succeed.
 

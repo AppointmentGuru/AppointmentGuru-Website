@@ -12,7 +12,7 @@ keywords: AppointmentGuru features, benefits, compare
 |Free trial|One month|One month|
 |A mobile and web app for you|Yes|Yes|
 |A mobile app for your clients to make appointments|Yes|Yes|
-|A free booking page (website)|Yes|Yes|
+|A free website|Yes|Yes|
 |SMS/email notifications for your clients|Yes|Yes|
 |SMS/email notifications for you|Yes|Yes|
 |A phone number your clients can call/SMS to make appointments|No|Yes|
