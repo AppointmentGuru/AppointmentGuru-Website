@@ -17,7 +17,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 ## Find answers in the relevant section
 
 | | | | | |
-| [![Get started](/assets/img/help/hello_get_started.png)](/help/get-started) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](/help/account-settings) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](/help/adding-and-managing-appointments) |
+| [![Get started](/assets/img/help/hello_get_started.png)](get-started) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](/help/account-settings) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](/help/adding-and-managing-appointments) |
 | | | | | |
 | [![Managing your clients](/assets/img/help/managing_your_clients.png)](/help/managing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Calendar and schedule](/assets/img/help/calendar_schedule.png)](/help/calendar-and-schedule) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Notifications](/assets/img/help/notifications.png)](/help/notifications) |
 | | | | | |
