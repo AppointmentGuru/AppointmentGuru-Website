@@ -9,7 +9,7 @@ keywords: AppointmentGuru features, benefits, compare
 
 ||AppointmentGuru subscription|AppointmentGuru virtual receptionist|
 |-|:-:|:-:|
-|Free trial|Two months|One month|
+|Free trial|One month|One month|
 |A mobile and web app for you|Yes|Yes|
 |A mobile app for your clients to make appointments|Yes|Yes|
 |A free website|Yes|Yes|
@@ -30,4 +30,4 @@ keywords: AppointmentGuru features, benefits, compare
 |Access to logo, business card and flyer design - all with your AppointmentGuru details|Yes|Yes|
 |Monthly subscription cost|R400|R1000|
 
-<div style="text-align: right">Last updated November 2017</div>
+<div style="text-align: right">Last updated January 2018</div>

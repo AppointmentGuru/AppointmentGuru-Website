@@ -55,7 +55,7 @@ homepage:
       picture_url: assets/img/homepage/guru-does-it-for-you.jpg
 
   pricingFeatures:
-    - text: A free trial for two months
+    - text: A free trial for one month
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false

@@ -8,9 +8,9 @@ keywords: invoice, invoicing, ICD10, payment, medical aid submission
 
 # Submit your invoice to medical aids
 
-We haven't yet implemented direct submission to medical aids but it's definitely on our to-do list. In the meantime, the option is to send the invoice to yourself by email and then forward it on to the medical aid claim address.
+When sending an invoice to yourself or client, click on the search icon next to *Send to email* and a list of medical aid claim email addresses will open. Choosing one will also send the invoice directly to the medical aid.
 
-We look forward to introducing medical aid submission features in the future!
+We're planning to work on improving the feature in the future.
 
 ### Related articles
 
@@ -20,4 +20,4 @@ We look forward to introducing medical aid submission features in the future!
 * [Editing and sending an invoice](/help/edit-an-invoice)
 * [Can I download invoices for the month?](/help/download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](/help/mark-as-paid)
-* [How do I give a client a discount for a specific appointment?](/help/iscount-appointment)
+* [How do I give a client a discount for a specific appointment?](/help/discount-appointment)

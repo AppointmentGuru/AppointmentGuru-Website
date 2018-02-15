@@ -16,22 +16,18 @@ getAGuru:
 
     You can book an appointment with a consultant in your area below
   startPage: /practitioners
-  practitionerIds: '1,125,1018'
+  practitionerIds: '1,1018,125'
   groups:
   - title: Johannesburg
     practitioners:
       - id: 1
         title: Christo Crampton
-  #   - id: 1018
-  #     title: Mumtaz Chohan-Gani
+      - id: 1018
+        title: Mumtaz Chohan-Gani
   - title: Cape Town
     practitioners:
       - id: 125
         title: Marije Pierson
-  # - title: Eastern Cape
-  #   practitioners:
-  #     - id: 733
-  #       title: Craig Stowe
 discoveryVitality:
   title: Book your Discovery Vitality Fitness Assessment online
   image: /assets/img/groups/discovery.jpeg
@@ -41,13 +37,9 @@ discoveryVitality:
 
     **Note:** AppointmentGuru is not in any way affiliated with Discovery Health.
   startPage: /practitioners/
-  practitionerIds: '363,734'
+  practitionerIds: '363'
   groups:
   - title: Johannesburg, Parktown North
     practitioners:
       - id: 363
         title: MCG Biokinetics
-  - title: Johannesburg, Sandton
-    practitioners:
-      - id: 734
-        title: Simone Conley
