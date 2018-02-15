@@ -1,16 +1,16 @@
 ---
 layout: page
-title: What is the booking page?
+title: What is the free website?
 permalink: /help/booking-page/
 description: You get a free booking page or website
 keywords: booking page, free website
 ---
 
-# What is the booking page?
+# What is the free website?
 
-With your AppointmentGuru account, you'll get a free booking page that your clients can use to book appointments with you. It displays info on your services as well as a booking widget where clients can make their appointments.
+With your AppointmentGuru account, you'll get a free website that your clients can use to book appointments with you. It displays info on your services as well as a booking widget where clients can make their appointments.
 
-Viewing the settings for your booking page is currently disabled. If you'd like to find out what your address is or make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
+Viewing the settings for your website is currently disabled. If you'd like to find out what your address is or make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
 
 <!-- ## Accessing the settings of your booking page
 
@@ -21,7 +21,7 @@ Viewing the settings for your booking page is currently disabled. If you'd like 
 
 ### Related articles
 
-* [Can I change the background on my booking page?](/help/change-background)
-* [What's the address of my booking page?](/help/address-of-booking-page)
-* [Can I use my own domain name with my booking page?](/help/use-domain-name)
+* [Can I change the background on my website?](/help/change-background)
+* [What's the address of my website?](/help/address-of-booking-page)
+* [Can I use my own domain name with my website?](/help/use-domain-name)
 * [I already have a website, can I add the booking widget to it?](/help/booking-widget)

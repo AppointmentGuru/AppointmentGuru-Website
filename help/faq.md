@@ -25,7 +25,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [How do I add an appointment?](add-an-appointment)
 * [How do notifications work?](how-do-notifications-work)
 * [How do I edit notifications that are sent to my client?](edit-notifications)
-* [What is the booking page?](booking-page)
+* [What is the free website?](booking-page)
 * [Where do I add my clients?](add-clients)
 * [Is there a mobile app my clients can use?](is-there-a-mobile-app)
 * [How do I cancel an appointment?](cancel-appointment)

@@ -10,9 +10,9 @@ keywords: customer service, assistance, guru does it for you, Facebook
 
 If you have a Facebook page that your clients visit, you can easily link Facebook and AppointmentGuru.
 
-## Use *+ Add a Button* to direct customers to your booking page
+## Use *+ Add a Button* to direct customers to your website
 
-Facebook has a call-to-action button that you can add to your page. The [button can be configured](https://www.facebook.com/help/977869848936797?helpref=search&sr=2&query=button) to include the link to your booking page.
+Facebook has a call-to-action button that you can add to your page. The [button can be configured](https://www.facebook.com/help/977869848936797?helpref=search&sr=2&query=button) to include the link to your website.
 
 ## Add an instant reply when you receive a Facebook message
 

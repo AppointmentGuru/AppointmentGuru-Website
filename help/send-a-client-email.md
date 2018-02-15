@@ -21,7 +21,7 @@ Please see an example of the email below, the content can be edited to suit your
 > Here is some useful information about AppointmentGuru:
 >
 > 1. If you'd like to use the app to book appointments with me, you can find it on [getapp.guru](http://www.getapp.guru/).
-> 2. Alternatively, appointments can be made via my booking page: [booking page URL]().
+> 2. Alternatively, appointments can be made via my website: [website URL]().
 > 3. Once your appointments are made, you can expect reminders a day before the appointment.
 > 4. Your information will be kept safe and secure on the AppointmentGuru platform.
 >

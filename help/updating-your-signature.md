@@ -2,7 +2,7 @@
 layout: page
 title: Use your email signature to let your Clients know about AppointmentGuru
 permalink: /help/updating-your-signature/
-description: Add a link in your signature to your booking page
+description: Add a link in your signature to your website
 keywords: signature, booking page
 ---
 
@@ -19,10 +19,10 @@ The signature space on emails is a useful place to let your Clients know that th
 
 ## WhatsApp
 
-Add your booking page URL to your status on WhatsApp: *Settings* > your name > *About*
+Add your website address to your status on WhatsApp: *Settings* > your name > *About*
 
 ### Related articles
 
 * [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
 * [Send an email to your clients telling them about AppointmentGuru](/help/send-a-client-email)
-* [What is the booking page?](/help/booking-page)
+* [What is the free website?](/help/booking-page)

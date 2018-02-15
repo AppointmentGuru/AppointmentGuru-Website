@@ -20,7 +20,7 @@ It might feel like we've been hibernating for the past few months but we do have
 4. Reconcile paid invoices in AppointmentGuru so that you can send payment reminders and see accurate reporting
 5. Create mail campaigns to your Clients
 6. Link your Facebook page to AppointmentGuru
-7. Help customise your free AppointmentGuru booking page or give you code for the booking widget to add to your own website
+7. Help customise your free AppointmentGuru website or give you code for the booking widget to add to your own website
 8. If you're looking for your own domain name and email address, we'll help get that done
 9. Get your AppointmentGuru calendar synced to your phone
 10. Access to logo, business card and flyer design

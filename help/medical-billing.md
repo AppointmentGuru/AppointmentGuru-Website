@@ -15,3 +15,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 ## Medical billing
 
 * [How does AppointmentGuru work?](how-does-appointmentguru-work)
+* [How does invoicing work?](how-does-invoicing-work)
+* [Add your invoicing settings](invoicing-settings)
+* [Adding medical records](adding-medical-records)
+* [Adding invoice line items](adding-invoice-line-items)
+* [Sending a QuickInvoice](quickinvoice)
+* [Editing and sending an invoice](edit-an-invoice)
+* [Can I download invoices for the month?](download-invoices)
+* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](discount-appointment)
