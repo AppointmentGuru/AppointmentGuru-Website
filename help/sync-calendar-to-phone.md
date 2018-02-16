@@ -13,7 +13,7 @@ You can definitely sync your calendar apps!
 ## Finding the Calendar feed URL in your AppointmentGuru account
 
 1. Login to the AppointmentGuru [web app](https://app.appointmentguru.co).
-2. Click on calendar, then scroll to the bottom of the page. You will see a calendar URL - copy it.
+2. Click *Account* and then *For your phone*, copy the calendar address on the page.
 
 Once you have the link, you can add it to your calendar of choice. Two things to remember:
 
@@ -33,7 +33,7 @@ Once you have the link, you can add it to your calendar of choice. Two things to
 ### To beat the 24-hour delay in updating Android with Google Calendar
 
 1. Try out [this app](https://play.google.com/store/apps/details?id=com.kenfenheuer.ICALSync). It's not a separate calendar app but rather pushes updates to your Google Calendar app more often.
-2. When setting it up, use the same calendar URL and choose the sync intervals you would like to use.
+2. When setting it up, use the same calendar address and choose the sync intervals you would like to use.
 
 ### Related articles
 

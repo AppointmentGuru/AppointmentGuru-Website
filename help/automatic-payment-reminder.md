@@ -10,24 +10,12 @@ keywords: payment reminder, payment request
 
 Cashflow in any business is important and chasing outstanding payments can be time-consuming. We've added the ability for you to send payment reminders to clients.
 
-## Where to edit the notification
-
-By default, the payment reminder says *Hi {{client.first_name}}. Just a friendly reminder: {{appointment.currency}}{{appointment.price}} is owed to {{me.get_full_name}}. Banking details: ...*
-
-You'll need to edit it to include your banking information and usually you can do this yourself but it is currently disabled. If you'd like to make a change, please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
-
-<!-- , here's how:
-
-1. Log into your AppointmentGuru account in the [web app](https://app.appointmentguru.co/) and go to the Settings page.
-2. Click on the first notification *Payment reminder* and choose whether you want to edit the SMS or email notification.
-3. Once edited, clicking on the blue Save button to save the message. -->
-
-**Please note:** Messages sent from AppointmentGuru use merge tags so that each message is personalised to that particular customer. If you're concerned that you'll make a mistake, please [contact us](mailto:support@appointmentguru.co) and we'll make the change for you!
-
 ## Sending the notification
 
 1. To send a notification for a particular invoice that needs to be paid, navigate to that appointment or invoice.
 2. Click on the three dots and select *Send again*.
+
+To edit the notification sent to your clients, take a look at [How do I edit notifications that are sent to my client?](/help/edit-notifications).
 
 ### Related articles
 

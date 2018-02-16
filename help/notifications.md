@@ -14,7 +14,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Notifications
 
-* [How do notifications work?](how-do-notifications-work)
+* [How do notifications work?](/notifications/how-do-notifications-work)
 * [I need to add information to the appointment reminder notification sent to my clients](edit-notifications)
 * [How do I edit notifications that are sent to my client?](edit-notifications)
 * [Can I turn the notifications off and on?](turning-notifications-off-and-on)
