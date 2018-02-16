@@ -14,31 +14,99 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 <br>
 
-## Find answers in the relevant section
+## Get Started
 
-| | | | | |
-| [![Get started](/assets/img/help/hello_get_started.png)](get-started) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Account settings](/assets/img/help/account_settings.png)](account-settings) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Adding and managing appointments](/assets/img/help/managing_adding_appointments.png)](adding-and-managing-appointments) |
-| | | | | |
-| [![Managing your clients](/assets/img/help/managing_your_clients.png)](managing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Calendar and schedule](/assets/img/help/calendar_schedule.png)](calendar-and-schedule) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Notifications](/assets/img/help/notifications.png)](notifications) |
-| | | | | |
-| [![Your free website](/assets/img/help/your_website.png)](your-free-website) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Invoicing your clients](/assets/img/help/invoicing_your_clients.png)](invoicing-your-clients) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Medical billing](/assets/img/help/medical_billing.png)](medical-billing) |
+* [How does AppointmentGuru work?](how-does-appointmentguru-work)
+* [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
+* [How do I login?](how-do-I-login)
+* [How do I get help from AppointmentGuru?](how-do-I-get-help)
+* [How do I add the appointment types that I offer?](add-appointment-types)
+* [Where do I add my physical address?](add-address)
+* [I want to update my operating hours](update-operating-hours)
+* [Where do I add my clients?](add-clients)
+* [How do I add an appointment?](add-an-appointment)
+* [Use your signature to let your Clients know about AppointmentGuru](updating-your-signature)
 
-<!-- to add when working: [![Virtual Receptionist](/assets/img/help/virtual_receptionist.png)](virtual receptionist) and [![Advice and best practices](/assets/img/help/advice.png)](advice) -->
+## Your account settings
 
-<br>
+* [How do I reset my password?](reset-password)
+* [Where do I add my physical address?](add-address)
+* [How do I add the appointment types that I offer?](add-appointment-types)
+* [I want to update my operating hours](update-operating-hours)
+* [Is my information and data safe and secure?](is-my-data-secure)
+* [Is there a mobile app I can use?](is-there-a-mobile-app)
+* [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
+* [How does the reporting work?](reporting)
 
-## Answers to common questions
+## Notifications
 
-| | | |
-| [How does AppointmentGuru work?](how-does-appointmentguru-work) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [Where do I add my clients?](add-clients) |
-| [How do I add an appointment?](add-an-appointment) | | [How do notifications work?](how-do-notifications-work) |
-| [How does invoicing work?](how-does-invoicing-work) | | [What is the free website?](booking-page) |
-| [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost) | | [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone) |
-| [More FAQs...](faq)
+* [How do notifications work?](how-do-notifications-work)
+* [I need to add information to the appointment reminder notification sent to my clients](edit-notifications)
+* [How do I edit notifications that are sent to my client?](edit-notifications)
+* [Can I turn the notifications off and on?](turning-notifications-off-and-on)
+* [Where do I see what notifications have been sent to a client?](notification-log)
+* [I want to send an automatic payment reminder to clients who haven't paid](automatic-payment-reminder)
 
-<br>
+## Your booking page
 
-## Need more help? We're here!
+* [What is the booking page?](booking-page)
+* [Can I change the background on my booking page?](change-background)
+* [What's the address of my booking page?](address-of-booking-page)
+* [Can I use my own domain name with my booking page?](use-domain-name)
+* [I already have a website, can I add the booking widget to it?](booking-widget)
 
-| | | | | |
-| [![Mail us](/assets/img/help/mail_us.png)](mailto:support@appointmentguru.co) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![Book an appointment with a Guru](/assets/img/help/book_an_appointment.png)](/get-a-guru/) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
+## Adding and managing clients
+
+* [Where do I add my clients?](add-clients)
+* [Is there a mobile app my clients can use?](is-there-a-mobile-app)
+* [My client's contact information has changed, how do I update it?](update-clients-info)
+* [What can my clients do via the mobile app?](client-mobile-app)
+
+## Adding and managing appointments
+
+* [How do I add an appointment?](add-an-appointment)
+* [How do my clients book appointments with me?](how-do-clients-book-appointments)
+* [How do I know when a client has booked an appointment with me?](how-do-I-know-when-an-appointment-has-been-booked)
+* [How do I cancel an appointment?](cancel-appointment)
+* [I need to reschedule an appointment](reschedule-appointment)
+* [I want to block off time so that clients can't make bookings](block-off-time)
+* [Can I make appointments repeat for repeating customers?](make-appointments-repeat)
+* [I want to add a note to a particular appointment](add-a-note)
+* [Where do I view the note I added to a particular appointment?](view-a-note)
+* [Can I view a list of all the appointments that a client has had with me?](view-list-of-appointments)
+
+## Calendar and schedule
+
+* [Can the calendar sync to my phone's calendar?](sync-calendar-to-phone)
+* [Can the calendar sync to my Outlook or Calendar app?](sync-calendar-to-app)
+
+## Invoicing your clients
+
+* [How does invoicing work?](how-does-invoicing-work)
+* [Add your invoicing settings](invoicing-settings)
+* [Adding medical records](adding-medical-records)
+* [Adding invoice line items](adding-invoice-line-items)
+* [Sending a QuickInvoice](quickinvoice)
+* [Editing and sending an invoice](edit-an-invoice)
+* [Can I download invoices for the month?](download-invoices)
+* [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
+* [How do I give a client a discount for a specific appointment?](discount-appointment)
+
+## Your AppointmentGuru subscription
+
+* [How much does AppointmentGuru cost?](how-much-does-appointmentguru-cost)
+* [How long is the free trial](how-long-is-the-free-trial)
+* [How do I pay for my AppointmentGuru subscription?](how-do-I-pay)
+* [Do I get an invoice or receipt for my AppointmentGuru subscription?](do-I-get-a-receipt)
+* [Can I get a refund?](can-I-get-a-refund)
+
+## Let us do some of the work for you
+
+* [Get a Guru to help!](/get-a-guru)
+* [Can you do it for me?](can-you-do-it-for-me)
+* [Setting up your account](setting-up-your-account)
+* [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
+<!-- * [Business cards and flyers](business-cards-and-flyers) -->
+* [Linking your Facebook page and AppointmentGuru](linking-facebook)
+
+<!-- ## Known issues -->
