@@ -13,7 +13,7 @@ You can definitely sync your calendar apps!
 ## Finding the Calendar feed URL in your AppointmentGuru account
 
 1. Login to the AppointmentGuru [web app](https://app.appointmentguru.co).
-2. Click on calendar, then scroll to the bottom of the page. You will see a calendar URL - copy it.
+2. Click *Account* and then *For your phone*, copy the calendar address on the page.
 
 Once you have the link, you can add it to your calendar of choice. Two things to remember:
 
@@ -23,17 +23,17 @@ Once you have the link, you can add it to your calendar of choice. Two things to
 ## Add the Calendar to your Google Calendar
 
 1. In Google Calendar, go to Other Calendars > dropdown arrow > Add by URL
-2. Paste the Calendar URL
+2. Paste the Calendar address
 
 ## Add the Calendar to your Outlook Calendar
 
 1. On Outlook.com go to Calendar > Import > Subscribe
-2. Paste the Calendar URL
+2. Paste the Calendar address
 
 ## Add the Calendar to your Mac Calendar
 
 1. In the Calendar App, go to File > New Calendar Subscription
-2. Paste the Calendar URL
+2. Paste the Calendar address
 
 ### Related articles
 

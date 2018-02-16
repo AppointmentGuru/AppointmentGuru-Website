@@ -8,9 +8,9 @@ keywords: invoice, invoicing, settings, practice number, bank details
 
 # Add your invoicing settings
 
-The correct Practice Name, Number and bank details can be added on the [Settings page](https://app.appointmentguru.co/#/settings).
+The correct Practice Name, Number and bank details can be added on the *Profile* page after clicking on *Account* in your AppointmentGuru account. Add your business-specific details and click on *Save*. They will appear on your invoices by default.
 
-Add your business-specific details and click on *Save*. They will appear on your invoices by default.
+If you'd like to include your logo, you can upload it by clicking on *Account* > *Media*.
 
 ### Related articles
 

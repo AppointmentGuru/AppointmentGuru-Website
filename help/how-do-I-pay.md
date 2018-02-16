@@ -8,7 +8,7 @@ keywords: AppointmentGuru subscription, credit card payment
 
 # How do I pay for my AppointmentGuru subscription?
 
-Near the end of your free trial, AppointmentGuru will send you an email with details on upgrading to a paid monthly subscription via credit card.
+Near the end of your free trial, AppointmentGuru will send you an email with details on upgrading to a paid monthly subscription via credit card. You can also click on the blue *Make a payment* button by going to Accounts > Billing in your AppointmentGuru account.
 
 If you choose not to subscribe, your AppointmentGuru account will become read-only (no functionality will be possible) but you will always be able to upgrade to a paid subscription at any time.
 

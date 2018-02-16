@@ -8,7 +8,7 @@ keywords: subscription receipt, subscription invoice
 
 # Do I get an invoice or receipt for my AppointmentGuru subscription?
 
-Once payment has been made, a receipt will be emailed to you.
+Once payment has been made, a receipt will be emailed to you. You can also find a copy of the receipt to download by clicking on *Account* and then *Billing* in your AppointmentGuru account.
 
 ### Related articles
 

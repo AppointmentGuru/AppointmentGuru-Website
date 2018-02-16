@@ -8,9 +8,10 @@ keywords: booking page, website, address, domain
 
 # What's the address of my website?
 
-<!-- You'll find the address of your booking page on the Settings page of your AppointmentGuru account. -->
+You'll find the address of your booking page on the Settings page of your AppointmentGuru account.
 
-If you'd like to know or change the address of your website, or get information on using your own domain name, please [let us know](mailto:support@appointmentguru.co).
+Log into your [AppointmentGuru account](https://app.appointmentguru.co/), click on *Get Online* and you'll see an address underneath *Your website*.
+
 
 ### Related articles
 

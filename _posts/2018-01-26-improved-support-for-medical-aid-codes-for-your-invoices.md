@@ -66,3 +66,5 @@ If you've specified medical aid codes and process numbers on your invoice, the p
 * The appointment type information is now included on appointment details _and you can edit it!_ For example, if you've mistakenly made an appointment for an "Initial Consultation" but it's actually a "Followup Consultation", it's easily updated on the appointment detail page.
 * The invoiceable status of an appointment is included on the list of appointments visible on the client detail page.
 * Add clients from the your Contacts on your phone (a feature we had mistakenly removed, sorry Melissa!)
+
+<div style="text-align: right">26 January 2018</div>
