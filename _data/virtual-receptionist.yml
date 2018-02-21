@@ -55,7 +55,7 @@ homepage:
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false
-    - text: A free booking page (website) and mobile app for clients to make appointments
+    - text: A free website and mobile app for clients to make appointments
       highlight: false
     - text: SMS and email appointment and payment reminders for your clients (and for you)
       highlight: true

@@ -12,7 +12,7 @@ AppointmentGuru allows your clients to book appointments with you and as a resul
 
 ## What to tell them
 
-Clients can book their appointments with you on your booking page or through the app. We can also provide a snippet of code to add to your existing website so that clients can book appointments there.
+Clients can book their appointments with you on your website or through the app. We can also provide a snippet of code to add to your existing website so that clients can book appointments there.
 
 ## Things to do
 
@@ -20,8 +20,8 @@ Clients find and contact you in different ways and it's important to keep enforc
 
 * Send them an email or SMS - [we can help with that](/help/send-a-client-email).
 * Let them know via WhatsApp.
-* [Link the action button on your Facebook page](/help/linking-facebook) to your booking page.
-* [Update your email signature](updating-your-signature) to include a link to your booking page.
+* [Link the action button on your Facebook page](/help/linking-facebook) to your website.
+* [Update your email signature](updating-your-signature) to include a link to your website.
 * If you have a website, add the [booking code](booking-widget).
 
 ### Related articles

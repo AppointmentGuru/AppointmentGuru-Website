@@ -17,13 +17,13 @@ homepage:
   mainFeatureBlock:
     image: /assets/img/guru/appointmentguru-app-v2.png
     titleSummary: Zero-admin appointments and invoicing
-    title: Run your business like a pro.
+    title: More than just an appointment manager
 #    description: is empty
     features:
       - title: For your business
-        description: Take <strong>control</strong> and <strong>manage</strong> appointments, send <strong>professional</strong> invoices, <strong>organise</strong> your admin and free up <strong>more time</strong>.
+        description: <strong>Automate</strong> your appointment management, send good-looking invoices, <strong>be better</strong> at running your business, <strong>free up</strong> more time.
       - title: For your clients
-        description: <strong>Information</strong> on your business, <strong>anytime</strong> online bookings, appointment and payment <strong>reminders</strong>, easy-to-understand <strong>invoices</strong>.
+        description: <strong>Independently</strong> book appointments with you, get notifications and <strong>arrive on time</strong>, <strong>pay quickly</strong> with easy-to-understand invoices.
 
   features:
 
@@ -45,7 +45,7 @@ homepage:
       picture_url: /assets/img/homepage/invoicing.png
     - summary: Get more bookings
       title: Take bookings online
-      description: With AppointmentGuru, your clients can book online from your free booking page, or via the mobile app.
+      description: With AppointmentGuru, your clients can book online from your free website, or via the mobile app.
       picture: left
       picture_url: /assets/img/homepage/online-appointments-v2.png
     - summary: Guru Does It For You
@@ -59,7 +59,7 @@ homepage:
       highlight: false
     - text: A mobile and web app for managing your appointments
       highlight: false
-    - text: A free booking page (website) and mobile app for clients to make appointments
+    - text: A free website and mobile app for clients to make appointments
       highlight: false
     - text: SMS and email appointment and payment reminders for your clients (and for you)
       highlight: false
@@ -110,7 +110,7 @@ footer:
     links:
       - href:
         title: Signup
-      - href: http://portal.appointmentguru.co
+      - href: http://app.appointmentguru.co
         title: Login
       - href: /guru-does-it-for-you/
         title: Guru Does It For You
