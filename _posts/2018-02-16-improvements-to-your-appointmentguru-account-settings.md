@@ -16,7 +16,7 @@ Here's what's new and improved:
 
 ## Locations
 
-Aside from adding or editing your address, operating hours and appointment types, you can now make an appointment type private which means that if your clients make bookings themselves, they won't be able to select it - only you can. You can also set the order of your appointments to be in a specific order on your booking page or in the app.
+Aside from adding or editing your address, operating hours and appointment types, you can now make an appointment type private which means that if your clients make bookings themselves, they won't be able to select it - only you can. You can also set the order of your appointments to be in a specific order on your website or in the app.
 
 ## Media
 

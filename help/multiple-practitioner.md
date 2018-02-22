@@ -12,7 +12,7 @@ AppointmentGuru currently offers an account that is **perfect** for a business w
 
 However, until that functionality is available, there are ways that a multiple-practitioner business can use AppointmentGuru.
 
-1. Setup two different AppointmentGuru accounts and we'll provide you with a booking page for your practice.
+1. Setup two different AppointmentGuru accounts and we'll provide you with a free website for your practice.
 2. Use one AppointmentGuru account and create appointment types specifically for each practitioner.
 
 ## Here's the differences between the two:
@@ -28,7 +28,7 @@ However, until that functionality is available, there are ways that a multiple-p
 * One month free trial
 * A 50% discount until proper functionality is built
 * AppointmentGuru monthly subscription deducted from two cards
-* Two booking pages and a practice page
+* Two separate websites as well as a group practice page
 
 **One AppointmentGuru account**
 * Shared practice information \*
@@ -41,7 +41,7 @@ However, until that functionality is available, there are ways that a multiple-p
 * One month free trial
 * R400 per month
 * Monthly subscription deducted from one card
-* One booking page
+* One website
 
 \* Practice information is address, phone number, email address, practice description, logo and profile pic
 
@@ -51,4 +51,4 @@ However, until that functionality is available, there are ways that a multiple-p
 * [How do I add the appointment types that I offer?](help/add-appointment-types)
 * [I want to update my operating hours](help/update-operating-hours)
 * [How much does AppointmentGuru cost?](help/how-much-does-appointmentguru-cost)
-* [What is the booking page?](help/booking-page)
+* [What is the free website?](help/booking-page)

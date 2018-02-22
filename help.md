@@ -47,12 +47,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Where do I see what notifications have been sent to a client?](notification-log)
 * [I want to send an automatic payment reminder to clients who haven't paid](automatic-payment-reminder)
 
-## Your booking page
+## Your website
 
-* [What is the booking page?](booking-page)
-* [Can I change the background on my booking page?](change-background)
-* [What's the address of my booking page?](address-of-booking-page)
-* [Can I use my own domain name with my booking page?](use-domain-name)
+* [What is the free website?](booking-page)
+* [Can I change the background on my website?](change-background)
+* [What's the address of my website?](address-of-booking-page)
+* [Can I use my own domain name with my website?](use-domain-name)
 * [I already have a website, can I add the booking widget to it?](booking-widget)
 
 ## Adding and managing clients
