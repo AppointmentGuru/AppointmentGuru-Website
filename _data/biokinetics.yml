@@ -1,0 +1,118 @@
+gaTrackingCode: UA-93898571-1
+homepage:
+  title: AppointmentGuru
+  headline: Automated zero-admin appointments
+  tagline: The best way to manage your appointments
+  primarycta: Get started for free
+  monthlyCost: R400
+  recommendation: AppointmentGuru is perfect for busy Biokineticists looking to streamline their appointment management and send timely, accurate invoices.
+  signup:
+    css:
+      - app.5a9ca873380a3ab1330d2de5e2e1781c.css
+    js:
+      - manifest.38a5de2868f7b0860f9e.js
+      - vendor.f49f1c1dcc931d6ba6e3.js
+      - app.59b99e0ae07730d85ae2.js
+
+  mainFeatureBlock:
+    image: /assets/img/guru/appointmentguru-app-v2.png
+    titleSummary: Zero-admin appointments and invoicing
+    title: More than just an appointment manager
+#    description: is empty
+    features:
+      - title: For Biokineticists
+        description: <strong>Automate</strong> your appointment management, send good-looking invoices, <strong>be better</strong> at running your business, <strong>free up</strong> more time.
+      - title: For your clients
+        description: <strong>Independently</strong> book appointments with you, get notifications and <strong>arrive on time</strong>, easy-to-understand invoices for <strong>quicker payment</strong>.
+
+  features:
+
+  majorFeatures:
+    - summary: Run your business like a pro
+      title: Manage your bookings on the go
+      description: Use our mobile and web app to manage your appointments, invoices, calendar, reminders and clients.
+      picture: right
+      picture_url: /assets/img/homepage/manage-appointments-v2.png
+    - summary: Stay informed and up-to-date
+      title: Send reminders and notifications that you can customise
+      description: Editable appointment and payment reminder notifications lessen no-shows and lighten your admin load.
+      picture: left
+      picture_url: /assets/img/homepage/notifications.png
+    - summary: Automatically generated invoices
+      title: Send professional invoices that clients, bookkeepers and medical aids will love
+      description: Industry-standard invoices sent at the touch of a button. Include extra medical info like ICD-10, NAPPI and procedure codes. <a href="/invoicing/">Learn more</a>
+      picture: right
+      picture_url: /assets/img/homepage/invoicing.png
+    - summary: Get more bookings
+      title: Take bookings online
+      description: With AppointmentGuru, your clients can book online from your free website, or via the mobile app.
+      picture: left
+      picture_url: /assets/img/homepage/online-appointments-v2.png
+    - summary: Guru Does It For You
+      title: Boost your subscription
+      description: Keep your business running like a machine with a dedicated Guru. We'll customise your AppointmentGuru account, be on standby to update your appointments, send invoices for you and <a href="/guru-does-it-for-you/">so much more</a>.
+      picture: right
+      picture_url: /assets/img/homepage/guru-does-it-for-you.jpg
+
+  pricingFeatures:
+    - text: A free trial for one month
+      highlight: false
+    - text: A mobile and web app for managing your appointments
+      highlight: false
+    - text: A free website and mobile app for clients to make appointments
+      highlight: false
+    - text: SMS and email appointment and payment reminders for your clients (and for you)
+      highlight: false
+    - text: Customisable, automatically generated invoices easily sent via AppointmentGuru
+      highlight: false
+    - text: Table talkers to encourage clients to make appointments through AppointmentGuru
+      highlight: false
+    - text: Access to logo, business card and flyer design - all with your AppointmentGuru details
+      highlight: false
+    - text: Boost your subscription with <i>Guru Does It For You</i> to use our expertise
+      highlight: false
+    - text: Reliable customer support, keen to see you succeed!
+      highlight: false
+  screenshots:
+    - title: Online bookings
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+    - title: Manage your own appointments
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+    - title: Track your progress
+      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
+
+footer:
+  about:
+    title: About
+    description: AppointmentGuru is a young start-up based in Johannesburg and Cape Town. We're passionate about helping small businesses succeed by taking advantage of technology, empowering them to do more with less.
+  col1:
+    title: Connect
+    links:
+    - href: "mailto:hello@appointmentguru.co"
+      title: Email us
+    - href: https://www.facebook.com/appointmentguru/
+      title: Find us on Facebook
+    - href: /get-a-guru
+      title: Get a Guru!
+  col2:
+    title: Navigate
+    links:
+    - href: /blog/
+      title: Blog
+    - href: /help/
+      title: Help
+    - href: /privacy/
+      title: Privacy
+    - href: /terms/
+      title: Terms & Conditions
+  col3:
+    title: Access
+    links:
+      - href:
+        title: Signup
+      - href: http://app.appointmentguru.co
+        title: Login
+      - href: /guru-does-it-for-you/
+        title: Guru Does It For You
+      - href: http://www.getapp.guru
+        title: Mobile apps

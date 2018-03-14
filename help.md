@@ -29,6 +29,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 
 ## Your account settings
 
+* [Setting up your account](setting-up-your-account)
 * [How do I reset my password?](reset-password)
 * [Where do I add my physical address?](add-address)
 * [How do I add the appointment types that I offer?](add-appointment-types)
@@ -37,6 +38,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Is there a mobile app I can use?](is-there-a-mobile-app)
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
 * [How does the reporting work?](reporting)
+* [I have a practice of multiple practitioners, can I use AppointmentGuru?](multiple-practitioner)
 
 ## Notifications
 
