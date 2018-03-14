@@ -8,29 +8,24 @@ keywords: practice, multiple practitioner, many users
 
 # My business has more than one practitioner, can I use AppointmentGuru?
 
-AppointmentGuru currently offers an account that is **perfect** for a business with a single practitioner. We plan to build out functionality that would seamlessly include multiple practitioners in a practice in the future.
+AppointmentGuru currently offers an account that is **perfect** for a business with a single practitioner. We are adding functionality that seamlessly includes multiple practitioners in a practice and it is still in beta.
 
-However, until that functionality is available, there are ways that a multiple-practitioner business can use AppointmentGuru.
+Here's how it would work:
 
-1. Setup two different AppointmentGuru accounts and we'll provide you with a free website for your practice.
-2. Use one AppointmentGuru account and create appointment types specifically for each practitioner.
-
-## Here's the differences between the two:
-
-**Two AppointmentGuru accounts**
 * Your own practice information \*
-* Two accounts with your own login details
+* Separate accounts, each with their own login details
 * Separate invoicing
 * Separate clients
 * Separate calendars
 * Your own customised notifications
 * Your own operating hours and appointment types
 * One month free trial
-* A 50% discount until proper functionality is built
+* A discount until the functionality is no longer in beta
 * AppointmentGuru monthly subscription deducted from two cards
 * Two separate websites as well as a group practice page
 
-**One AppointmentGuru account**
+Another alternative is to use one AppointmentGuru account but create appointment types specifically for each practitioner. Here's how that would work:
+
 * Shared practice information \*
 * Shared login details using one email address and one mobile number
 * Shared invoicing

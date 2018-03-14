@@ -44,18 +44,3 @@ discoveryVitality:
     practitioners:
       - id: 363
         title: MCG Biokinetics
-
-heide-and-charne:
-  title: Book an appointment with Heide or Charne online
-#  image: /assets/img/groups/discovery.jpeg
-  description: |
-    > You can book an appointment with Heide or Charne online in seconds.
-    Here's their details:
-  startPage: /practitioners
-  practitionerIds: '1159,1784'
-    - title: Johannesburg, Parktown North
-      practitioners:
-      - id: 1159
-        title: Heide Block
-      - id: 1784
-        title: Charnè Erasmus
