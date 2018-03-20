@@ -31,6 +31,10 @@ Remember: the notifications use merge tags (for example {% raw %}{{client.first_
 {% raw %}{{appointment.product.service.address.address}}{% endraw %} adds the address where the appointment will be eg. 15 Flannery Road, Johannesburg (this is useful if you operate from more than one location)  
 {% raw %}{{me.profile.banking_details}}{% endraw %} adds your banking details, eg. Eatwell Nutritionists, FNB Cheque Account number 12345678, Branch code 123456
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='I7MQ02zvsI4' %}
+
 ## We can do it for you!
 
 Click on *Do it for me* to open a chat with us or send the changes you'd like to make [to us](mailto:support@appointmentguru.co) and we'll update them for you.

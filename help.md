@@ -25,7 +25,6 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [I want to update my operating hours](update-operating-hours)
 * [Where do I add my clients?](add-clients)
 * [How do I add an appointment?](add-an-appointment)
-* [Use your signature to let your Clients know about AppointmentGuru](updating-your-signature)
 
 ## Your account settings
 
@@ -60,9 +59,12 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 ## Adding and managing clients
 
 * [Where do I add my clients?](add-clients)
+* [How do clients book appointments?](how-do-clients-book-appointments)
 * [Is there a mobile app my clients can use?](is-there-a-mobile-app)
 * [My client's contact information has changed, how do I update it?](update-clients-info)
 * [What can my clients do via the mobile app?](client-mobile-app)
+* [Telling your clients about AppointmentGuru](telling-clients)
+* [Use your signature to let your Clients know about AppointmentGuru](updating-your-signature)
 
 ## Adding and managing appointments
 
@@ -76,6 +78,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [I want to add a note to a particular appointment](add-a-note)
 * [Where do I view the note I added to a particular appointment?](view-a-note)
 * [Can I view a list of all the appointments that a client has had with me?](view-list-of-appointments)
+* [How do clients book appointments?](how-do-clients-book-appointments)
 
 ## Calendar and schedule
 
@@ -93,6 +96,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Can I download invoices for the month?](download-invoices)
 * [A client has paid, how do I mark it as paid on the appointment?](mark-as-paid)
 * [How do I give a client a discount for a specific appointment?](discount-appointment)
+* [Submit your invoice to medical aids](submit-to-medical-aid)
 
 ## Your AppointmentGuru subscription
 

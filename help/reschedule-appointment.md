@@ -14,6 +14,10 @@ Occasionally (we hope) you'll need to cancel or reschedule an existing appointme
 2. A menu will open, click on *Cancel* or *Reschedule* to remove or change an appointment.
 3. Notifications will be sent confirming the change.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='WstwA4sJNWs' %}
+
 ### Related articles
 
 * [How do I add an appointment?](/help/add-an-appointment)

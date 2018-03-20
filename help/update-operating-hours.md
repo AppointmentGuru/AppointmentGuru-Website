@@ -19,6 +19,10 @@ Your operating hours shouldn't change week-to-week. If there are time slots that
 3. Should you want to add different hours for different days, click on *Add hours* on that particular day.
 4. Remember to click on *Save*!
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='8fzbmUtwI3s' %}
+
 ### Related articles
 
 * [I want to block off time so that clients can't make bookings](/help/block-off-time)

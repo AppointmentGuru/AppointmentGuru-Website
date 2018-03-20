@@ -28,6 +28,8 @@ Here's a brief overview of the account settings:
 
 If you're in Joburg or Cape Town, we can meet with you to get you started. Go to the [Get a Guru page](/get-a-guru) for more information.
 
+Visit our [Youtube channel](https://www.youtube.com/channel/UCAZppp_Yg3dC9M1-ec8E6Tg) to find lots of explainer videos on getting your AppointmentGuru setup.
+
 ### Related articles
 
 * [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)

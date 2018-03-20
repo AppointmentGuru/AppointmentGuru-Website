@@ -23,6 +23,10 @@ To remove an appointment type, please [contact us](mailto:support@appointmentgur
 
 Repeat the above steps if you'd like to add more than one appointment type. For example, you might offer an *Introductory Consultation* and also a *Regular Consultation*.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='gD_MIfIUUTA' %}
+
 ### Related articles
 
 * [Where do I add my physical address?](/help/add-address)

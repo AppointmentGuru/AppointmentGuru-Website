@@ -10,13 +10,17 @@ keywords: location, physical address, office, practice
 
 An important part of allowing your clients to schedule appointments with you is making sure they know where you are! You'll be able to add your location(s) when adding your [appointment types](/help/add-appointment-types) and [operating hours](/help/update-operating-hours). Clients will also be able to specify the location when they make a booking with you, if you'd like to enable that feature, [please contact us](mailto:support@appointmentguru.co).
 
-## Here are the steps:
+## Here are the steps
 
 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/), click on *Account* and then *Locations*.
 3. Click on *Add location* to add a new one or *Edit* to change an existing location.
 4. Add your address and contact details, remember to click on *Save*
 
 Should you want to add another location, repeat the steps. For example, you may have a practice at home but also offer your services from another practitioner's location once a week.
+
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='FUWtDk7wcfE' %}
 
 ## We can do it for you!
 
