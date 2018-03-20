@@ -12,6 +12,10 @@ The correct Practice Name, Number and bank details can be added on the *Profile*
 
 If you'd like to include your logo, you can upload it by clicking on *Account* > *Media*.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='pYvQC07bxEg' %}
+
 ### Related articles
 
 * [How does invoicing work?](/help/how-does-invoicing-work)

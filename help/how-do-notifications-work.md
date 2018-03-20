@@ -28,6 +28,10 @@ By default, all notifications are sent automatically (except Payment reminders) 
 
 Learn more about [editing notifications](/help/edit-notifications), where you can customise the text to suit your needs.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='I7MQ02zvsI4' %}
+
 ### Related articles
 
 * [I need to add information to the appointment reminder notification sent to my clients](/help/edit-notifications)

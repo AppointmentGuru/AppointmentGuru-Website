@@ -19,6 +19,10 @@ There will be blocks of time where you won't want your Clients to be able to boo
 
 If you want to block time on a permanent basis, it's a better idea to make a change to your operating hours. Currently, that feature is disabled and we can make that change for you. Please contact us via [email](mailto:support@appointmentguru.co) or click on *Do it for me* in the [web app](https://app.appointmentguru.co/).
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='V3XaYFkDEKA' %}
+
 <!-- 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/) and go to the Settings page.
 2. Under *Configure Services*, click on your current service and go to *Operating Hours*.
 3. Select the days and hours you'd like to be available for appointments, remember to click on *Update Operating Hours*.
