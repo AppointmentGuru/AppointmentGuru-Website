@@ -16,6 +16,10 @@ If you're a business that doesn't need to add medical line items and you want to
 2. Click on *send QuickInvoice*.
 3. Give a name for the invoice (for example, *Sam Smith 12 Nov 2017*) and choose how to send the invoice.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='b3FvStB7FQ0' %}
+
 ### Related articles
 
 * [Add your invoicing settings](/help/invoicing-settings)

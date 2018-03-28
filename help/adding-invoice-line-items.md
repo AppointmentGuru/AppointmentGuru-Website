@@ -20,6 +20,10 @@ Once you've landed on editing the actual invoice, these are the steps to follow:
 
 Invoices can be sent (and resent) from Invoicing page.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='ac4vAam7LUE' %}
+
 ### Related articles
 
 * [How does invoicing work?](/help/how-does-invoicing-work)

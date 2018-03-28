@@ -17,6 +17,10 @@ With your AppointmentGuru account, you'll get a free website that your clients c
 3. You'll be able to find the address of your website under *Your website*.
 4. To find a background image that you like, use search terms and make your choice.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='e_JkCbMXccs' %}
+
 ### Related articles
 
 * [Can I change the background on my website?](/help/change-background)

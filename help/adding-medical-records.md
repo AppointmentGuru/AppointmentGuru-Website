@@ -16,6 +16,10 @@ Medical aid-specific information (scheme name, number, client details etc) need 
 2. Click on the *Medical Record* tab under *Client details* and then on the blue *Create Record* button.
 3. Click on *Edit* to start adding data and *Save* when you're done.
 
+## Watch a short video showing the steps
+
+{% include youtubePlayer.html id='yr1KF2w15H0' %}
+
 It's that easy!
 
 ### Related articles

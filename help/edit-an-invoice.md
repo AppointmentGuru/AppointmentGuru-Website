@@ -39,6 +39,13 @@ If you'd like to [add specific line items](/help/adding-invoice-line-items) to a
 * Now the invoice will be in the *Sent* column - here you can click on the three vertical dots to view or send the invoice again.
 * Once you've received payment, click on the *check* icon to mark as paid and the invoice will move to the final column.
 
+### Related videos
+
+* [One invoice with many appointments](https://www.youtube.com/watch?v=SH15KLwh6jM)
+* [Adding line items for medical billing](https://www.youtube.com/watch?v=ac4vAam7LUE)
+* [Adding medical aid and other personal information](https://www.youtube.com/watch?v=yr1KF2w15H0)
+* [Send a QuickInvoice](https://youtu.be/b3FvStB7FQ0)
+
 ### Related articles
 
 * [How does invoicing work?](/help/how-does-invoicing-work)
