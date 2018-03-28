@@ -38,6 +38,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Is there a way for to be unlisted from the directory on the mobile app?](unlist-from-directory)
 * [How does the reporting work?](reporting)
 * [I have a practice of multiple practitioners, can I use AppointmentGuru?](multiple-practitioner)
+* [Adding my logo and profile pic](logo-and-profile-pic)
 
 ## Notifications
 
@@ -112,7 +113,7 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Can you do it for me?](can-you-do-it-for-me)
 * [Setting up your account](setting-up-your-account)
 * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
-<!-- * [Business cards and flyers](business-cards-and-flyers) -->
+* [Business cards, just for you!](business-cards) -->
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
 <!-- ## Known issues -->

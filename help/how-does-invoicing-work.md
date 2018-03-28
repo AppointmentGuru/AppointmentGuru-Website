@@ -58,6 +58,13 @@ If you send invoices on a monthly basis, for example, you can send an invoice th
 * Download all invoices (not yet available but [contact us](mailto:support@appointmentguru.co) and we'll get it done for you).
 * Digitising the New Client form - your new clients will be able to complete it online and it will sync back to your AppointmentGuru account to make invoicing even easier.
 
+### Related videos
+
+* [One invoice with many appointments](https://www.youtube.com/watch?v=SH15KLwh6jM)
+* [Adding line items for medical billing](https://www.youtube.com/watch?v=ac4vAam7LUE)
+* [Adding medical aid and other personal information](https://www.youtube.com/watch?v=yr1KF2w15H0)
+* [Send a QuickInvoice](https://youtu.be/b3FvStB7FQ0)
+
 ### Related articles
 
 * [How does invoicing work?](/help/how-does-invoicing-work)

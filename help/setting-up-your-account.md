@@ -35,6 +35,7 @@ Visit our [Youtube channel](https://www.youtube.com/channel/UCAZppp_Yg3dC9M1-ec8
 * [How does AppointmentGuru work?](/help/how-does-appointmentguru-work)
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
 * [Can you do it for me?](/help/can-you-do-it-for-me)
+* [Adding my logo and profile pic](/help/logo-and-profile-pic)
 * [Editing your profile and invoicing settings](/help/invoicing-settings)
 * [How do I add the appointment types that I offer?](/help/add-appointment-types)
 * [Where do I add my physical address?](/help/add-address)
