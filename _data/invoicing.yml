@@ -23,7 +23,7 @@ homepage:
       - title: For your business
         description: <strong>Automatically generated</strong> invoices that are easy to complete, simple to send and let you <strong>keep on top of your cash flow</strong>.
       - title: For your clients
-        description: <strong>Professional</strong> invoices received by <strong>email and SMS</strong>, suitable for medical aid submission. And <strong>payment reminders</strong>!
+        description: <strong>Professional</strong> invoices received by <strong>email, SMS or in-app</strong>, suitable for medical aid submission. And <strong>payment reminders</strong>!
 
   majorFeatures:
     - summary:
@@ -43,7 +43,7 @@ homepage:
       picture_url: /assets/img/landing-pages/invoicing/lineitems.png
     - summary:
       title: Send, remind and receipt
-      description: Send invoices to your clients by email and SMS, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
+      description: Send invoices to your clients by email, SMS or in-app, remind them if they haven't paid and send a receipt once they have. All at the touch of a button.
       picture: left
       picture_url: /assets/img/landing-pages/invoicing/send-remind-receipt.png
     - summary:
@@ -71,12 +71,3 @@ homepage:
       highlight: false
     - text: Reliable customer support, keen to see you succeed!
       highlight: false
-
-
-  screenshots: []
-    # - title:
-    #   screenshot: /assets/img/landingpage/invoicing
-    # - title:
-    #   screenshot: /assets/img/landingpage/invoicing
-    # - title:
-    #   screenshot: /assets/img/landingpage/invoicing

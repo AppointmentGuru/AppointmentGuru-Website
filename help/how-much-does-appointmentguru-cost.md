@@ -13,7 +13,8 @@ Right now, AppointmentGuru has a free trial for one month (30 days) before askin
 R400 includes the following:
 
 * A mobile app and web app for managing your appointments
-* A free website and mobile app to take online bookings
+* A free website to take online bookings
+* A free mobile app for your clients to make and manage appointments with you
 * Free SMS or email reminders for yourself and your clients
 * Flexible invoicing integrated with your appointments in the AppointmentGuru app
 * Table talkers to encourage your clients to use AppointmentGuru to make appointments

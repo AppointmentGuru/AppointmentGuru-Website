@@ -22,3 +22,5 @@ Once your AppointmentGuru free trial is over, and you've decided to stick with u
 * [What's the address of my website?](/help/address-of-booking-page)
 * [Can I use my own domain name with my website?](/help/use-domain-name)
 * [I already have a website, can I add the booking widget to it?](/help/booking-widget)
+* [How do clients book appointments with me](/help/how-do-clients-book-appointments)
+* [Get your table talkers](/help/table-talkers)

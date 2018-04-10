@@ -8,11 +8,19 @@ keywords: appointment, self-service
 
 # How do my clients book appointments with me?
 
-When you sign-up to AppointmentGuru, you'll get a free website and your clients will be able to use a mobile app to make bookings with you.
+With AppointmentGuru, you'll be able to encourage your clients to manage their own appointments and also give them access to information about your business. Included in the AppointmentGuru subscription are the following:
 
-For either option, your clients will only need to choose a date and time that you're available and complete the booking by adding their phone number and email address.
+* A free website so that your clients will be able to make appointments (you can also add an AppointmentGuru booking widget to your existing website).
+* A mobile app to make a manage appointments with you.
+* Table talkers with a QR code to display at your practice. Clients can use their phone to scan the code and easily make an appointment with you.
+* Business cards with your details and AppointmentGuru QR code - the first 100 are on us.
+
+More info on the links below.
 
 ### Related articles
 
 * [What is the free website?](/help/booking-page)
 * [Is there a mobile app my clients can use?](/help/is-there-a-mobile-app)
+* [Business cards, just for you!](/help/business-cards)
+* [Get your table talkers](/help/table-talkers)
+* [Telling clients about AppointmentGuru](/help/telling-clients/)

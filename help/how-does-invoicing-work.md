@@ -45,6 +45,7 @@ If you send invoices on a monthly basis, for example, you can send an invoice th
 * Select the correct invoicing dates and choose which appointments should be included in the invoice.
 * To edit/add more details on the invoice, click on the 3 dots to the left of the client name in the *In progress* column and *Edit*.
 * Once finished, save the invoice and click on the arrow to send the invoice to your client and yourself. If you want to send it to a medical aid, click on the search icon next to *Send to email*.
+* Once your invoice has been sent, it will also be visible in the mobile app available to your clients.
 
 ![Invoice Line Items](/help/images/invoicing/invoice_lineitems.jpg){:class="img-responsive"}
 
