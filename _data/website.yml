@@ -73,13 +73,6 @@ homepage:
       highlight: false
     - text: Reliable customer support, keen to see you succeed!
       highlight: false
-  screenshots:
-    - title: Online bookings
-      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
-    - title: Manage your own appointments
-      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
-    - title: Track your progress
-      screenshot: assets/img/guru/screenshots/mobile/practitioner/iPhone7-01HomeScreen.png
 
 footer:
   about:

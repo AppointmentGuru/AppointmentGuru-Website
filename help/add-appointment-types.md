@@ -13,13 +13,13 @@ Before adding clients or scheduling appointments, you'll need to define the type
 ## The steps:
 
 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/), click on *Account* and then *Locations*.
-3. Click on the blue plus next to *Appointment types*.
-4. Add a name, price and time period for the type of appointment you offer.
+2. Click on the blue plus next to *Appointment types*.
+3. Add a name, price and time period for the type of appointment you offer.
 <!-- 5. If you want the appointment type not to be visible to your clients, select *Private*. -->
-5. Adding a number next to *Order* will specify the order of the appointment types listed on your website and in the app.
-6. Remember to Save!
+4. Adding a number next to *Order* will specify the order of the appointment types listed on your website and in the app.
+5. Remember to Save!
 
-To remove an appointment type, please [contact us](mailto:support@appointmentguru.co) and we will make the change for you.
+To remove an appointment type, please click on the Bin icon to the right of the appointment type.
 
 Repeat the above steps if you'd like to add more than one appointment type. For example, you might offer an *Introductory Consultation* and also a *Regular Consultation*.
 

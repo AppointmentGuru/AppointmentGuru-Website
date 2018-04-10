@@ -8,7 +8,7 @@ keywords: booking page, free website
 
 # What is the free website?
 
-With your AppointmentGuru account, you'll get a free website that your clients can use to book appointments with you. It displays info on your services as well as a booking widget where clients can make their appointments.
+With your AppointmentGuru account, you'll get a free website (and [mobile app for your clients](/help/is-there-a-mobile-app)!) where your clients can book appointments with you. It displays info on your services as well as a booking widget where clients can make their appointments.
 
 ## Accessing the settings of your website
 
@@ -27,3 +27,5 @@ With your AppointmentGuru account, you'll get a free website that your clients c
 * [What's the address of my website?](/help/address-of-booking-page)
 * [Can I use my own domain name with my website?](/help/use-domain-name)
 * [I already have a website, can I add the booking widget to it?](/help/booking-widget)
+* [Is there a mobile app my clients can use?](/help/is-there-a-mobile-app)
+* [How do clients book appointments with me](/help/how-do-clients-book-appointments)

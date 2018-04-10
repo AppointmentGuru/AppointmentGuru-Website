@@ -40,3 +40,5 @@ keywords: process, methodology
 * [How do I get help from AppointmentGuru?](/help/how-do-I-get-help)
 * [How do I add an appointment?](/help/add-an-appointment)
 * [Where do I add my clients?](/help/add-clients)
+* [Business cards, just for you!](/help/business-cards)
+* [Get your table talkers](/help/table-talkers)

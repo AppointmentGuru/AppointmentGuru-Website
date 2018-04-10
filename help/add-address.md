@@ -13,8 +13,9 @@ An important part of allowing your clients to schedule appointments with you is 
 ## Here are the steps
 
 1. Log into your [AppointmentGuru account](https://app.appointmentguru.co/), click on *Account* and then *Locations*.
-3. Click on *Add location* to add a new one or *Edit* to change an existing location.
-4. Add your address and contact details, remember to click on *Save*
+2. Click on *Add location* to add a new one or *Edit* to change an existing location.
+3. Add your address and contact details, remember to click on *Save*.
+4. If you'd like to have specific instructions on the appointments created for that location, add them to *Instructions for once they get there*. This will be added to the appointment info visible in the app for your clients (it won't be added to any SMS or email notifications though, that's done under *Notifications*).
 
 Should you want to add another location, repeat the steps. For example, you may have a practice at home but also offer your services from another practitioner's location once a week.
 

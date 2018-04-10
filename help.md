@@ -113,7 +113,8 @@ Need help using AppointmentGuru? Here you'll find all the info you need, if not 
 * [Can you do it for me?](can-you-do-it-for-me)
 * [Setting up your account](setting-up-your-account)
 * [Send an email to your clients telling them about AppointmentGuru](send-a-client-email)
-* [Business cards, just for you!](business-cards) -->
+* [Business cards, just for you!](business-cards)
+* [Get your table talkers](table-talkers)
 * [Linking your Facebook page and AppointmentGuru](linking-facebook)
 
 <!-- ## Known issues -->

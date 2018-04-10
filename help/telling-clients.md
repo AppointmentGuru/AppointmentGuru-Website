@@ -23,6 +23,7 @@ Clients find and contact you in different ways and it's important to keep enforc
 * [Link the action button on your Facebook page](/help/linking-facebook) to your website.
 * [Update your email signature](updating-your-signature) to include a link to your website.
 * If you have a website, add the [booking code](booking-widget).
+* We can provide you with table talkers and business cards (see links below).
 
 ### Related articles
 
@@ -33,3 +34,5 @@ Clients find and contact you in different ways and it's important to keep enforc
 * [I want to update my operating hours](/help/update-operating-hours)
 * [Where do I add my clients?](/help/add-clients)
 * [How do I add an appointment?](/help/add-an-appointment)
+* [Get your table talkers](/help/table-talkers)
+* [Business cards, just for you!](/help/business-cards)
