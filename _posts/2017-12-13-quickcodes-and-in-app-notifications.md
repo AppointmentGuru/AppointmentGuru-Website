@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "QuickCodes and in-app notifications"
+title:  "QuickCodes and in-app notifications - 13 December 2017"
 date:   2017-12-13 00:00:00 +0200
 category: announcements
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Improved support for entering your medical aid codes"
+title:  "Improved support for entering your medical aid codes - 26 January 2018"
 date: 2018-01-26 10:00:00 +0200
 category: announcements
 published: true

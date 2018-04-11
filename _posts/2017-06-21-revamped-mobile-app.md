@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Revamped mobile app and support for other appointment locations"
+title:  "Revamped mobile app and support for other appointment locations - 21 July 2017"
 date:   2017-06-22 10:00:00 +0200
 category: announcements
 published: true

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "A better AppointmentGuru app for your clients"
+title:  "A better AppointmentGuru app for your clients - 11 April 2018"
 date: 2018-04-11 08:00:00 +0200
 category: announcements
 published: true

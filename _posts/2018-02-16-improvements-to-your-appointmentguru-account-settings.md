@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Improvements to your AppointmentGuru account settings"
+title:  "Improvements to your AppointmentGuru account settings - 16 February 2018"
 date: 2018-02-16 10:00:00 +0200
 category: announcements
 published: true
