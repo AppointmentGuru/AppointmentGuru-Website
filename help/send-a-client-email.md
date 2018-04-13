@@ -12,23 +12,24 @@ We'd love to help you to encourage your clients to use AppointmentGuru to make a
 
 Please see an example of the email below, the content can be edited to suit your business and brand.
 
-> Subject line: Update on appointments with <mypracticename>
+> Subject line: Update on appointments with *mypracticename*
 >
-> Dear <clientfirstname>,
+> Dear *clientfirstname*,
 >
 > I've recently started using [AppointmentGuru](https://appointmentguru.co/) to manage my appointments and invoicing. In addition to helping me to run my business more efficiently, it will also allow you to manage your appointments with me.
 >
 > Here is some useful information about AppointmentGuru:
 >
 > 1. If you'd like to use the app to book appointments with me, you can find it on [getapp.guru](http://www.getapp.guru/).
-> 2. Alternatively, appointments can be made via my website: [website URL]().
+> 2. Alternatively, appointments can be made via my website: *website URL*.
 > 3. Once your appointments are made, you can expect reminders a day before the appointment.
-> 4. Your information will be kept safe and secure on the AppointmentGuru platform.
+> 4. You'll be able to reschedule your appointment yourself, as well as view any paid or outstanding invoices.
+> 5. Your information will be kept safe and secure on the AppointmentGuru platform.
 >
 > AppointmentGuru is a South African startup, if you have any questions or suggestions, feel free to [contact them](mailto:support@appointmentguru.co).
 >
 > Best wishes,  
-> <myname>
+> *myname*
 
 ## In order to send the email, we would need the following information:
 
