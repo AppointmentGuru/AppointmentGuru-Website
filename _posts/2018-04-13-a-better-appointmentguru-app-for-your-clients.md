@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "A better AppointmentGuru app for your clients - 11 April 2018"
-date: 2018-04-11 08:00:00 +0200
+title:  "A better AppointmentGuru app for your clients - 13 April 2018"
+date: 2018-04-13 08:00:00 +0200
 category: announcements
 published: true
 tags:
@@ -33,4 +33,4 @@ Once a client has booked the appointment, they can add a message that will refle
 
 And of course, bug fixes and small improvements are always included in each release.
 
-<div style="text-align: right">11 April 2018</div>
+<div style="text-align: right">13 April 2018</div>
