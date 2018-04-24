@@ -10,7 +10,7 @@ keywords: SMS notification, email notification, automatic notification
 
 One of the beautiful parts of AppointmentGuru are the automated notifications. Allowing notifications to automatically run in the background allows you to focus on your business and other important parts of your life.
 
-## There are six notifications that are setup by default:
+## There are eight notifications that are setup by default:
 
 1. **Payment reminder**: to remind your Client to pay their invoice, this can be sent by email or SMS.
 <br /><br />
@@ -18,11 +18,13 @@ One of the beautiful parts of AppointmentGuru are the automated notifications. A
 <br /><br />
 3. **Appointment reschedule notification**: if an existing appointment is changed, then a notification is sent by email or SMS.
 <br /><br />
-4. **Appointment reminder**: a reminder notification is sent the day before the scheduled appointment.
+4. **Appointment reschedule notification (for practitioner)**: If a client reschedules the appointment themselves (using the mobile app), this is the SMS sent to you.
+5. **Appointment reminder**: a reminder notification is sent the day before the scheduled appointment.
 <br /><br />
-5. **New appointment notification**: the notification sent to you when a new appointment is created by a Client.
+6. **New appointment notification**: the notification sent to you when a new appointment is created by a Client.
 <br /><br />
-6. **Appointment confirmation message**: the email or SMS notification that is sent to the Client when they create an appointment.
+7. **Client has added a note to this appointment**: When a client makes an appointment via the mobile app or on your website, they have the option to add a message.
+8. **Appointment confirmation message**: the email or SMS notification that is sent to the Client when they create an appointment.
 
 By default, all notifications are sent automatically (except Payment reminders) unless you've specified that they mustn't be sent when taking action on an appointment.
 

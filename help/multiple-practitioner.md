@@ -8,9 +8,9 @@ keywords: practice, multiple practitioner, many users
 
 # My business has more than one practitioner, can I use AppointmentGuru?
 
-AppointmentGuru currently offers an account that is **perfect** for a business with a single practitioner. We are adding functionality that seamlessly includes multiple practitioners in a practice and it is still in beta.
+AppointmentGuru currently offers an account that is **perfect** for a business with a single practitioner. We are adding functionality that seamlessly includes multiple practitioners in a practice(s).
 
-Here's how it would work:
+In the meantime, we have two options available:
 
 * Your own practice information \*
 * Separate accounts, each with their own login details
@@ -22,7 +22,7 @@ Here's how it would work:
 * One month free trial
 * A discount until the functionality is no longer in beta
 * AppointmentGuru monthly subscription deducted from two cards
-* Two separate websites as well as a group practice page
+* Two separate websites (a demo site: [bookme.guru/eatwell](https://bookme.guru/eatwell/)) as well as a group practice page (a demo group page: [appointmentguru.co/demo-group-page](https://appointmentguru.co/demo-group-page/))
 
 Another alternative is to use one AppointmentGuru account but create appointment types specifically for each practitioner. Here's how that would work:
 
