@@ -44,3 +44,19 @@ discoveryVitality:
     practitioners:
       - id: 363
         title: MCG Biokinetics
+
+demo:
+  title: Welcome to Eatwell Dietitians & Nutritionists and Jane Smith Biokinetics (this is a demo page)
+  description: |
+    Conveniently based in Parkhurst, Johannesburg, we are able to assist with all your Nutrition and Biokinetics needs.
+
+    Book an appointment with us below or call +27 12 345 6789 with your questions.
+  startPage: /practitioners
+  practitionerIds: '412,2138'
+  groups:
+  - title: Johannesburg
+    practitioners:
+      - id: 412
+        title: Sarah Smith
+      - id: 2138
+        title: Jane Smith
