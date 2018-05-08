@@ -82,10 +82,24 @@ We reserve the right to amend this Notice at any time and your use of the websit
 
 10.1 Any AppointmentGuru paying customer may request a refund, in writing, to [support@appointmentguru.co](mailto:support@appointmentguru.co) with full details and explanation of their request. A refund may be issued, depending on the reasonability of the request.
 
+### 11. Refer a Friend program
+
+11.1 AppointmentGuru offers a [Refer a Friend program](/refer-a-friend) whereby AppointmentGuru customers (or any other interested person) can refer another person to AppointmentGuru and get a reward.
+
+11.2 The referree has to have signed up via appointmentguru.co, used the free trial and made their first monthly subscription payment in order for the referrer to receive a discount of R400 on their AppointmentGuru subscription.
+
+11.3 Should the referrer not be an AppointmentGuru customer, they will receive a once-off R400 payment (via EFT) once the referree has become a paying AppointmentGuru customer.
+
+### 12. Online appointments
+
+12.1 Online appointments uses a Zoom integration which is an additional USD15 monthly charge outside of the monthly AppointmentGuru subscription fee.
+
+12.2 The online appointments feature is currently in beta and AppointmentGuru customers may experience some bugs and hiccups. We encourage any problems be reported.
+
 ### Service contact
 
 support@appointmentguru.com
 
 ### Last updated
 
-31 October 2017.
+8 May 2018.
