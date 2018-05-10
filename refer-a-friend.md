@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Refer a Friend
-permalink: /refer-a-friend/
+permalink: //
 description: Refer a friend to AppointmentGuru and get a free month
 keywords: refer, bonus, win, earn, AppointmentGuru referral
 ---
