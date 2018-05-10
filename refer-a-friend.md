@@ -24,7 +24,10 @@ keywords: refer, bonus, win, earn, AppointmentGuru referral
 <br>
 <center>
 <script type="text/javascript">
-        window.Maitre = { uuid: "MFdae61aff02" };
+  window.Maitre = {
+    uuid: "MFdae61aff02",
+    host: "https://appointmentguru.co"
+  };
 </script>
 <script data-maitre src="https://maitreapp.co/leadmagnet/widget.js" async></script>
 </center>
