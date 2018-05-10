@@ -22,12 +22,6 @@ keywords: appointment manager, professional, organise, reminders, notifications,
 <div class='block' style='padding:0px;' >
 {% include blocks/pricing.html features=site.data.website.homepage.pricingFeatures %}
 </div>
-<script type="text/javascript">
-  window.Maitre = {
-    uuid: "MFdae61aff02",
-    host: "https://appointmentguru.co"
-  };
-</script>
 <!--
 <div class='clearfix dark' style='margin-bottom: 80px;' ></div>
  -->
