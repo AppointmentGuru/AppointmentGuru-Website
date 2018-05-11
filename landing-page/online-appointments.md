@@ -19,7 +19,7 @@ keywords: online appointment, virtual appointment
 * Clients save on travel time and limit hours missed at work or other responsibilities.
 * Clients see you from the comfort of their own home or office (it can also reduce any associated anxiety).
 * Therapy via video has been [researched](https://www.ncbi.nlm.nih.gov/pubmed/22476305) and found to closely mimic an in-person appointment.
-* Flexibility with your work location!
+* Flexibility with your work location! Work from home, work from your office or even work on holiday.
 
 ## How does it work?
 
